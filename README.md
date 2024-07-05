@@ -60,7 +60,7 @@
    ```
 
    Donde:
-   - `question`: Enunciado de la pregunta
+   - `question`: Enunciado de la pregunta (no numerado)
    - `choices`: Alternativas de la pregunta (sin letras)
    - `answer`: Respuesta correcta de la pregunta
 
