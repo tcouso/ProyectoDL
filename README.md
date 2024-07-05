@@ -1,8 +1,7 @@
 
 ---
 
-# Evaluación de conocimientos de LLMs en historia y cultura latinoamericana
-
+# Evaluación de conocimientos de LLMs en pruebas estandarizadas de historia y lenguaje de latinoamérica
 
 ## Configuración
 
