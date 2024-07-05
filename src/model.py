@@ -69,20 +69,6 @@ def query_model(model, test_instrument_filename, client, base_prompt):
         r = chat_completion.choices[0].message.content
         model_responses.append(r)
 
-    # for response in model_responses:
-    #     try:
-    #         json_res = json.loads(response)
-    #         # print("SUCCESS")
-    #         # print(response)
-    #         # print(json_res["answer"])
-    #         # print(json_res["explanation"])
-    #         # print()
-
-    #     except Exception:
-    #         print("FAILURE")
-    #         print(response)
-    #         print()
-
     json_model_responses = [validate_and_correct_response(response)
                             for response in model_responses]
 

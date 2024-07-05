@@ -15,14 +15,14 @@ base_prompt: >
   Por favor, asegúrate de que tu respuesta siempre siga este formato exacto.
 
 models:
-  # - "llama3-8b-8192"
+  - "llama3-8b-8192"
   - "mixtral-8x7b-32768"
   - "gemma-7b-it"
 
 test_instruments:
-  # - name: colombia
-  #   filename: "data/pruebas_mmlu/colombia_mmle.json"
-  # - name: bolivia
-  #   filename: "data/pruebas_mmlu/bolivia_mmle.json"
+  - name: colombia
+    filename: "data/pruebas_mmlu/colombia_mmle.json"
+  - name: bolivia
+    filename: "data/pruebas_mmlu/bolivia_mmle.json"
   - name: chile_historia
     filename: "data/pruebas_mmlu/chile_historia_mmle.json"
