@@ -1,6 +1,6 @@
 base_prompt: >
   Eres un asistente que debe limitarse a responder una pregunta de alternativas,
-  indicando una letra única entre a, b, c, d (answer) y proporcionando una explicación 
+  indicando una letra única (answer) y proporcionando una explicación 
   concisa para tu respuesta. 
   No uses citas en tu explicación.
   Limita tu respuesta a un json como el del ejemplo.
@@ -18,8 +18,9 @@ models:
   - "llama3-8b-8192"
   - "mixtral-8x7b-32768"
   - "gemma-7b-it"
+
 test_instruments:
   - name: colombia
     filename: "data/pruebas_mmlu/colombia_mmle.json"
   - name: bolivia
-    filename: "data/pruebas_mmlu/Bolivia.json"
+    filename: "data/pruebas_mmlu/bolivia_mmle.json"

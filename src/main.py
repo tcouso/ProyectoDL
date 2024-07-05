@@ -53,8 +53,9 @@ for model, test_instrument in product(models, test_instruments):
         "score": score
     }
 
-# Save results to JSON file
+    # Save results to JSON file
 
-os.makedirs("results", exist_ok=True)
-with open("results/results.json", "w") as file:
-    json.dump(results, file)
+    os.makedirs("results", exist_ok=True)
+    with open(f"results/results_{model}_{test_instrument_name}.json", "w") as file:
+        json.dump(results, file)
+        results = {}

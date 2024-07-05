@@ -1,0 +1,425 @@
+{
+  "gemma-7b-it": {
+    "bolivia": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es la correcta ya que 'hierva' significa planta trepadora."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que cuanto m\u00e1s grande eres, m\u00e1s responsabilidades tienes. Esta es una afirmaci\u00f3n l\u00f3gica, ya que las personas m\u00e1s capaces y experimentadas tienden a tener m\u00e1s responsabilidades."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es la correcta, ya que conecta correctamente las dos frases y mantiene la fluidez de la oraci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es la correcta. La oraci\u00f3n completa ser\u00eda: Bah, a ver, si cambias la manera de ver las cosas."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es 'cima/sima'. La s\u00edlaba 'cima' se refiere a la parte m\u00e1s alta de un objeto, y la s\u00edlaba 'sima' se refiere a la parte m\u00e1s baja de un objeto."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es 'sino/sino'. La oraci\u00f3n expresa que la alta calificaci\u00f3n es el resultado de un esfuerzo constante, no de un talento innato en matem\u00e1ticas."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a es correcta. La tilde es un signo que se coloca encima de una vocal para acentuar la s\u00edlaba t\u00f3nica de una palabra."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las palabras graves o llanas no necesitan tilde por su estructura morfol\u00f3gica."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es correcta, ya que la regla de que tanto la y como la ll pueden ser utilizadas de manera indistinta es correcta."
+        },
+        {
+          "answer": "b",
+          "explanation": "Las palabras esdr\u00fajulas llevan la tilde en la pen\u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b es correcta. La palabra ah\u00ed es una interjecci\u00f3n, y la palabra ay es un adverbio demostrativo de lugar."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "En espa\u00f1ol, la palabra Jennifer debe escribirse sin ninguna tilde a pesar de que su sonido es similar a un esdr\u00fajulo."
+        },
+        {
+          "answer": "c",
+          "explanation": "En la opci\u00f3n c se indica que la oraci\u00f3n 1 lleva el verbo en presente perfecto (habido) correctamente, mientras que la oraci\u00f3n 2 lleva el verbo en presente simple (estar), que es el correcto."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d describe c\u00f3mo algunas palabras en espa\u00f1ol pueden escribirse de diferentes maneras, seg\u00fan la tilde y la acentuaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La oraci\u00f3n conserva el punto final y se completa con un punto."
+        },
+        {
+          "answer": "c",
+          "explanation": "La oraci\u00f3n describe eventos que suceden juntos, por lo que se usa la y/y/y."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b completa la oraci\u00f3n correctamente, expresando alegr\u00eda y sorpresa."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c completa la oraci\u00f3n correctamente, utilizando la coma como punto final de oraciones consecutivas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La oraci\u00f3n describe que hay m\u00e1s salas de lectura que laboratorios de f\u00edsica."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es la correcta, pues establece correctamente la estructura gramatical de la oraci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta, ya que completa la oraci\u00f3n correctamente. Dice que espera al timbre del receso, no vaya a ser que salgas del trabajo antes de tiempo pues el horario est\u00e1 controlado."
+        },
+        {
+          "answer": "c",
+          "explanation": "La oraci\u00f3n describe una situaci\u00f3n donde alguien es constantemente puntual. La opci\u00f3n c es la m\u00e1s adecuada ya que expresa exclamaci\u00f3n y sorpresa, enfatizando la necesidad de mejorar la conducta en cuanto a la puntualidad."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta. Dice que Einstein naci\u00f3 en 1879 y falleci\u00f3 en 1955."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es correcta. La coma vocativa se utiliza para establecer una pausa para la respiraci\u00f3n del lector."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los par\u00e9ntesis se utilizan para hacer comentarios y/o aclaraciones relativamente breves de un enunciado."
+        },
+        {
+          "answer": "b",
+          "explanation": "Las comillas funcionan para marcar las palabras o conceptos m\u00e1s importantes de un texto, haci\u00e9ndolos m\u00e1s visibles y f\u00e1cil de recordar."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las cursivas se utilizan para escribir creaciones humanas como pel\u00edculas, nombres de pinturas o t\u00edtulos de libros."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los dos puntos introducen enumeraciones, conclusiones, ejemplos o informaci\u00f3n que concreta lo que acaba de anunciarse."
+        },
+        {
+          "answer": "c",
+          "explanation": "El punto final indica el final de una oraci\u00f3n y la continuaci\u00f3n de una nueva oraci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "Despu\u00e9s de un signo de exclamaci\u00f3n o interrogaci\u00f3n de cierre, la oraci\u00f3n puede continuarse escribiendo, siempre y cuando se pongan puntos suspensivos, o coma o punto y coma."
+        },
+        {
+          "answer": "d",
+          "explanation": "Ambas las abreviaturas deben tener puntos."
+        },
+        {
+          "answer": "b",
+          "explanation": "Las siglas contienen las primeras letras de una expresi\u00f3n larga o compleja."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los puntos funcionan para separar p\u00e1rrafos largos, mejorando la legibilidad del texto."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra VOCAL es grave, ya que tiene un sonido bajo y denso."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra RESPONDER es grave, es decir, con un tono bajo y lento."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra CERDO es grave, lo que significa tener un sonido Recapitulante fuerte y largo."
+        },
+        {
+          "answer": "a",
+          "explanation": "RAPIDEZ se refiere a un movimiento o proceso r\u00e1pido."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es la correcta. La palabra ACERCATE se refiere a algo que est\u00e1 muy cerca o parecido a otro."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra APROXIMARSE se refiere a una cantidad que est\u00e1 cerca de otra cantidad, lo que significa que es similar o cercano en valor a la otra cantidad."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es correcta. La palabra VOLAR se refiere a un movimiento hacia arriba, y la opci\u00f3n d describe esa caracter\u00edstica."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "ASTUTO se refiere a un grado de esdr\u00fajula."
+        },
+        {
+          "answer": "b",
+          "explanation": "RIVALIDAD es una palabra que significa un fuerte sentimiento de enfrentamiento o competitividad entre dos o m\u00e1s grupos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que la palaba PARSIMONIA es sobrecargar un lenguaje con palabras e ideas simples, lo que es correcto."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra CORCEL significa esdr\u00fajula, lo que se refiere a algo que tiene una curvatura irregular o no es completamente recto."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra RUIDO es una palabra grave, lo que significa que tiene un sonido prolongado y completo."
+        },
+        {
+          "answer": "c",
+          "explanation": "Indolente significa carente de entusiasmo o actividad. Esdr\u00fajula es un t\u00e9rmino que describe un grado de pendiente o curvatura bajo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra HU\u00cdR es grave, lo que significa que tiene un sonido bajo y denso."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "Torax es la \u00fanica palabra que no necesita llevar una tilde."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "Fotojenico no es una palabra correcta."
+        },
+        {
+          "answer": "b",
+          "explanation": "La ortograf\u00eda acentual se coloca sobre la vocal t\u00f3nica de una palabra para indicar una mayor intensidad en su pronunciaci\u00f3n."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "Un hiato es una pausa o espacio en la pronunciaci\u00f3n de una palabra. La palabra 'mientras' tiene un hiato porque contiene una pausa entre las dos vocales."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es la correcta, ya que utiliza la preposici\u00f3n de caso \u201ccon\u201d correctamente, y la concordancia en g\u00e9nero y n\u00famero es adecuado."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es la que sigue las reglas de acentuaci\u00f3n correctamente."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La oraci\u00f3n correcta es la c. La alternativa c es la \u00fanica que tiene la construcci\u00f3n gramatical correcta."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es la \u00fanica que utiliza la preposici\u00f3n correcta para la construcci\u00f3n de la oraci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es la \u00fanica que presenta la acentuaci\u00f3n adecuada."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la \u00fanica que combina correctamente la conjugaci\u00f3n del verbo llevar con la estructura de la oraci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "Las vibraciones de las cuerdas vocales causan el movimiento de la lengua sobre la ra\u00edz de los dientes superiores al emitir un sonido."
+        },
+        {
+          "answer": "d",
+          "explanation": "Un sonido es articulado oclusivo cuando despu\u00e9s de una oclusi\u00f3n hay una fricaci\u00f3n."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es una frase y no una proposici\u00f3n, ya que no expresa una proposici\u00f3n completa."
+        },
+        {
+          "answer": "a",
+          "explanation": "La oraci\u00f3n compuesta es aquella que contiene dos o m\u00e1s cl\u00e1usulas su Coordinating o subordinantes."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra CORAZ\u00d3N es un sustantivo, que es un tipo de palabra que representa un objeto f\u00edsico o un concepto concreto."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra FANASMA es un sustantivo, como se indica en la opci\u00f3n b."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra ODIO es un sustantivo, ya que se refiere a una entidad f\u00edsica o material."
+        },
+        {
+          "answer": "b",
+          "explanation": "Un aut\u00f3mata es un objeto f\u00edsico que puede realizar tareas sin intervenci\u00f3n humana."
+        },
+        {
+          "answer": "c",
+          "explanation": "Prehist\u00f3rico se refiere a la \u00e9poca o edad que se extiende desde el final de la Era Cenozoica hasta el inicio de la Era Hist\u00f3rica."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra LLUEVE es un verbo impersonal, es decir que no se refiere a un sujeto espec\u00edfico."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra SIN es un verbo impersonal, es decir, no se refiere a un sujeto espec\u00edfico."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra HE es un auxiliar del verbo que se utiliza para expresar la cantidad o cantidad de tiempo."
+        },
+        {
+          "answer": "a",
+          "explanation": "APLAZARSE es un verbo impersonal, que se refiere a un cambio de lugar o posici\u00f3n."
+        }
+      ],
+      "score": 0.23076923076923078
+    }
+  }
+}
