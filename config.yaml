@@ -1,4 +1,19 @@
-base_prompt: "Responde la siguiente pregunta, exclusivamente con la letra de la respuesta que elijas. No agregues ninguna explicación."
+base_prompt: >
+  Eres un asistente que debe limitarse a responder una pregunta de alternativas,
+  indicando una letra única entre a, b, c, d (answer) y proporcionando una explicación 
+  concisa para tu respuesta. 
+  No uses citas en tu explicación.
+  Limita tu respuesta a un json como el del ejemplo.
+  No olvides seguir el formato json para tu respuesta, procurando cerrar los corchetes que abras:
+  Ejemplo:
+
+  {
+    "answer": "d",
+    "explanation": "La alternativa d dice que el agua se dilata entre los 0 y 4 grados, lo que es correcto."
+  }
+
+  Por favor, asegúrate de que tu respuesta siempre siga este formato exacto.
+
 models:
   - "llama3-8b-8192"
   - "mixtral-8x7b-32768"
