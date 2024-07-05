@@ -42,6 +42,29 @@
    - `models`: Lista de modelos disponibles para consultar.
    - `test_instruments`: Lista de instrumentos de prueba, cada uno con un nombre y un archivo JSON asociado.
 
+4. **Formato de los datos**
+
+   Los datos de entrada corresponden a pruebas estandarizadas en el siguiente formato:
+
+   ```json
+   {
+        "question": "El concepto desarrollo sostenible  se basa en la premisa de satisfacer las \nnecesidades de las generaciones presentes sin comprometer a las generaciones \nfuturas. Respecto a la necesi dad de alcanzar dicho propósito  y, a la vez, favorecer \nun mayor crecimiento y desarrollo económico, ¿qué desa fío se le presenta al \nEstado chileno?",
+        "choices": [
+            "Priorizar la obtención de ganancias a partir de la explotación de recursos no \nrenovables.",
+            "Incrementar los puestos de trabajo en el sector primario de la economía.",
+            "Promover modelos de consumo basados en el uso responsable de los \nrecursos naturales.",
+            "Suprimir la importación de bienes originados mediante la producción industrial.",
+            "Aumentar la compra de combustibles fósiles provenientes de otros países."
+        ],
+        "answer": "c"
+    },
+   ```
+
+   Donde:
+   - `question`: Enunciado de la pregunta
+   - `choices`: Alternativas de la pregunta (sin letras)
+   - `answer`: Respuesta correcta de la pregunta
+
 ## Uso
 
 Para ejecutar la consulta de modelos, usa el script principal `query_models.py`:
