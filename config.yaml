@@ -6,3 +6,5 @@ models:
 test_instruments:
   - name: colombia
     filename: "data/pruebas_mmlu/colombia_mmle.json"
+  - name: bolivia
+    filename: "data/pruebas_mmlu/Bolivia.json"
