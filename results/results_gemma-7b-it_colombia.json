@@ -1,0 +1,205 @@
+{
+  "gemma-7b-it": {
+    "colombia": {
+      "responses": [
+        {
+          "answer": "b",
+          "explanation": "Las dos afirmaciones respaldan el vegetarianismo, pero la segunda afirma que el consumo de productos de origen animal es un acto amoral, mientras que la primera afirma que consumir carne es nocivo para los humanos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d reconoce la posibilidad de que la pobreza y la falta de oportunidades puedan llevar a la delincuencia, desafiando la afirmaci\u00f3n de que los habitantes de escasos recursos econ\u00f3micos ser\u00edan un peligro para los habitantes actuales del barrio."
+        },
+        {
+          "answer": "a",
+          "explanation": "El enunciado contiene un prejuicio cuestionable ya que asocia la orientaci\u00f3n sexual con los patrones biol\u00f3gicos generales de la poblaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "El orden cronol\u00f3gico es 3, 1, 2 y 4."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las dos posiciones adoptan perspectivas diferentes sobre la soluci\u00f3n al problema del narcotr\u00e1fico. Una aboga por la legalizaci\u00f3n como alternativa, mientras que la otra lo hace por el endurecimiento de las sanciones."
+        },
+        {
+          "answer": "d",
+          "explanation": "La soluci\u00f3n adoptada se ajusta a los intereses de todos los vecinos, ya que todos ellos tuvieron la oportunidad de exponer sus ideas y votar sobre la propuesta."
+        },
+        {
+          "answer": "a",
+          "explanation": "La soluci\u00f3n encuentra un punto medio entre los intereses de la constructora y los ambientalistas, ya que reduce gradualmente el impacto ambiental sin impedir que la constructora complete su proyecto."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las tres propuestas presentan soluciones complementarias, ya que se basan en diferentes estrategias para abordar los problemas asociados con la urbanizaci\u00f3n en Am\u00e9rica Latina."
+        },
+        {
+          "answer": "c",
+          "explanation": "El referendo es el procedimiento legal para modificar la Constituci\u00f3n Pol\u00edtica de Colombia."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n pol\u00edtica de Colombia establece que se requiere un ciudadano para proponer una iniciativa popular para reformar una ley."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n solo puede ser reformada por medio de una Asamblea Constituyente, no por el Ejecutivo."
+        },
+        {
+          "answer": "c",
+          "explanation": "Los se\u00f1alamientos en contra del alcalde se basan en la afirmaci\u00f3n de que el alcalde incluy\u00f3 inversiones en v\u00edas e iluminaci\u00f3n en el PBOT que no estaban presentes en el Plan de Desarrollo inicial, lo que sugiere un uso indebido del poder."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es la Rama Legislativa. La Constituci\u00f3n Pol\u00edtica de Colombia establece que la Rama Legislativa es la que puede ejercer control pol\u00edtico a trav\u00e9s de citaciones y mociones de censura."
+        },
+        {
+          "answer": "b",
+          "explanation": "El referendo es un mecanismo de participaci\u00f3n directa que permite a la ciudadan\u00eda tomar decisiones vinculantes sobre leyes o normas constitucionales."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las caricaturas representan un per\u00edodo de violencia pol\u00edtica y conflicto social en Colombia, conocido como La Violencia Pol\u00edtica."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "El planteamiento describe la perspectiva de un investigador, quien se encuentra fuera del conflicto y califica la naturaleza irregular y poco convencional de la guerra."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es que las medidas implementadas buscan reducir el tama\u00f1o del Estado y su participaci\u00f3n en la regulaci\u00f3n de actividades econ\u00f3micas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La propuesta busca impulsar la productividad a trav\u00e9s de la eliminaci\u00f3n de obst\u00e1culos, la promoci\u00f3n de empleos y la mejora de la regulaci\u00f3n, caracter\u00edsticas propias de la democracia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta a la pregunta se encuentra en el reconocimiento del papel central del Estado en la buena gesti\u00f3n y administraci\u00f3n de los recursos p\u00fablicos, lo que es una cr\u00edtica al modelo neoliberal."
+        },
+        {
+          "answer": "a",
+          "explanation": "El fragmento define el proteccionismo como el uso de impuestos a las importaciones para proteger a las empresas nacionales. Por lo tanto, solo se justificar\u00eda el uso del modelo proteccionista cuando las empresas nacionales no puedan competir con las extranjeras."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es que el desplazamiento forzado pone en evidencia, indirectamente, los intereses econ\u00f3micos de los actores en conflicto."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta. La secuencia cronol\u00f3gica de las revoluciones mencionadas es la siguiente: Revoluci\u00f3n mexicana, Revoluci\u00f3n rusa, Revoluci\u00f3n cubana, Revoluci\u00f3n nicarag\u00fcense."
+        },
+        {
+          "answer": "d",
+          "explanation": "Las alternativas 1 y 2 relacionan directamente con los problemas que viven los agricultores en Colombia, como la escasez de recursos naturales no renovables y la desigualdad en la propiedad de la tierra."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) indica que la acci\u00f3n de tutela se puede presentar ante un juez cuando se vulnera el derecho a la salud, ya que la vida de la persona se encuentra en riesgo."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es la c. Las movimientos y acciones que visibilizan a personas con orientaci\u00f3n sexual diferente a la general promocionan y reivinden los derechos, y denuncian la exclusi\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a indica que la Revoluci\u00f3n Industrial result\u00f3 en el traslado del campo a la ciudad y el surgimiento del proletariado urbano, ya que la producci\u00f3n en masa permiti\u00f3 la producci\u00f3n de bienes de consumo masivos, lo que a su vez dio lugar a la concentraci\u00f3n de la poblaci\u00f3n en las ciudades."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La posici\u00f3n del funcionario enfatiza que el estudio no considera los distintos contextos de las agresiones, lo que podr\u00eda llevar a una no evaluaci\u00f3n precisa de la gravedad de los actos de violencia en contra de las mujeres."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta. La sustituci\u00f3n de importaciones consist\u00eda en producir los bienes que tradicionalmente se tra\u00edan del exterior para reducir la dependencia de las importaciones."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d describe la pr\u00e1ctica de aplicar impuestos progresivos, donde los m\u00e1s ricos pagan m\u00e1s impuestos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que el socialismo busca lograr la tenencia colectiva de los medios de producci\u00f3n y la consolidaci\u00f3n del poder pol\u00edtico en las clases trabajadoras, lo que es una caracter\u00edstica principal del socialismo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La poblaci\u00f3n de las ciudades objetivo puede tener necesidades y deseos distintos a los de Bogot\u00e1, lo que requiere un estudio m\u00e1s profundo de las necesidades del mercado local."
+        },
+        {
+          "answer": "b",
+          "explanation": "Palestina a\u00fan no ha ganado el reconocimiento internacional como Estado, lo que significa que no tiene fronteras oficiales ni reconocimiento formal de sus soberan\u00eda."
+        },
+        {
+          "answer": "c",
+          "explanation": "La decisi\u00f3n de nombrar directamente al estudiante con mejor desempe\u00f1o vulnera el derecho de los estudiantes a tener y utilizar mecanismos de participaci\u00f3n, ya que no se les permite elegir a su representante."
+        },
+        {
+          "answer": "c",
+          "explanation": "La Constituci\u00f3n Pol\u00edtica de Colombia enfatiza la protecci\u00f3n y reconocimiento de los derechos y culturas ind\u00edgenas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La tambi\u00e9n es contra la igualdad de g\u00e9nero, ya que implica la discriminaci\u00f3n hacia las mujeres en el acceso a la palabra. "
+        },
+        {
+          "answer": "c",
+          "explanation": "La Constituci\u00f3n establece la protecci\u00f3n de la diversidad \u00e9tnica y cultural como una de sus funciones, lo que implica respetar las tradiciones y culturas de las comunidades ind\u00edgenas."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los ciudadanos deber\u00edan revisar el plan de gobierno para ver si hab\u00eda propuestas en el tema de seguridad."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) enfatiza la libertad individual y la responsabilidad personal, puntos de partida b\u00e1sicos para la propuesta de legalizaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La afirmaci\u00f3n atribuye la responsabilidad de la violencia sexual a las v\u00edctimas, en lugar de abordar los problemas estructurales relacionados con la violencia sexual."
+        },
+        {
+          "answer": "c",
+          "explanation": "La propuesta implica intereses en conflicto entre los residentes, que buscan seguridad, y el gobierno local, que debe garantizar el bienestar de la comunidad."
+        },
+        {
+          "answer": "b",
+          "explanation": "La decisi\u00f3n de la Corte Constitucional reconoce el derecho de conciencia del soldado, y por tanto, ordenarle cumplir su servicio militar corresponde con este fallo."
+        },
+        {
+          "answer": "d",
+          "explanation": "Esta opci\u00f3n vulnera m\u00e1s el derecho a la educaci\u00f3n al reducir las horas de clases y trasladar a los ni\u00f1os a escuelas fuera de la zona afectada, lo que podr\u00eda afectar la calidad de la educaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es la c. La econom\u00eda y la ambiental est\u00e1n en conflicto. La econom\u00eda china depende de las industrias pesadas, que contribuyen a la contaminaci\u00f3n, lo que crea un conflicto entre las dos dimensiones."
+        },
+        {
+          "answer": "d",
+          "explanation": "La expulsi\u00f3n de los vendedores ambulantes podr\u00eda llevar a la p\u00e9rdida de ingresos de las familias que de ellos dependieron."
+        }
+      ],
+      "score": 0.5510204081632653
+    }
+  }
+}

@@ -8,23 +8,34 @@ def validate_and_correct_response(response_text):
         response = json.loads(response_text)
         if "answer" in response and "explanation" in response:
             return response
+        
         else:
             raise ValueError("Missing required fields")
+        
     except (json.JSONDecodeError, ValueError):
         # If parsing fails, attempt to correct common issues
+
         response_text = response_text.strip()
+
         if response_text.startswith("{") and not response_text.endswith("}"):
             response_text += "}"
+
         if response_text.endswith("}") and not response_text.startswith("{"):
             response_text = "{" + response_text
+
         try:
+            # Attempt to parse the JSON
             response = json.loads(response_text)
             if "answer" in response and "explanation" in response:
+                
                 return response
             else:
+                
                 raise ValueError("Missing required fields")
+            
         except (json.JSONDecodeError, ValueError):
             # If it still fails, return a default error response
+            
             return {"answer": "", "explanation": "Error: Invalid response format"}
 
 

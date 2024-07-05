@@ -1,0 +1,425 @@
+{
+  "mixtral-8x7b-32768": {
+    "bolivia": {
+      "responses": [
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n correcta es 'planta' porque es un t\u00e9rmino gen\u00e9rico que se refiere a un ser vivo que crece en la tierra y obtiene su nutrici\u00f3n del suelo y el agua, al contrario de 'hierva', 'yerba' y 'ierba', que son variantes ortogr\u00e1ficas de la misma palabra y significan 'hierba seca' o 'pasto'."
+        },
+        {
+          "answer": "c",
+          "explanation": "La forma correcta es 'm\u00e1s/m\u00e1s/M\u00e1s' porque 'eres' y 'tienes' son formas del presente de indicativo, y el adjetivo 'grande' debe concordar en may\u00fascula con 'responsabilidades'."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n correcta es 'por que/ porque'. La primera parte es una preposici\u00f3n y la segunda parte es una conjunci\u00f3n que introduce la oraci\u00f3n subordinada."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta para completar la oraci\u00f3n ser\u00eda 'Va/ A ver/ vez', ya que 'va' es una forma del verbo 'ir' que indica futuro, 'a ver' expresa curiosidad o expectaci\u00f3n, y 'vez' es la forma correcta del pronombre personal en tercera persona del singular del modo subjuntivo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es 'Cu\u00e1nto/ Qu\u00e9'. En la primera parte de la oraci\u00f3n se requiere el pronombre relativo 'que' (sin tilde) porque el sentido es 'la cantidad que', y en la segunda parte de la oraci\u00f3n se requiere 'Qu\u00e9' (con tilde) porque introduce una pregunta indirecta."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n correcta es d: baya/ vaya/ Valla. En esta opci\u00f3n, 'baya' es el arbusto frondoso al que se refiere la oraci\u00f3n, 'vaya' es una exclamaci\u00f3n que puede usarse en el contexto de la oraci\u00f3n, y 'Valla' es la cerca de alambre."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a es la correcta porque 'sima' se refiere a un hueco o cavidad profunda, mientras que 'cima' significa el punto m\u00e1s alto de una monta\u00f1a. Esto se ajusta al contexto dado en la pregunta."
+        },
+        {
+          "answer": "d",
+          "explanation": "La palabra examen est\u00e1 bien escrita, as\u00ed como las palabras 'trav\u00e9s' y 'quiz\u00e1s'."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n correcta es (a) porque los dos primeros 'cu\u00e1nto' van seguidos de un sustantivo, por lo que deben ir en forma interrogativa. El tercer 'qu\u00e9' introduce una oraci\u00f3n subordinada, por lo que tambi\u00e9n debe ir en forma interrogativa."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es 'sino/si no', ya que la primera frase debe completarse con una cl\u00e1usula que indique la condici\u00f3n para el fallo en la prueba, y la segunda frase debe completarse con una cl\u00e1usula que indique la raz\u00f3n por la cual el \u00e9xito no implica talento sino esfuerzo."
+        },
+        {
+          "answer": "a",
+          "explanation": "La tilde es un signo en forma de rayita que sirve para acentuar una s\u00edlaba t\u00f3nica en palabras que no son graves o llanas."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las palabras graves o llanas no necesitan tilde por su estructura morfol\u00f3gica, a menos que existan reglas espec\u00edficas que lo requieran."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "Las palabras esdr\u00fajulas llevan la tilde en la pen\u00faltima s\u00edlaba, opci\u00f3n (b)."
+        },
+        {
+          "answer": "c",
+          "explanation": "W\u00e1wa es un quechuismo que, debido a la influencia del espa\u00f1ol, se transform\u00f3 en guagua. Ambas graf\u00edas son aceptadas, pero w\u00e1wa debe escribirse en cursivas."
+        },
+        {
+          "answer": "b",
+          "explanation": "Ah\u00ed es un adverbio demostrativo de lugar y ay es una interjecci\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "Hecho y echo son el participio del verbo hacer (hecho) y el indicativo en primera persona presente de echar (echo), respectivamente."
+        },
+        {
+          "answer": "b",
+          "explanation": "En espa\u00f1ol, la palabra Jennifer se pronuncia como si fuera una palabra esdr\u00fajula pero no lleva tilde porque termina en 'n' o 's'."
+        },
+        {
+          "answer": "d",
+          "explanation": "Las dos oraciones son sencillas con el mismo verbo \"haber\", el cual est\u00e1 bien empleado en ambas."
+        },
+        {
+          "answer": "e",
+          "explanation": "Todas las opciones presentan palabras con diferentes formas de escritura seg\u00fan la tilde y la acentuaci\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es correcta porque se usa una coma para separar el saludo del resto de la oraci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es 'y/y/y', porque la conjunci\u00f3n 'y' se usa para unir elementos en una enumeraci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n adecuada es \u00a1!, ya que indica sorpresa, y es la emoci\u00f3n que mejor se ajusta a la situaci\u00f3n descrita en la oraci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es ',' seguido de '/' y luego '.' porque se est\u00e1n uniendo dos cl\u00e1usulas independientes con una conjunci\u00f3n y se necesita un punto al final de la oraci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta porque coloca una coma despu\u00e9s de la primera cl\u00e1usula independiente 'Esta universidad tiene sobre todo salas de lectura', seguido de un punto y coma entre la segunda cl\u00e1usula independiente 'aqu\u00e9lla tiene en cambio laboratorios de f\u00edsica'."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n correcta es d: 'Disculpe, se\u00f1or, pero la oficina ya est\u00e1 cerrada, podr\u00eda regresar ma\u00f1ana.' Cada parte de la oraci\u00f3n debe estar separada por una coma (,), y tambi\u00e9n se necesita una coma despu\u00e9s del saludo y antes de la conjunci\u00f3n 'pero'."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b completa mejor la oraci\u00f3n, sugiriendo que la persona debe esperar al timbre del receso y que no debe irse antes de tiempo."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta, ya que el interlocutor est\u00e1 preguntando la hora (\u00bfqu\u00e9 hora es?) y se\u00f1ala que la persona impuntual debe mejorar (tienes que mejorar esa parte de ti). El uso correcto de signos de admiraci\u00f3n y de interrogaci\u00f3n se incluye tambi\u00e9n en esta opci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta porque la vida de Albert Einstein se desarroll\u00f3 entre dos puntos (comas) y termina con un punto y seguido (;)."
+        },
+        {
+          "answer": "d",
+          "explanation": "La coma vocativa se utiliza para hacer una pausa en la lectura y marcar el llamado al interlocutor, por lo que la opci\u00f3n d es correcta."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los par\u00e9ntesis se utilizan para aislar informaci\u00f3n breve que complementa un enunciado, como comentarios o aclaraciones, lo que coincide con la opci\u00f3n a."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las comillas se utilizan en citas textuales y para se\u00f1alar el car\u00e1cter especial de una palabra."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las cursivas se utilizan para escribir creaciones humanas como pel\u00edculas, nombres de pinturas o t\u00edtulos de libros."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los dos puntos se usan para introducir enumeraciones, conclusiones o ejemplos que concreten lo que se acaba de anunciar."
+        },
+        {
+          "answer": "c",
+          "explanation": "El punto final cierra una oraci\u00f3n y permite comenzar una nueva en el mismo p\u00e1rrafo o en otro."
+        },
+        {
+          "answer": "c",
+          "explanation": "Luego de un signo de exclamaci\u00f3n o interrogaci\u00f3n de cierre, puede colocarse un punto seguido o final, lo que indica que la oraci\u00f3n ha terminado."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las abreviaturas tienen puntos y las siglas no. Por ejemplo, Se\u00f1or se abrevia como Sr. (con puntos) y Organizaci\u00f3n de las Naciones Unidas como ONU (sin puntos)."
+        },
+        {
+          "answer": "b",
+          "explanation": "Las siglas son normalmente formadas por las primeras letras de cada una de las palabras de una expresi\u00f3n larga o compleja"
+        },
+        {
+          "answer": "c",
+          "explanation": "Los puntos seguidos (puntuaci\u00f3n que indica el final de una oraci\u00f3n) se utilizan para separar oraciones. Si una oraci\u00f3n es particularmente larga, usar puntos seguidos puede ayudar a dividirla y hacerla m\u00e1s f\u00e1cil de leer."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'VOCAL' es aguda porque su acento t\u00f3nico recae en la \u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra RESPONDER tiene el acento t\u00f3nico en la \u00faltima s\u00edlaba, por lo que es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'CERDO' tiene acento en la \u00faltima s\u00edlaba, por lo que es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra rapidez tiene el acento t\u00f3nico en la s\u00edlaba final, por lo que es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra mam\u00edfero tiene el acento t\u00f3nico en la s\u00edlaba final, por lo que es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'ACERCATE' es aguda porque su acento recae en la \u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'APROXIMARSE' es aguda porque su acento recae sobre la \u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra PR\u00d3XIMO tiene \u00e9nfasis en la antepen\u00faltima s\u00edlaba, lo que la hace aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra VOLAR tiene el acento t\u00f3nico en la \u00faltima s\u00edlaba, por lo tanto, es aguda."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'PEDAGOGO' tiene el acento t\u00f3nico en la \u00faltima s\u00edlaba, por lo que es una palabra grave."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'ASTUTO' tiene el acento t\u00f3nico en la \u00faltima s\u00edlaba, por lo que es una palabra grave."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra RIVALIDAD es grave porque su acento recae en la antepen\u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'PIE' tiene \u00e9nfasis en la \u00faltima s\u00edlaba, por lo que es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra EVALUACI\u00d3N tiene \u00e9nfasis en la pen\u00faltima s\u00edlaba, lo que la hace aguda."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'M\u00c1GICO' es grave porque la s\u00edlaba t\u00f3nica es la pen\u00faltima."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'C\u00c1RCEL' es grave porque la s\u00edlaba t\u00f3nica es la pen\u00faltima."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra PARSIMONIA tiene la acentuaci\u00f3n en la \u00faltima s\u00edlaba, por lo tanto, es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra CORCEL tiene el acento t\u00f3nico en la \u00faltima s\u00edlaba, por lo que es aguda."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra RUIDO es grave porque su acento recae en la antepen\u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'INDOLENTE' es grave porque la acentuaci\u00f3n cae sobre la pen\u00faltima s\u00edlaba."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'HU\u00cdR' es aguda porque la s\u00edlaba t\u00f3nica es la \u00faltima."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra PL\u00c1STICA solo tiene una s\u00edlaba t\u00f3nica al final, por lo que es aguda."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra EXASPERANTE tiene la acentuaci\u00f3n en la pen\u00faltima s\u00edlaba, por lo que es una palabra grave."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra REGALAR solo tiene una s\u00edlaba t\u00f3nica en la \u00faltima s\u00edlaba, por lo que es aguda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra PITUITARIA tiene el acento en la antepen\u00faltima s\u00edlaba, por lo tanto es aguda."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'torax' no necesita llevar tilde porque termina en 'x', y las palabras que terminan en 'n', 's' o 'x' no llevan tilde."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'audaz' no necesita llevar tilde porque todas sus s\u00edlabas son abiertas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra correcta es 'fotog\u00e9nico', no 'fotojenico'."
+        },
+        {
+          "answer": "c",
+          "explanation": "El acento diacr\u00edtico se utiliza para diferenciar palabras que se escriben igual pero tienen diferente significado, como en el caso de s\u00e9 (conocer) y d\u00e9 (entregue)"
+        },
+        {
+          "answer": "a",
+          "explanation": "Un hiato es una sucesi\u00f3n de dos vocales que se pronuncian en s\u00edlabas diferentes. En la palabra 'Bohemio', las vocales 'o' e 'i' forman un hiato porque no hay consonante entre ellas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b es un hiato porque contiene dos vocales abiertas en s\u00edlabas diferentes."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d, Cirug\u00eda, contiene un hiato. Un hiato es una pronunciaci\u00f3n de dos vocales juntas en una palabra, donde cada vocal pertenece a distintas s\u00edlabas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n correcta es d, ya que el posesivo de t\u00fa es tu y el pronombre \u00e9l ya indica la posesi\u00f3n en la frase '\u00e9l vive con el esposo de tu abuela'."
+        },
+        {
+          "answer": "b",
+          "explanation": "En espa\u00f1ol, cuando un pronombre personal t\u00f3nico (como m\u00ed o yo) va junto a otro, deben llevar tilde los dos. Por lo tanto, la opci\u00f3n correcta es 'A m\u00ed y a mi hermano'."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es la correcta porque no debe haber espacios entre la tilde y la palabra ni entre la palabra y la siguiente may\u00fascula."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es c, porque el verbo 'estar' debe ir en tercera persona del presente del indicativo: 'est\u00e1'."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es la correcta porque el verbo 'perm\u00edteme' lleva acento escrito y la palabra 'detalladamente' tambi\u00e9n est\u00e1 acentuada correctamente."
+        },
+        {
+          "answer": "b",
+          "explanation": "La forma correcta de escribir la oraci\u00f3n es con acento en el primer 's\u00e9', como en la opci\u00f3n b."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 's\u00ed' que sigue a la coma debe llevar acento y la palabra 'si' que aparece despu\u00e9s debe escribirse sin acento."
+        },
+        {
+          "answer": "b",
+          "explanation": "La forma correcta es 'a\u00fan' con tilde porque significa 'incluso' o 'todav\u00eda' en este contexto."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es c. En la primera cl\u00e1usula, el verbo 'ser' debe concordar con el pronombre 'yo' en la primera persona del presente de indicativo, por lo que la forma correcta es ' S\u00e9 '. En la segunda cl\u00e1usula, se utiliza el pronombre 'lo' como objeto directo de la oraci\u00f3n, por lo que la forma correcta es 'lo s\u00e9'."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es la correcta porque el encl\u00edtico 'cu\u00e1ndo' debe llevar tilde cuando aparece enunciado independientemente, pero al formar una pregunta ret\u00f3rica con el verbo 'not\u00e9' se une a \u00e9l y pierde la tilde."
+        },
+        {
+          "answer": "c",
+          "explanation": "La \u00fanica opci\u00f3n correcta es la c, donde se acent\u00faan tanto '\u00e9xito' como 'mi'."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n correcta es c porque la concordancia del verbo con el pronombre es correcta y el verbo 'dale' est\u00e1 conjugado en la forma correcta para el pronombre 'le'."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n correcta es d, donde 'progenit\u00f3res' est\u00e1 acentuado correctamente. En espa\u00f1ol, las palabras agudas como 'progenitores' llevan acento cuando terminan en 's' o 'n'."
+        },
+        {
+          "answer": "a",
+          "explanation": "La forma correcta es la opci\u00f3n a, ya que tanto 'cu\u00e1nto' como 'qu\u00e9' deben llevar tilde."
+        },
+        {
+          "answer": "d",
+          "explanation": "La forma correcta es 'Ll\u00e9veselo cu\u00e1nto antes y d\u00e9selo a cualquiera'. En este caso, tanto 'cu\u00e1nto' como 'd\u00e9' llevan tilde porque son formas interrogativas/exclamativas de 'cuanto' y 'de'. En las opciones (a), (b) y (c), 'cuanto' y 'des' est\u00e1n escritos incorrectamente."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b es correcta porque los sonidos alveolares se producen cuando el flujo de aire se interrumpe con la lengua en el \u00e1rea sobre los dientes superiores, justo detr\u00e1s de los alveolos (los huesos que sostienen los dientes)"
+        },
+        {
+          "answer": "a",
+          "explanation": "Un sonido oclusivo se produce cuando se da un cierre total en la articulaci\u00f3n, pero de forma moment\u00e1nea, impidiendo el paso del aire hasta que se libera la oclusi\u00f3n, como en el caso de la consonante /p/."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra correctamente escrita es 'Vagabundo'."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'cevo' no existe en espa\u00f1ol, por lo que est\u00e1 incorrectamente escrita."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'Sierbo' est\u00e1 incorrectamente escrita; deber\u00eda ser 'Siervo'."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'Esfinje' no existe en el idioma espa\u00f1ol, la correcta ser\u00eda 'Esfinge'."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n correcta es d, Tal vez, porque las palabras 'tal vez' se escriben siempre juntas y con tilde en la segunda palabra."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es una proposici\u00f3n y no una oraci\u00f3n porque no tiene un verbo en forma personal."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es una oraci\u00f3n compuesta por que contiene dos cl\u00e1usulas independientes: 'la mayor de las verdades es' y 'que la vida duele'."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'CORAZ\u00d3N' es un sustantivo concreto, ya que se refiere a un \u00f3rgano f\u00edsico espec\u00edfico."
+        },
+        {
+          "answer": "d",
+          "explanation": "La palabra 'FANTASMA' es un sustantivo que se refiere a una aparici\u00f3n o imagen que no es real y a menudo se considera aterradora. Se clasifica como inanimado porque no tiene vida ni puede realizar acciones como un ser vivo."
+        },
+        {
+          "answer": "d",
+          "explanation": "La palabra 'odio' es una expresi\u00f3n abstracta de un sentimiento, no se refiere a un objeto material o concreto, por lo que la opci\u00f3n correcta es 'Inanimado'."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra AUTOPISTA es un sustantivo concreto ya que se refiere a algo tangible y material, en este caso, a una v\u00eda r\u00e1pida para autom\u00f3viles."
+        },
+        {
+          "answer": "a",
+          "explanation": "Cavern\u00edcola es un sustantivo primitivo que se refiere a una persona que habita en cavernas o vive como en la edad de piedra."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra 'llueve' es un verbo impersonal porque no requiere de un sujeto expl\u00edcito."
+        },
+        {
+          "answer": "d",
+          "explanation": "La palabra 'sin' no es un verbo. Es una preposici\u00f3n o adverbio que indica ausencia o privaci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La palabra 'HE' no es un verbo. Puede ser una forma del pronombre personal masculino en espa\u00f1ol, pero no es un verbo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La palabra 'APLAZARSE' es un verbo pronominal, ya que requiere la inclusi\u00f3n del pronombre reflexivo 'SE' para su correcto uso."
+        }
+      ],
+      "score": 0.5384615384615384
+    }
+  }
+}

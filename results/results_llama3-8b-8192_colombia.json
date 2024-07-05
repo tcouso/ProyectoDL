@@ -1,0 +1,205 @@
+{
+  "llama3-8b-8192": {
+    "colombia": {
+      "responses": [
+        {
+          "answer": "b",
+          "explanation": "No son complementarias porque la primera se centra en el dolor y las energ\u00edas negativas que se transmiten al consumidor, mientras que la segunda se enfoca en el abuso y la insensibilidad del ser humano hacia los animales."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d se refiere a que la pobreza y la falta de oportunidades pueden llevar a la comisi\u00f3n de delitos, lo que es un argumento v\u00e1lido en contra de las afirmaciones de los habitantes del barrio de clase media, ya que no asumen que la pobreza es causal de la delincuencia."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d establece una condici\u00f3n impl\u00edcita para la participaci\u00f3n de los homosexuales en la educaci\u00f3n, que puede ser considerada discriminatoria y prejuiciosa."
+        },
+        {
+          "answer": "c",
+          "explanation": "El asesinato de Rafael Uribe Uribe ocurri\u00f3 en 1914, el de Jorge Eli\u00e9cer Gait\u00e1n en 1948, el de Luis Carlos Gal\u00e1n en 1989 y el de \u00c1lvaro G\u00f3mez Hurtado en 1989, por lo que la secuencia correcta es 3, 2, 1 y 4."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es c, ya que las dos posiciones tienen enfoques opuestos en su abordaje del narcotr\u00e1fico, con una que propone la ley y la otra la prevenci\u00f3n del consumo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La soluci\u00f3n se ajusta a los intereses de los propietarios de los pisos altos, pero no a los del primer piso, donde se encuentra el sal\u00f3n comunal, ya que ellos sufren las consecuencias del ruido y est\u00e1n en desacuerdo con el nuevo horario."
+        },
+        {
+          "answer": "a",
+          "explanation": "La soluci\u00f3n busca reducir el impacto sobre el humedal y garantizar el negocio de la constructora, beneficiando a ambas partes."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las tres propuestas se enfocan en mitigar los costos sociales y econ\u00f3micos de la expansi\u00f3n urbana, lo que muestra una relaci\u00f3n de complementariedad entre ellas."
+        },
+        {
+          "answer": "c",
+          "explanation": "El art\u00edculo 372 de la Constituci\u00f3n pol\u00edtica de Colombia establece que la modificaci\u00f3n de esta se realizar\u00e1 mediante un referendo nacional."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n pol\u00edtica de Colombia establece que un ciudadano puede presentar una iniciativa popular, con el fin de proponer una reforma a las leyes, y en este sentido, la opci\u00f3n 'b' es viable."
+        },
+        {
+          "answer": "b",
+          "explanation": "Seg\u00fan la Constituci\u00f3n Pol\u00edtica de Colombia, la reforma constitucional solo puede ser inicial con una iniciativa de ley que sea aprobada por la mayor\u00eda absoluta del Congreso, y luego debe ser consultada por el pueblo en un referendo, o ser acordada en una Asamblea Constituyente."
+        },
+        {
+          "answer": "c",
+          "explanation": "Los denunciantes tienen evidencias para afirmar que el alcalde abus\u00f3 de su poder al incluir inversiones en el PBOT que beneficiaban directamente a \u00e9l y sus allegados, pero no estaban en el Plan de Desarrollo original."
+        },
+        {
+          "answer": "d",
+          "explanation": "Durante el estado de excepci\u00f3n en Colombia, el presidente tendr\u00eda la facultad de decretar leyes para atender el problema, lo que normalmente es responsabilidad de la Rama Legislativa."
+        },
+        {
+          "answer": "d",
+          "explanation": "La Rama Legislativa es la encargada de ejercer control pol\u00edtico sobre las dem\u00e1s ramas, y la citaci\u00f3n a un debate de control pol\u00edtico y la moci\u00f3n de censura son mecanismos que utiliza para lograr esto."
+        },
+        {
+          "answer": "a",
+          "explanation": "El plebiscito es el mecanismo de participaci\u00f3n directa que contempla la Constituci\u00f3n para consultar a la ciudadan\u00eda sobre una reforma o derogaci\u00f3n de una norma constitucional."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las caricaturas representan el per\u00edodo conocido como La Patria Boba, en el que se vivi\u00f3 una situaci\u00f3n de estabilidad pol\u00edtica y pujanza econ\u00f3mica en Colombia."
+        },
+        {
+          "answer": "c",
+          "explanation": "En el texto se menciona la crisis social producida por la violencia y los sectarismos bipartidistas de la d\u00e9cada de 1950, lo que es caracter\u00edstico del per\u00edodo del Frente Nacional en Colombia, donde el pa\u00eds vivi\u00f3 una \u00e9poca de violencia y conflictos pol\u00edticos entre liberales y conservadores."
+        },
+        {
+          "answer": "c",
+          "explanation": "El planteamiento describe la guerra como una confrontaci\u00f3n irregular y poco convencional, lo que sugiere que el autor se showing a s\u00ed mismo externo al conflicto, lo que es caracter\u00edstico de un investigador."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n (d) se refiere a reducir el tama\u00f1o del Estado y su participaci\u00f3n en la regulaci\u00f3n de actividades econ\u00f3micas, lo que es una caracter\u00edstica clave del neoliberalismo."
+        },
+        {
+          "answer": "d",
+          "explanation": "La propuesta enfatiza la participaci\u00f3n conjunta de sectores privado, social y gobierno para impulsar el crecimiento econ\u00f3mico, lo que apega a la ideolog\u00eda de la democracia, donde se busca la colaboraci\u00f3n y participaci\u00f3n ciudadana en las decisiones pol\u00edticas y econ\u00f3micas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c afirma que, sin la intervenci\u00f3n del Estado, no es posible garantizarle buenas condiciones de vida a toda la poblaci\u00f3n. Esto es contradictorio con el modelo neoliberal que defiende la reducci\u00f3n del papel del Estado y el aumento de la participaci\u00f3n del mercado en la econom\u00eda."
+        },
+        {
+          "answer": "d",
+          "explanation": "El modelo proteccionista se justifica en la condici\u00f3n d, cuando el pa\u00eds exporta m\u00e1s alimentos de los que compra en los mercados extranjeros, ya que esto le permite proteger a sus empresas nacionales de la competencia extranjera y promover la producci\u00f3n local."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d se refiere a que el desplazamiento forzado se vincula, en gran medida, a las disputas entre actores armados por el control de territorios estrat\u00e9gicos, lo que permite identificar zonas hist\u00f3ricamente controladas por un \u00fanico actor armado."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b presenta el orden cronol\u00f3gico correcto: la Revoluci\u00f3n mexicana (1910) fue la m\u00e1s antigua, seguida de la Revoluci\u00f3n rusa (1917), la Revoluci\u00f3n cubana (1959) y finalmente la Revoluci\u00f3n nicarag\u00fcense (sandinista) (1979)."
+        },
+        {
+          "answer": "b",
+          "explanation": "Entre los problemas mencionados, solo los n\u00fameros 1 y 4 se relacionan directamente con la estructura social y econ\u00f3mica de la tierra, lo que es un factor clave en el conflicto agrario en Colombia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a menciona la vulneraci\u00f3n del derecho a la salud, lo que es un ejemplo de protecci\u00f3n inmediata de derechos fundamentales."
+        },
+        {
+          "answer": "c",
+          "explanation": "La pregunta establece que las zonas residenciales del centro urbano est\u00e1n abandon\u00e1ndose y las perif\u00e9ricas tienden a un mayor poblamiento, lo que se debe a la escasa oferta de servicios en los barrios del centro de la ciudad."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c es la correcta porque estas movilizaciones y acciones buscan reconocer y defender los derechos de personas con orientaci\u00f3n sexual diferente a la heterosexual, denunciando la exclusi\u00f3n y discriminaci\u00f3n que sufren."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a se refiere al surgimiento del proletariado urbano como una consecuencia directa de la Revoluci\u00f3n Industrial, debido al traslado de la poblaci\u00f3n del campo a la ciudad."
+        },
+        {
+          "answer": "d",
+          "explanation": "Una constituci\u00f3n sirve para establecer el orden jur\u00eddico y marco normativo que delimita el poder del Estado y establece qu\u00e9 es legal en un pa\u00eds."
+        },
+        {
+          "answer": "c",
+          "explanation": "La posici\u00f3n del funcionario enfatizando la justificaci\u00f3n de los hechos puede llevar a que se minimicen o no se reconozcan plenamente la gravedad de los actos de violencia contra las mujeres."
+        },
+        {
+          "answer": "c",
+          "explanation": "La organizaci\u00f3n estatal busca la reintegraci\u00f3n de campesinos desplazados y la agricultura, mientras que la organizaci\u00f3n ambientalista se opone porque afectar\u00eda el ecosistema de humedal, comprometiendo valores y objetivos divergentes."
+        },
+        {
+          "answer": "c",
+          "explanation": "La sustituci\u00f3n de importaciones consisti\u00f3 en producir los bienes que tradicionalmente se tra\u00edan del exterior para reducir la dependencia de las importaciones y enfrentar la crisis econ\u00f3mica."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d propone aumentar los impuestos de patrimonio y renta, lo que se acerca a la idea liberal de que se deber\u00eda cobrar m\u00e1s impuestos a aquellas personas que poseen m\u00e1s recursos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d propone la tenencia colectiva de los medios de producci\u00f3n y la consolidaci\u00f3n del poder pol\u00edtico en las clases trabajadoras, lo que es compatible con el objetivo del socialismo de alcanzar la igualdad social, pol\u00edtica y econ\u00f3mica."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c destaca que las necesidades de la poblaci\u00f3n y lo que se demanda pueden ser muy diferentes en cada ciudad, lo que sugiere que el modelo no ser\u00eda igualmente efectivo en todos los lugares."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b dice que carece de reconocimiento internacional como territorio con fronteras perfectamente definidas, lo que es correcto, ya que Palestina no tiene l\u00edmites delimitados y su estatus es objeto de disputa entre Israel y otros Estados."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c indica que la decisi\u00f3n vulnera el derecho de los estudiantes a tener y utilizar mecanismos de participaci\u00f3n, ya que se les impiden las elecciones ordinarias y se nombran representantes de manera no democr\u00e1tica."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta c es la correcta porque se estableci\u00f3 un acuerdo entre el gobierno y la comunidad ind\u00edgena, respetando el derecho a la consulta previa y libre informada por parte de la comunidad y considerando el inter\u00e9s general."
+        },
+        {
+          "answer": "b",
+          "explanation": "El profesor discrimina a las estudiantes mujeres, violando el principio de igualdad, al no permitirles hablar cuando otros son del mismo sexo y tienen la misma oportunidad de responder."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d se refiere a la protecci\u00f3n del medio ambiente, lo que es la raz\u00f3n que mejor sustenta la decisi\u00f3n del Estado de no otorgar el permiso de explotaci\u00f3n al petr\u00f3leo en un lugar sagrado para la comunidad ind\u00edgena."
+        },
+        {
+          "answer": "a",
+          "explanation": "Antes de enfocarse en las cr\u00edticas al alcalde, los ciudadanos deber\u00edan revisar el plan de gobierno para entender las propuestas y estrategias existentes sobre seguridad, y c\u00f3mo se han implementado hasta ahora."
+        },
+        {
+          "answer": "d",
+          "explanation": "Esta alternativa destaca que la prohibici\u00f3n de las drogas en los pa\u00edses productores ha generado problemas sociales m\u00e1s graves que los que se quer\u00edan evitar, lo que es un argumento com\u00fan a la propuesta de legalizaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La declaraci\u00f3n favorece los intereses de los agresores, ya que la justifican y responsabiliza a las v\u00edctimas, en lugar de abordar el problema del acoso y la violencia sexual."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b destaca los intereses en conflicto de los residentes, que buscan su seguridad, y los de los dem\u00e1s habitantes de la ciudad, que dejar\u00edan de tener acceso a las v\u00edas y otros espacios p\u00fablicos de los sectores encerrados."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es coherente con el fallo, ya que considera la libertad de conciencia del soldado y ordena la desvinculaci\u00f3n de la instituci\u00f3n militar."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d viola m\u00e1s el derecho a la educaci\u00f3n, ya que implica trasladar a los ni\u00f1os a otras escuelas solo dos veces por semana y reducir el n\u00famero de horas de clases, lo que limita significativamente la oportunidad de aprendizaje para los estudiantes."
+        },
+        {
+          "answer": "c",
+          "explanation": "La pregunta est\u00e1 enfocada en la relaci\u00f3n entre la econom\u00eda y el medio ambiente, ya que las industrias pesadas est\u00e1n afectando la calidad del aire, lo que est\u00e1 en conflicto con los objetivos de reducci\u00f3n de la contaminaci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La expulsi\u00f3n de los vendedores ambulantes supone la p\u00e9rdida de ingresos para las familias que depend\u00edan de esas ventas, lo que genera un efecto econ\u00f3mico negativo."
+        }
+      ],
+      "score": 0.673469387755102
+    }
+  }
+}
