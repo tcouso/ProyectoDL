@@ -9,7 +9,7 @@ base_prompt: >
 
   {
     "answer": "d",
-    "explanation": "La alternativa d dice que el agua se dilata entre los 0 y 4 grados, lo que es correcto."
+    "explanation": "La alternativa d dice que el agua se dilata entre los 4 y 0 grados, lo que es correcto."
   }
 
   Por favor, asegúrate de que tu respuesta siempre siga este formato exacto.
