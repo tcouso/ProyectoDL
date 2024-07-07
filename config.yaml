@@ -21,8 +21,10 @@ models:
 
 test_instruments:
   - name: colombia
-    filename: "data/pruebas_mmlu/colombia_mmle.json"
+    filename: "data/pruebas_mmlu/colombia_mmlu.json"
   - name: bolivia
-    filename: "data/pruebas_mmlu/bolivia_mmle.json"
+    filename: "data/pruebas_mmlu/bolivia_mmlu.json"
   - name: chile_historia
-    filename: "data/pruebas_mmlu/chile_historia_mmle.json"
+    filename: "data/pruebas_mmlu/chile_historia_mmlu.json"
+  - name: chile_lenguaje
+    filename: "data/pruebas_mmlu/chile_lenguaje_mmlu.json"
