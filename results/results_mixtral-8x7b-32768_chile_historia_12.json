@@ -1,0 +1,329 @@
+{
+    "mixtral-8x7b-32768": {
+        "chile_historia": {
+            "responses": [
+                {
+                    "answer": "d",
+                    "explanation": "La finalidad de la obsolescencia programada es fomentar la demanda creciente de productos, ya que los dispositivos dejan de funcionar o quedan desactualizados despu\u00e9s de un tiempo, lo que obliga a los consumidores a comprar nuevos productos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Promover modelos de consumo basados en el uso responsable de los recursos naturales es la opci\u00f3n que mejor alinea con el concepto de desarrollo sostenible, ya que fomenta la conservaci\u00f3n de los recursos naturales para las generaciones futuras."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Reducir la utilizaci\u00f3n de combustibles f\u00f3siles disminuye las emisiones de gases de efecto invernadero, contribuyendo directamente a alcanzar la reducci\u00f3n de calentamiento global por debajo de 2\u00b0C."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El cambio clim\u00e1tico ha contribuido al aumento de la desertificaci\u00f3n en Chile, especialmente en las regiones del norte, lo que coincide con la opci\u00f3n c."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Aumentar la generaci\u00f3n de energ\u00eda a partir de fuentes limpias es una iniciativa efectiva para reducir las emisiones de gases de efecto invernadero."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El principal desaf\u00edo en el manejo de recursos h\u00eddricos en Chile dada la situaci\u00f3n descrita, es modificar el modelo de gesti\u00f3n del agua para propiciar su uso racional."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La pol\u00edtica habitacional chilena, al otorgar subsidios a los hogares para adquirir viviendas producidas por el sector privado, ha llevado a la construcci\u00f3n de nuevos barrios, algunos de ellos con viviendas de tama\u00f1o reducido, dirigidos a la poblaci\u00f3n de menores ingresos."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El aumento de la poblaci\u00f3n en \u00e1reas metropolitanas genera m\u00e1s residuos s\u00f3lidos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c menciona la debilidad de los instrumentos de ordenamiento territorial, el cual es un factor clave en la planificaci\u00f3n y gesti\u00f3n de espacios urbanos, incluyendo la mitigaci\u00f3n de riesgos de desastres naturales."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque cuando m\u00e1s personas consideran que la democracia no funciona bien, es probable que se fortalezcan las cr\u00edticas a los grupos pol\u00edticos tradicionales, ya que se perciben como parte del problema."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "ONGs influyen en la modificaci\u00f3n de pol\u00edticas p\u00fablicas, canalizando demandas ciudadanas y contribuyendo a mejorar la pertinencia y efectividad de las pol\u00edticas gubernamentales."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La informaci\u00f3n debe estar relacionada con las decisiones a debatir para ser relevante en la participaci\u00f3n ciudadana."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Los partidos pol\u00edticos propician el di\u00e1logo entre la ciudadan\u00eda y las instituciones estatales, ya que son los encargados de transmitir las necesidades y peticiones de los ciudadanos a los \u00f3rganos de gobierno."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El objetivo del programa es mejorar el acceso a la justicia para todas las personas, como se menciona en el texto al describir el programa como una forma de resoluci\u00f3n de conflictos vecinales y comunitarios, \u00e1gil, transparente y eficiente."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El reconocimiento legal de su autonom\u00eda territorial es una demanda hist\u00f3rica de los pueblos originarios en Chile."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n e corresponde a la aprobaci\u00f3n del matrimonio entre personas del mismo sexo, lo que ha resuelto en alguna medida las demandas de reconocimiento de derechos de estos grupos."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Todas las opciones contribuyen al compromiso del Estado chileno. I refleja la promoci\u00f3n de derechos humanos y no discriminaci\u00f3n; II, el fomento de una cultura de respeto y no discriminaci\u00f3n; III, el fortalecimiento de derechos humanos relacionados con la vivienda."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque el State of Chile, by signing international agreements on Human Rights, is indeed contributing to the progressive consolidation of an international legal order, which is a multinational participatory system."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La noticia muestra al Estado chileno promoviendo los derechos esenciales de las personas, al aceptar refugiados sirios, lo cual est\u00e1 relacionado con el rasgo democr\u00e1tico de la promoci\u00f3n de derechos esenciales."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n correcta es e, establecer normativas migratorias para garantizar los derechos de las personas. El Estado de Chile necesita abordar los desaf\u00edos asociados a la migraci\u00f3n, asegur\u00e1ndose de que se respeten los derechos de los migrantes y se integren a la sociedad chilena de manera inclusiva y equitativa."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Los medios de comunicaci\u00f3n facilitan la realizaci\u00f3n de debates pol\u00edticos entre los candidatos, lo que permite a los ciudadanos acceder a la discusi\u00f3n de propuestas y opiniones, y formar su propio criterio."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El sufragio en Chile es voluntario, lo que significa que las personas tienen la libertad de decidir si participan en las elecciones o no."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Promover estrategias para estimular la participaci\u00f3n electoral es la alternativa m\u00e1s adecuada, ya que la baja participaci\u00f3n puede atribuirse a factores como desinter\u00e9s o desafecci\u00f3n pol\u00edtica, por lo que estrategias de participaci\u00f3n pueden mitigar este desaf\u00edo."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El Modelo Proporcional Inclusivo busc\u00f3 distribuir el poder pol\u00edtico en m\u00e1s de dos coaliciones, ya que el Sistema Binominal limitaba la representaci\u00f3n a dos bloques."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El Estado promulg\u00f3 nuevas leyes tributarias para aumentar los ingresos fiscales y administrar de mejor manera sus finanzas, lo que coincide con la opci\u00f3n d."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La Doctrina Monroe fue creada debido al recelo de Estados Unidos a la expansi\u00f3n y hegemon\u00eda de potencias extranjeras en el continente."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Todas las opciones fueron llevadas a cabo por extranjeros en Chile durante el siglo XIX. Los extranjeros colonizaron vastas zonas agroganaderas en el sur (I), invirtieron capital en obras de transporte e infraestructura p\u00fablica (II), y realizaron aportes cient\u00edficos a trav\u00e9s de las instituciones de educaci\u00f3n superior (III)."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La Constituci\u00f3n de 1833 cre\u00f3 una autoridad ejecutiva con amplios poderes."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El prop\u00f3sito de la exploraci\u00f3n geogr\u00e1fica era reconocer los recursos naturales y definir los l\u00edmites del territorio."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El autor, Francisco Bilbao, defendi\u00f3 y promocion\u00f3 los ideales pol\u00edticos del liberalismo, como se puede inferir del fragmento donde destaca la libertad e igualdad, conceptos centrales en el liberalismo."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n e es la respuesta correcta. En efecto, la demanda de alimentos en California y Australia, zonas en pleno auge de la fiebre del oro, motiv\u00f3 el crecimiento de las exportaciones chilenas de trigo y harina en ese per\u00edodo."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a es correcta ya que el principal prop\u00f3sito de la extensi\u00f3n de la red ferroviaria en Chile fue unir los centros productivos del pa\u00eds con las ciudades y puertos para agilizar el comercio interno y externo."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La fotograf\u00eda muestra a europeos con armas y caballos, junto a una poblaci\u00f3n local desarmada, lo que ilustra la superioridad militar."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Los territorios hacia donde Chile dirigi\u00f3 su expansi\u00f3n ten\u00edan el potencial exportador de materias primas, como el salitre en el Norte Grande."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a menciona el desarrollo de una econom\u00eda vinculada al sistema capitalista mundial, lo que explicar\u00eda el creciente proceso de proletarizaci\u00f3n durante el per\u00edodo especificado en la pregunta."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La ley refleja la disminuci\u00f3n del poder eclesi\u00e1stico sobre la sociedad civil debido a las reformas emprendidas por los gobiernos liberales, ya que permite la inhumaci\u00f3n de personas en sepulturas particulares o de familia, y de pobres de solemnidad, independientemente de la Iglesia Cat\u00f3lica."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d es correcta porque la Guerra del Pac\u00edfico abri\u00f3 oportunidades comerciales y el auge salitreromoviliz\u00f3 capitales que impulsaron la creaci\u00f3n de nuevas industrias (I y II). No hay pruebas en el enunciado que indiquen una disminuci\u00f3n del proceso industrializador con el inicio de la Rep\u00fablica Parlamentaria (III)."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b corresponde a la interpretaci\u00f3n central del conflicto institucional, al ser un levantamiento de los parlamentarios con el fin de evitar el fortalecimiento del rol del Presidente."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Los conflictos sociales que se agudizaban por la indiferencia de la elite fueron una de las principales causas de la cr\u00edtica durante la celebraci\u00f3n del Centenario de la Rep\u00fablica de Chile."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La deuda de Inglaterra s\u00ed provoc\u00f3 una dependencia econ\u00f3mica respecto de Estados Unidos, pero esta dependencia no necesariamente se expandi\u00f3 a lo cultural y lo pol\u00edtico. Opciones (c), (d) y (e) no encuentran apoyo en el texto proporcionado."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque la cita hace referencia a la promoci\u00f3n de productos estadounidenses, en este caso autom\u00f3viles, en el extranjero a trav\u00e9s de medios culturales como el cine, lo que demuestra la influencia del estilo de vida estadounidense en el mundo durante el periodo de Entreguerras."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Una de las soluciones implementadas durante este periodo en Chile fue el fortalecimiento de las facultades del Poder Ejecutivo. Este fortalecimiento se llev\u00f3 a cabo mediante la Constituci\u00f3n de 1925, que estableci\u00f3 un sistema presidencialista, reforzando as\u00ed el rol del presidente en el gobierno."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El objetivo de Ib\u00e1\u00f1ez era establecer un control del sistema pol\u00edtico, por lo que persigui\u00f3 a los partidos pol\u00edticos que no se integraran a su gobierno."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Am\u00e9rica del Sur experiment\u00f3 un incremento en su deuda externa e interna durante la crisis de 1929, ya que los pa\u00edses recurrieron a pr\u00e9stamos para hacer frente a la disminuci\u00f3n de las exportaciones y la inversi\u00f3n extranjera."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El Estado se centr\u00f3 en el desarrollo del sector manufacturero e industrial para transformar la econom\u00eda y evitar el impacto de futuras crisis mundiales."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Las fotograf\u00edas muestran aspectos monumentales en los actos de masas, como grandes desfiles y arquitectura impresionante, que son caracter\u00edsticos de los reg\u00edmenes totalitarios."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Tanto la ONU como la Sociedad de Naciones ten\u00edan el objetivo de mantener la paz y seguridad entre los pa\u00edses del mundo (I)."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Las pol\u00edticas genocidas aplicadas por algunos reg\u00edmenes totalitarios atentaron contra la dignidad y los Derechos Humanos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c es correcta. Despu\u00e9s de la Segunda Guerra Mundial, las potencias hegem\u00f3nicas intervinieron en la conformaci\u00f3n de los nuevos estados (I) y tambi\u00e9n buscaron nuevas formas de dominio como estrategia (III), pero el comunismo no se fortaleci\u00f3 en Europa Occidental como ideolog\u00eda dominante (II fue incorrecto)."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La cita de Fanon sugiere que el socialismo en Europa Oriental ha llevado a la desaparici\u00f3n de viejas rivalidades y reivindicaciones territoriales. Este escenario es presentado como un ejemplo positivo, lo que hace sugerir que el autor considera que la ideolog\u00eda socialista puede favorecer una convivencia m\u00e1s estable para los nuevos estados africanos."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "The author of the letter highlights the problem of high illiteracy rates among women in rural areas, which conditioned their political participation."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n (a) describe correctamente el despliegue de misiles sovi\u00e9ticos en Cuba en 1962, que provoc\u00f3 una crisis internacional y enfrentamiento directo entre las superpotencias, con el potencial de desatar una guerra nuclear."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El mejoramiento del acceso al sistema de salud fue un proceso asociado al desarrollo econ\u00f3mico y social de Estados Unidos y Europa Occidental durante la expansi\u00f3n del Estado de Bienestar en la segunda mitad del siglo XX."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b es correcta ya que la Revoluci\u00f3n Cubana inspir\u00f3 la creaci\u00f3n de organizaciones pol\u00edtico-militares en Chile, como el Movimiento de Izquierda Revolucionaria (MIR) y las Fuerzas Armadas Revolucionarias (FAR), que adhirieron al ideario cubano."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La cita se refiere a la centralizaci\u00f3n de la planificaci\u00f3n habitacional y urbana en un solo organismo, que coordinar\u00eda con diferentes entidades. La opci\u00f3n (e) es la que mejor encaja en este contexto, ya que implica una planificaci\u00f3n integral para abordar el d\u00e9ficit habitacional en las \u00e1reas urbanas."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El texto menciona la diferenciaci\u00f3n identitaria de la juventud respecto de otros grupos etarios (I), la capitalizaci\u00f3n de la emergente cultura juvenil por el mercado discogr\u00e1fico (II) y el sector joven como agente de cambio social (III), por lo que la opci\u00f3n correcta es e) I, II y III."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b explica correctamente la crisis del ISI en Chile en los 60. La escasa capacidad tecnol\u00f3gica del pa\u00eds limit\u00f3 su capacidad para prescindir de las importaciones de bienes de capital, lo que dificult\u00f3 el proceso de industrializaci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El gobierno de Castro en Cuba era una amenaza a los intereses de Estados Unidos porque le quitaba protagonismo en el Caribe, convirti\u00e9ndose en un referente a nivel continental, lo que podr\u00eda influenciar a otros pa\u00edses de la regi\u00f3n."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La presi\u00f3n ejercida por los sindicatos de campesinos estuvo presente en todas las etapas de la Reforma Agraria chilena."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque la reforma agraria busc\u00f3 transformar en propietarios a los campesinos sin tierra, lo que se observa en la redistribuci\u00f3n de la superficie cultivada en los predios afectados."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Las formulaciones en el texto se relacionan con la suspensi\u00f3n de derechos civiles y pol\u00edticos, ya que se decreta la censura de prensa, se clausuran medios de comunicaci\u00f3n, se declara Estado de Sitio, se decreta la ilegalidad de la Central \u00danica de Trabajadores y se declara la caducidad de todos los Registros Electorales."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Los gobiernos elegidos a partir de 1990 en Chile abordaron las violaciones a los Derechos Humanos cometidas durante la dictadura militar mediante investigaciones (Informes Rettig y Valech) y el establecimiento de mecanismos de reparaci\u00f3n para las v\u00edctimas, no juzgando o condenando a los comandantes en jefe de las Fuerzas Armadas (opci\u00f3n e)."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La Concertaci\u00f3n de Partidos por la Democracia decidi\u00f3 participar en elecciones presidenciales utilizando la v\u00eda constitucional, esto con el objetivo de regresar a la democracia de manera pac\u00edfica y legal."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Las reformas para una mayor transparencia y la reestructuraci\u00f3n de la econom\u00eda (perestroika y glasnost) socavaron el sistema sovi\u00e9tico, contribuyendo al colapso."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Durante la d\u00e9cada de 1990, la Uni\u00f3n Sovi\u00e9tica se hab\u00eda disuelto, lo que llev\u00f3 a un cambio en la pol\u00edtica y las relaciones internacionales. Estados Unidos emergi\u00f3 como la potencia hegem\u00f3nica del mundo, ejerciendo una influencia significativa en el contexto hist\u00f3rico de la \u00e9poca."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "Una de las cr\u00edticas m\u00e1s recurrentes al modelo econ\u00f3mico neoliberal en Chile durante la d\u00e9cada de 1990 fue la inequidad en la distribuci\u00f3n del ingreso. A pesar del crecimiento econ\u00f3mico, la brecha entre ricos y pobres segu\u00eda siendo significativa."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La finalidad principal de la pol\u00edtica de concesiones del MOP fue impulsar el mejoramiento de diversas v\u00edas de comunicaci\u00f3n para favorecer el traslado de bienes y personas."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Las transnacionales se trasladan a pa\u00edses en v\u00edas de desarrollo para abaratar los costos de sus procesos productivos, especialmente en mano de obra."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Equilibrar competitividad, crecimiento y desarrollo sustentable es un desaf\u00edo directo para las econom\u00edas latinoamericanas en este contexto, ya que la explotaci\u00f3n de recursos naturales puede impulsar el crecimiento y la competitividad a corto plazo, pero tambi\u00e9n plantea retos en t\u00e9rminos de sostenibilidad y desarrollo a largo plazo."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a menciona la multifuncionalidad de los dispositivos tecnol\u00f3gicos, lo cual es visible en la imagen, donde un \u00fanico dispositivo puede realizar varias funciones relacionadas con la comunicaci\u00f3n."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Las relaciones comerciales con otros pa\u00edses buscan dinamizar el mercado de exportaci\u00f3n y extender la inversi\u00f3n de capitales en el exterior."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a menciona menores costos de producci\u00f3n para los empresarios que recurren a la deslocalizaci\u00f3n, lo que es correcto. Al desplazar parte de su actividad productiva a otro lugar, las empresas suelen encontrar condiciones m\u00e1s favorables, como mano de obra m\u00e1s barata, menos regulaciones laborales o ambientales, y menores impuestos. Todo esto contribuye a reducir sus costos de producci\u00f3n."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a es la correcta porque la gr\u00e1fica muestra que hay pa\u00edses no desarrollados que est\u00e1n liberalizando su econom\u00eda (II), pero no hay evidencia de que las pol\u00edticas de apertura econ\u00f3mica se hayan debilitado a nivel global (I) ni de que los pa\u00edses subdesarrollados hayan diversificado sus econom\u00edas (III)."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La concentraci\u00f3n del sistema financiero es el factor m\u00e1s relevante en la formaci\u00f3n de ciudades globales."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La regi\u00f3n de Am\u00e9rica Latina y El Caribe ha tenido una alta concentraci\u00f3n de exportaciones en el sector primario, como la miner\u00eda, la agricultura y la ganader\u00eda."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es correcta porque Chile ha trabajado en diversificar su econom\u00eda y mejorar su participaci\u00f3n en el comercio internacional a trav\u00e9s de tratados de libre comercio y acuerdos con diferentes pa\u00edses y regiones."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El incremento en la demanda mundial por recursos mineros y silvoagropecuarios es la opci\u00f3n m\u00e1s probable. Esto se debe a que Chile es un importante productor y exportador de cobre, molibdeno, n\u00e9ctar, madera y salmones, entre otros productos naturales."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Los acuerdos comerciales abren mercados y permiten la entrada de una gran variedad de productos a bajos precios, lo que favorece el consumo y el bienestar de la poblaci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la \u00fanica que alude al efecto de la masificaci\u00f3n del cr\u00e9dito, permitiendo a la poblaci\u00f3n adquirir bienes, lo cual est\u00e1 descrito en el texto."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El gr\u00e1fico muestra una variedad de productos para transporte, como petr\u00f3leo, autom\u00f3viles, veh\u00edculos de mercanc\u00eda, camionetas, autobuses, lo que corresponde a la alternativa d."
+                }
+            ],
+            "score": 0.875
+        }
+    }
+}
