@@ -1,0 +1,157 @@
+{
+    "llama3-8b-8192": {
+        "colombia_lenguaje": {
+            "responses": [
+                {
+                    "answer": "c",
+                    "explanation": "El pasaje anterior tiene un estilo que evoca un relato period\u00edstico y hace una reflexi\u00f3n divertida sobre la muerte de Descartes, lo que lo hace m\u00e1s adecuado para una cr\u00f3nica period\u00edstica que abarca las muertes m\u00e1s curiosas de la historia."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b se refiere a se\u00f1alar una posici\u00f3n discutible sobre el papel que desempe\u00f1aron las colitas en el origen del g\u00e9nero, lo que coincide con el texto que menciona la discusi\u00f3n sobre el papel de las colitas en la historia del vallenato."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Urumita es mencionado en el texto como un pueblo al que iban los acordeoneros para asistir a diferentes piquerias y conciertos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Escobar se describe como sensible y con angustias, ya que se siente impulsado a brindar un poema como un acto de fe, y posteriormente se siente abrumado por el tedio y la rutina de la vida, lo que lo lleva a pensar que tal vez hubiera sido preferible estar muerto."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El primer enunciado afirma que la noci\u00f3n de l\u00edmite es tan antigua como la especie humana y que todos los animales reconocen una burbuja de respeto o \u00e1rea territorial que protege sus seguidores, lo que se alinea con el contenido del primer p\u00e1rrafo."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El autor se refiere a las comunidades virtuales que se crean en el ciberespacio, que permiten a las personas establecer v\u00ednculos con otras de diferentes partes del mundo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto sugiere que las compa\u00f1\u00edas como Google y otras necesitan distraernos para recoger informaci\u00f3n sobre nosotros y nutrirnos con anuncios publicitarios, por lo que el autor denuncia las motivaciones de estas empresas sobre c\u00f3mo se maneja la informaci\u00f3n en Internet."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La frase se presenta como un resumen del discurso previo y como un llamado a reflexionar sobre las implicaciones de la digitalizaci\u00f3n en la forma en que pensamos y somos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Seg\u00fan el texto, todos los pol\u00edticos, incluyendo liberales, conservadores, socialistas, comunistas, anarquistas y fascistas, han proclamado las virtudes de la democracia y se han presentado como dem\u00f3cratas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Se infiere que la conversi\u00f3n de cinco minutos con el votante medio seria suficiente para comprobar que la democracia no es conveniente."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto critica la idea de que el conocimiento cientifico se logre mediante un m\u00e9todo \u00fanico y establecido, y en su lugar presenta una visi\u00f3n de un conocimiento en constante evoluci\u00f3n y enriquecimiento a trav\u00e9s de la interacci\u00f3n de diferentes perspectivas."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c recrea el principio liberal de la igualdad ante la ley y el Estado, mencionando la idea de 'hacer de la causa m\u00e1s d\u00e9bil la causa m\u00e1s fuerte' y relacion\u00e1ndolo con el apoyo al movimiento de conjunto, lo que refleja la influencia liberal en la filosof\u00eda de la ciencia."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c dice que el poder est\u00e1 en ser fiel a uno mismo, lo que es incompatible con las pol\u00edticas del Partido que buscan eliminar la individualidad y la fidelidad personal."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La frase ilustra el verdadero prop\u00f3sito del sistema de gobierno, que se basa en la persecuci\u00f3n, la opresi\u00f3n y el\u63a7\u5236 de la poblaci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c dice que las fotograf\u00edas son la prueba irremplazable, lo que significa que no puede ser reemplazada, lo que coincide con el significado de 'irrecusable'."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c describe adecuadamente la insuficiencia del resumen, ya que omitir el tono ir\u00f3nico y burl\u00f3n con que la autora se refiere al arte de la fotograf\u00eda es un elemento importante que se desecha en el resumen."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La descripci\u00f3n de los indios de Ibagu\u00e9 por Aguado no proporciona elementos cronol\u00f3gicos precisos, por lo que no podemos determinar un per\u00edodo espec\u00edfico en el que sucedi\u00f3."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El t\u00edtulo d ofrece el mejor ajuste al contenido del texto, ya que la construcci\u00f3n ret\u00f3rica del ind\u00edgena es uno de los temas centrales de la Recopilaci\u00f3n historial y es objeto de an\u00e1lisis en el estudio de Jaime Humberto Borja citado en el texto."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El autor menciona la guerra con M\u00e9xico como un ejemplo de c\u00f3mo un gobierno que en principio no tiene el apoyo del pueblo puede ser utilizado por unos pocos individuos para imponer su voluntad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La aforisma dice que la principal diferencia entre sistemas filos\u00f3ficos est\u00e1 en la manera de escamotear los problemas, lo que implica que los sistemas intentan evitar o eludir problemas m\u00e1s que otros."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La autora cuestiona el prejuicio de que las explicaciones cient\u00edficas sobre el comportamiento no deben tener en cuenta la intenci\u00f3n al explicar la conducta."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto expresa que el autor refiere a Rubens para mostrar que algunos artistas plasman en sus obras lo que nos gusta ver en la realidad."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d expresa un juicio de valor al afirmar que la hermosura de un cuadro no reside realmente en la belleza de su tema, lo que es un juicio est\u00e9tico y subjetivo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto se enfoca en la representaci\u00f3n de la belleza y la realidad en el arte, se\u00f1alando que la hermosura de un cuadro no siempre reside en la belleza del tema, lo que se ajusta con el t\u00edtulo 'La representaci\u00f3n de la belleza en el arte'."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a dice que algunas personas act\u00faan justamente a pesar de poder actuar de manera injusta, lo que contradice la idea planteada por Plat\u00f3n de que nadie es justo si no tiene la oportunidad de cometer injusticias y se ve obligado a actuar justamente por la fuerza de la ley."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d sostiene que la justicia no brinda ninguna de las ventajas individuales que la injusticia brinda, lo que se alinea con la idea de Plat\u00f3n de que la justicia es forzada y que el hombre naturalmente prefiere la injusticia para beneficio individual."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d sostiene que siempre que una persona cuente con la libertad para cometer injusticias lo har\u00e1, lo que muestra que la justicia no surge de la voluntad del individuo, sino de la falta de oportunidad para cometer injusticias."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b s\u00ed sintetiza adecuadamente las ideas contenidas en el primer p\u00e1rrafo, ya que afirma que la justicia resulta de la ausencia de restricciones y exigencias de la ley, ya que sin \u00e9stas, la persona buscar\u00e1 satisfacer sus deseos sin preocuparse por la igualdad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El autor introduce el relato sobre el anillo de Giges para ilustrar que las personas aparentemente justas pueden cometer grandes injusticias cuando tienen la oportunidad. El caso de Giges muestra c\u00f3mo un hombre hasta entonces considerado justo se vuelve injusto al obtener el poder que le otorga el anillo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c indica que el amor o el enamoramiento son ideas que solo han sido recientemente vinculadas al matrimonio y a la familia, lo que es correcto seg\u00fan el texto."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La funci\u00f3n del conector 'sin embargo' es contrastar la informaci\u00f3n anterior sin llegar a invalidarla, estando en un per\u00edodo de transici\u00f3n entre la negaci\u00f3n de que el amor era la base principal del matrimonio y la aceptaci\u00f3n de su presencia en algunos casos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c, \"aporte patrimonial\", es la correcta, ya que la dote de boda se refer\u00eda a la entrega de bienes o tierras que un hombre recibir\u00eda en su vida."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d se refiere a que la asociaci\u00f3n entre el amor y el matrimonio no es algo propio de todos los tiempos y culturas, lo que es confirmado por el texto al mencionar ejemplos como la China tradicional y los fulbes africanos."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b afirma que la idea del amor como la raz\u00f3n que ha de llevar al matrimonio surgi\u00f3 con el movimiento rom\u00e1ntico en el siglo XVIII, lo que es correcto, ya que la idea de que el amor sea la base del matrimonio es una creencia reciente."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "En la Edad Media, la dote de boda era el mayor ingreso de dinero, bienes o tierras que un hombre recib\u00eda en toda su vida, lo que ilustra la idea de que el matrimonio era una instituci\u00f3n pol\u00edtica y econ\u00f3mica."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Seg\u00fan el texto, las mujeres fulbes africanas niegan vehementemente cualquier apego hacia el marido, lo que implica que el amor no es una condici\u00f3n necesaria para el matrimonio en esta comunidad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c afirma que el matrimonio es una instituci\u00f3n que var\u00eda dependiendo del contexto hist\u00f3rico y social, lo que se demuestra en el texto al describir c\u00f3mo se cambi\u00f3 su forma y significado a lo largo del tiempo y entre diferentes culturas."
+                }
+            ],
+            "score": 0.5945945945945946
+        }
+    }
+}

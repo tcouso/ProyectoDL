@@ -1,0 +1,157 @@
+{
+    "mixtral-8x7b-32768": {
+        "colombia_lenguaje": {
+            "responses": [
+                {
+                    "answer": "b",
+                    "explanation": "El pasaje describe una historia de asesinato relacionada con un fil\u00f3sofo, lo que encaja con el contexto de un grupo aficionado al estudio de asesinatos en la historia de la filosof\u00eda."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a es la correcta porque el texto introduce la opini\u00f3n de L\u00f3pez Michelsen sobre las colitas como ancestro directo del vallenato moderno, pero luego sugiere que las colitas no ayudaron a formar el g\u00e9nero sino a divulgarlo, coincidiendo con la tesis principal del texto."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d menciona que Urumita es un pueblo al cual iban los acordeoneros, lo que se relaciona con el verso de La gota fr\u00eda citado."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Escobar, el protagonista, est\u00e1 contemplando la revelaci\u00f3n de la muerte de Rimbaud a los 31 a\u00f1os y se esfuerza por no pensar en nada, siente las ganas de orinar pero se queda quieto en la cama, observando el crecimiento de las nubes grises y la tristeza de que el sol salga todos los d\u00edas igual y la vida siga su curso mon\u00f3tono. Todos estos sentimientos encajan con la alternativa sensible y con angustias."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b sintetiza mejor el contenido del primer p\u00e1rrafo porque menciona que Internet ha generado cambios en el concepto tradicional de l\u00edmite, lo que es el tema principal del p\u00e1rrafo. Adem\u00e1s, se refiere a la etolog\u00eda y la antropolog\u00eda, que son las disciplinas mencionadas en el p\u00e1rrafo."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque el texto menciona la creaci\u00f3n de naciones (comunidades) fuera de las fronteras f\u00edsicas, lo que se refiere a las comunidades virtuales que se forman en Internet."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la correcta porque el texto expone y critica las motivaciones de varias compa\u00f1\u00edas de internet, como Google, en relaci\u00f3n a c\u00f3mo se maneja la informaci\u00f3n y c\u00f3mo buscan distraernos para obtener informaci\u00f3n y mostrar publicidad."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Es una conclusi\u00f3n del texto porque resume las principales ideas discutidas en el texto y sugiere las implicaciones m\u00e1s amplias de estas ideas."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la correcta porque el texto indica que 'los liberales, los conservadores, los socialistas, los comunistas, los anarquistas y hasta los fascistas se han apresurado a proclamar las virtudes de la democracia y a mostrar sus credenciales dem\u00f3cratas'."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c se infiere del comentario de Churchill, quien sugiere que una conversaci\u00f3n corta con el votante medio har\u00eda evidente que la democracia no funciona, seg\u00fan su punto de vista."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto cuestiona la noci\u00f3n tradicional del conocimiento cient\u00edfico como resultado de un m\u00e9todo espec\u00edfico y fijo. En su lugar, presenta una visi\u00f3n del conocimiento como un oc\u00e9ano de teor\u00edas incompatibles que compiten entre s\u00ed, lo que implica una cr\u00edtica a las ideas convencionales sobre el 'm\u00e9todo cient\u00edfico'."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d refleja la influencia de las ideas liberales al sugerir que no existe una verdad absoluta o ideal a la que el conocimiento debe converger, lo que implica una igualdad entre diferentes perspectivas y teor\u00edas, similar al principio de igualdad en el liberalismo."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El Partido quiere eliminar la lealtad hacia cualquier cosa que no sea \u00e9l, seg\u00fan la explicaci\u00f3n del r\u00e9gimen."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La frase ilustra las ideas transmitidas al pueblo, ya que describe la opresi\u00f3n y sumisi\u00f3n a la que ser\u00e1n sometidos los ciudadanos en el futuro."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c, 'Irremplazable', es un sin\u00f3nimo apropiado para 'Irrecusable' en este contexto, ya que implica que las fotograf\u00edas no pueden ser reemplazadas como prueba de que se realiz\u00f3 el viaje."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La respuesta correcta es b porque el resumen se concentra en un tipo espec\u00edfico de turistas (cosmopolitas japoneses, estadounidenses y alemanes), mientras que el texto analiza la relaci\u00f3n entre el turismo y la fotograf\u00eda en general."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La descripci\u00f3n de los indios de Ibagu\u00e9 corresponde a la etapa de 'conquista' de los territorios que se anexar\u00edan a la colonia neogranadina, ya que la descripci\u00f3n es parte de un relato de una campa\u00f1a militar."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b se ajusta mejor al contenido del texto porque el historiador Jaime Humberto Borja analiza c\u00f3mo Fray Pedro de Aguado construye ret\u00f3ricamente la figura del ind\u00edgena en la Recopilaci\u00f3n historial, utilizando estereotipos y arquetipos conocidos por la tradici\u00f3n cristiana y la cultura europea."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La guerra con M\u00e9xico es mencionada por el autor como un ejemplo de una acci\u00f3n tomada por un gobierno que no hubiera sido aprobada por el pueblo en su totalidad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c es la correcta porque el aforismo indica que la principal diferencia entre sistemas filos\u00f3ficos es en c\u00f3mo esquivan o eluden los problemas, no en c\u00f3mo los plantean o resuelven."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La autora cuestiona el prejuicio de que no se debe considerar a los animales como seres con personalidades o emociones, implicando que s\u00ed debieran ser tratados como tales."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la correcta porque el texto menciona que algunos artistas, como Rubens, plasman en sus obras lo que a la gente le gusta ver en la realidad."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b expresa un juicio de valor presente en el texto porque el autor est\u00e1 expresando su apreciaci\u00f3n personal sobre los golfillos pintados por Murillo, afirmando que tienen 'gran encanto'."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la m\u00e1s adecuada porque el texto se trata sobre la representaci\u00f3n de la belleza en el arte, desde diferentes perspectivas y pintores."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La afirmaci\u00f3n a contradice las ideas del autor porque \u00e9l plantea que nadie actuar\u00eda justamente si tuviera el poder de actuar de manera injusta y no fuera forzado a la justicia."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d presenta el supuesto subyacente porque la frase dice que la justicia no brinda ninguna de las ventajas individuales que la injusticia brinda, lo que implica precisamente que la injusticia proporciona mayores ventajas individuales."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d afirma que las personas cometer\u00e1n injusticias cuando puedan hacerlo impunemente, coincidiendo con la tesis principal del texto de que la justicia se cumple solo por obligaci\u00f3n y no voluntariamente."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La justicia es resultado de una imposici\u00f3n, pues toda persona sin las restricciones y exigencias de la ley buscar\u00e1 satisfacer sus deseos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El autor introduce el relato del anillo de Giges para persuadir a la audiencia de que actuar justamente requiere mucha fuerza de voluntad. El caso de Giges ilustra c\u00f3mo la tentaci\u00f3n derivada del poder del anillo dobleg\u00f3 su voluntad, incluso cuando ya era un hombre justo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto indica que el amor o el enamoramiento han sido recientemente vinculados al matrimonio y a la familia, y anteriormente el matrimonio era una instituci\u00f3n econ\u00f3mica y pol\u00edtica."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La palabra 'dote' se refiere al aporte patrimonial que la mujer (o su familia) aporta a la nueva uni\u00f3n matrimonial. Las otras opciones no capturan el significado original de la palabra."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es correcta porque el tercer p\u00e1rrafo del texto proporciona un ejemplo concreto (la China tradicional) que ilustra c\u00f3mo la asociaci\u00f3n entre el amor y el matrimonio no es una concepci\u00f3n universal a lo largo de la historia."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d est\u00e1 en contradicci\u00f3n con el hecho de que el matrimonio se afianz\u00f3 en el siglo XIX como la principal forma de institucionalizaci\u00f3n del amor conyugal, ya que se se\u00f1ala que el matrimonio era antes una instituci\u00f3n econ\u00f3mica y pol\u00edtica."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a describe la dote que la mujer aportaba en el matrimonio durante la Edad Media, la cual constitu\u00eda el mayor ingreso de dinero, bienes o tierras que un hombre iba a recibir en toda su vida. Esto ilustra la familia como una instituci\u00f3n econ\u00f3mica."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La informaci\u00f3n indica que muchas mujeres fulbes niegan vehementemente cualquier apego hacia el marido, lo que implica que el amor no es una condici\u00f3n necesaria para el matrimonio en esa comunidad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto menciona que el matrimonio ha tenido prop\u00f3sitos econ\u00f3micos y pol\u00edticos, y tambi\u00e9n ha variado dependiendo del contexto hist\u00f3rico y social. Por lo tanto, la opci\u00f3n c es la m\u00e1s adecuada."
+                }
+            ],
+            "score": 0.6756756756756757
+        }
+    }
+}

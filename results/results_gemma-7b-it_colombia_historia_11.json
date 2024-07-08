@@ -1,0 +1,205 @@
+{
+    "gemma-7b-it": {
+        "colombia_historia": {
+            "responses": [
+                {
+                    "answer": "b",
+                    "explanation": "Ambas las afirmaciones apoyan el vegetarianismo, pero la primera se enfoca en la salud, mientras que la segunda se basa en los principios de la \u00e9tica."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d reconoce que la pobreza y la falta de oportunidades pueden aumentar el riesgo de delincuencia, lo que contradice las afirmaciones de los habitantes del barrio de clase media."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La afirmaci\u00f3n afirma que las preferencias sexuales son el resultado de una compleja interacci\u00f3n de la biolog\u00eda con el medio ambiente. Esta afirmaci\u00f3n puede ser considerada cuestionable ya que no hay consenso entre los cient\u00edficos sobre la naturaleza exacta de la determinaci\u00f3n de la orientaci\u00f3n sexual."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Las dos posiciones adoptan perspectivas diferentes sobre la lucha contra el narcotr\u00e1fico. Una propone la legalizaci\u00f3n del consumo de drogas, mientras que la otra propone endurecer las sanciones para los consumidores y productores de drogas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d es correcta, ya que la decisi\u00f3n se bas\u00f3 en el voto de los propietarios, considerando los intereses de todos los involucrados."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La soluci\u00f3n ajusta los intereses de ambas partes al reducir gradualmente el impacto ambiental sin impedir la realizaci\u00f3n del proyecto de construcci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Todas las propuestas buscan fomentar una mayor eficiencia del espacio urbano, sin comprometer las necesidades de producci\u00f3n y el acceso a la zona rural."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El art. 151 de la Constituci\u00f3n Pol\u00edtica de Colombia establece que la Constituci\u00f3n se puede modificar mediante un referendo."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La Constituci\u00f3n pol\u00edtica de Colombia establece que se requiere un ciudadano para proponer una iniciativa popular que reforme una ley."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La Constituci\u00f3n solo puede ser modificada por medio de una Asamblea Constituyente, no por el Ejecutivo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Los se\u00f1alamientos en contra del alcalde se basan en la afirmaci\u00f3n de que no se cumplieron los procesos de planificaci\u00f3n urban\u00edstico establecidos, ya que las inversiones en v\u00edas e iluminaci\u00f3n realizados despu\u00e9s de la compra de las propiedades rurales no estaban previstas en el Plan de Desarrollo original."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a es correcta ya que, de acuerdo con la definici\u00f3n proporcionada, el estado de excepci\u00f3n permite modificar el presupuesto del pa\u00eds, lo que alterar\u00eda la distribuci\u00f3n del poder p\u00fablico."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d indica que la Rama Legislativa es la que puede ejercer control pol\u00edtico a trav\u00e9s de citaciones y mociones de censura."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El referendo es un mecanismo de participaci\u00f3n directa que permite a la poblaci\u00f3n tomar decisiones vinculantes sobre leyes o constituciones."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Las caricaturas representadas parecen reflejar la \u00e9poca de la Violencia Pol\u00edtica en Colombia (1948-1958)."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La respuesta d es correcta porque el fragmento describe la preocupaci\u00f3n del autor por los peligros de un sistema democr\u00e1tico polarizado por dos partidos pol\u00edticos tradicionales."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La respuesta correcta es que las medidas implementadas buscan reducir el tama\u00f1o del Estado y su participaci\u00f3n en la regulaci\u00f3n de actividades econ\u00f3micas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La propuesta busca aumentar la productividad mediante la reducci\u00f3n de las barreras al funcionamiento econ\u00f3mico y la participaci\u00f3n activa de la sociedad en las decisiones econ\u00f3micas."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a afirma que se reconoce el papel central del Estado en la buena gesti\u00f3n y administraci\u00f3n de los recursos p\u00fablicos, lo que es cr\u00edtico para asegurar la equidad y el acceso a las condiciones b\u00e1sicas de vida."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El fragmento de texto describe c\u00f3mo el proteccionismo se utiliza para proteger a las empresas nacionales de la competencia extranjera. La opci\u00f3n c se ajusta a este criterio, ya que si un pa\u00eds importa m\u00e1s alimentos de los que compra en los mercados extranjeros, se justificar\u00eda el uso del modelo proteccionista."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La definici\u00f3n del desplazamiento forzado en Colombia permite comprender los intereses econ\u00f3micos de los grupos en conflicto, ya que este fen\u00f3meno es causado por las disputas entre actores armados por el control de territorios estrat\u00e9gicos."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La secuencia correcta es Revoluci\u00f3n mexicana, Revoluci\u00f3n rusa, Revoluci\u00f3n cubana, Revoluci\u00f3n nicarag\u00fcense, seg\u00fan el orden cronol\u00f3gico de la lista."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Las alternativas 1 y 4 indican que la escasez de recursos naturales no renovables y la desigualdad en la propiedad de la tierra son causas potenciales del conflicto agrario en Colombia."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a) es correcta ya que la acci\u00f3n de tutela se puede presentar ante un juez cuando se vulnera el derecho a la salud, porque est\u00e1 en riesgo la vida de la persona."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b explica que las personas se mudan a las zonas perif\u00e9ricas en busca de una mejor calidad de vida en barrios tranquilos."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La respuesta correcta es el traslado del campo a la ciudad y el surgimiento del proletariado urbano. La Revoluci\u00f3n Industrial llev\u00f3 a la concentraci\u00f3n de la poblaci\u00f3n de las zonas rurales a las urbanas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Establecer un orden jur\u00eddico y un marco normativo que delimita el poder del Estado y establece qu\u00e9 es legal."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La posici\u00f3n del funcionariooooooo socaba la gravedad de los actos de violencia en contra de las mujeres al cuestionar la confiabilidad del estudio utilizado como base para las peticiones."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Una organizaci\u00f3n busca proteger el ecosistema del humedal, mientras que la otra busca ayudar a los campesinos a obtener un empleo y un cultivo propio."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c es correcta ya que la producci\u00f3n de bienes que tradicionalmente se importaban era una medida adoptada por los pa\u00edses latinoamericanos para reducir su dependencia de las importaciones y fomentar la producci\u00f3n local."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d describe la pol\u00edtica impositiva que busca financiar los gastos p\u00fablicos mediante el aumento de impuestos sobre las ingresos de las personas m\u00e1s ricas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d afirma que el socialismo busca lograr la tenencia colectiva de los medios de producci\u00f3n y la consolidaci\u00f3n del poder pol\u00edtico en las clases trabajadoras, que es un objetivo central del socialismo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El programa ha tenido \u00e9xito en Bogot\u00e1, donde hay un mercado de j\u00f3venes interesados en iniciar negocios. Sin embargo, es posible que en otras ciudades las necesidades y los deseos de la poblaci\u00f3n sean diferentes, lo que requiere un estudio y an\u00e1lisis espec\u00edficos de cada contexto."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b explica que Palestina a\u00fan no ha logrado obtener el reconocimiento internacional como Estado."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La decisi\u00f3n del Consejo Acad\u00e9mico vulnera el derecho de los estudiantes a tener y utilizar mecanismos de participaci\u00f3n, ya que les es negada la posibilidad de participar en las elecciones ordinarias."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La Constituci\u00f3n protege el principio de igualdad de oportunidades e igualdad de trato, que incluye la protecci\u00f3n de la discriminaci\u00f3n basada en el g\u00e9nero."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La Constituci\u00f3n reconoce la protecci\u00f3n de la diversidad \u00e9tnica y cultural como una de sus principales funciones."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Revisar el plan de gobierno del alcalde es importante para evaluar si tiene propuestas para abordar los problemas de seguridad."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a) enfatiza la libertad individual como fundamento de la propuesta de legalizaci\u00f3n, lo que concuerde con la defensa de la libre decisi\u00f3n del individuo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La declaraci\u00f3n justifica la violencia sexual al culpar a las v\u00edctimas por su ropa. Esto es un inter\u00e9s de los agresores, quienes buscan minimizar la responsabilidad por su comportamiento."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b reconoce los intereses de los residentes, que buscan su seguridad, y los de los dem\u00e1s habitantes de la ciudad, que dejar\u00edan de tener acceso a las v\u00edas y otros espacios p\u00fablicos de los sectores encerrados."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d vulnera m\u00e1s el derecho a la educaci\u00f3n al trasladar de forma constante a los ni\u00f1os a escuelas no inundadas, lo que puede afectar su regularidad y calidad del aprendizaje."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La expulsi\u00f3n de los vendedores ambulatory ser\u00eda un efecto positivo, ya que podr\u00eda reducir los ingresos de las familias que depend\u00edan de esas ventas."
+                }
+            ],
+            "score": 0.5918367346938775
+        }
+    }
+}

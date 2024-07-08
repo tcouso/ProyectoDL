@@ -1,0 +1,157 @@
+{
+    "mixtral-8x7b-32768": {
+        "colombia_lenguaje": {
+            "responses": [
+                {
+                    "answer": "b",
+                    "explanation": "El pasaje describe una historia de asesinato relacionada con un fil\u00f3sofo, lo que encaja con el contexto de un grupo interesado en el estudio de asesinatos en la historia de la filosof\u00eda."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a refuerza la tesis principal del texto seg\u00fan la cual las colitas fueron divulgadoras del g\u00e9nero, ya que el autor presenta la opini\u00f3n de L\u00f3pez Michelsen sobre las colitas como el ancestro directo del vallenato moderno, pero luego indica que es m\u00e1s acertado pensar que las colitas no ayudaron a formar el g\u00e9nero, sino a divulgarlo."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es correcta porque en el verso de \"La gota fr\u00eda\" se menciona a Urumita como un lugar al que iban los acordeoneros, no como un lugar famoso por las colitas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Escobar, el protagonista, se enfrenta a pensamientos profundos y dif\u00edciles sobre la vida y la muerte, y siente angustia por la naturaleza repetitiva y mon\u00f3tona de la vida. Esto lo hace m\u00e1s compatible con la opci\u00f3n 'sensible y con angustias'."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b resumen mejor el contenido del primer p\u00e1rrafo, ya que menciona que Internet ha generado cambios en el concepto tradicional de l\u00edmite, tal como lo define la etolog\u00eda y la antropolog\u00eda, tal como se expone en el p\u00e1rrafo."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque Umberto Eco se refiere a las naciones o comunidades que se forman por medio de la conexi\u00f3n virtual entre individuos de una misma cultura, a trav\u00e9s de Internet y el ciberespacio."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es correcta porque el texto describe c\u00f3mo las compa\u00f1\u00edas, incluyendo Google, se benefician de distraer a los usuarios de internet, lo que les permite recopilar informaci\u00f3n sobre ellos y obtener ganancias con anuncios publicitarios."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La frase ocurre al final del texto y resume sus argumentos, por lo que es una conclusi\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto dice que 'los liberales, los conservadores, los socialistas, los comunistas, los anarquistas y hasta los fascistas se han apresurado a proclamar las virtudes de la democracia y a mostrar sus credenciales dem\u00f3cratas'. Esto implica que la mayor\u00eda de posiciones pol\u00edticas existentes se identifican como democr\u00e1ticas."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La cita de Churchill sugiere que una breve conversaci\u00f3n con un votante medio har\u00eda evidente que la democracia no funciona, apoyando la opci\u00f3n c."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto efectivamente critica concepciones del conocimiento cient\u00edfico, que ha sido concebido como resultado de un m\u00e9todo en particular. Feyerabend propone que el conocimiento es un oc\u00e9ano de alternativas incompatibles, lo que contradice la idea de un 'm\u00e9todo cient\u00edfico' estricto y fijo."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a refleja directamente la influencia de las ideas liberales, ya que propone la igualdad de todos los ciudadanos (en este caso, cient\u00edficos) al sugerir que la tarea del cient\u00edfico no debe estar dedicada a la glorificaci\u00f3n de dios, lo que implicar\u00eda un trato desigual para aquellos que no siguen esa creencia."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La afirmaci\u00f3n 'El pueblo debe mantenerse unido' es incompatible con las pol\u00edticas del Partido, ya que el Partido busca dividir y controlar al pueblo, no fomentar la unidad."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La frase ilustra las ideas transmitidas al pueblo, ya que muestra de forma gr\u00e1fica y memorable la idea del r\u00e9gimen de ejercer un poder abrumador e ininterrumpido sobre los ciudadanos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c, 'Irremplazable', es un sin\u00f3nimo de 'Irrecusable' en el contexto de la frase, ya que implica que las fotograf\u00edas son pruebas que no pueden ser reemplazadas o negadas."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La respuesta correcta es b porque el resumen se concentra en un tipo espec\u00edfico de turistas (los cosmopolitas japoneses, estadounidenses y alemanes) en lugar de considerar a los turistas en general, como lo hace el texto original."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La descripci\u00f3n de los indios de Ibagu\u00e9 hecha por Aguado corresponde a la etapa de 'conquista' de los territorios que se anexar\u00edan a la colonia neogranadina, ya que la descripci\u00f3n es parte de un relato de una campa\u00f1a militar."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b se ajusta mejor al contenido del texto porque el historiador Jaime Humberto Borja enfatiza que la descripci\u00f3n del indio en la cr\u00f3nica de Fray Pedro de Aguado es un constructo ret\u00f3rico basado en tradiciones europeas y cristianas, respondiendo a necesidades ideol\u00f3gicas y culturales, en lugar de una representaci\u00f3n fiel de la realidad del ind\u00edgena y su entorno natural."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a menciona la guerra con M\u00e9xico como un ejemplo de los inconvenientes del gobierno, lo cual es coherente con la postura del autor."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es correcta porque el aforismo indica que la principal diferencia entre sistemas filos\u00f3ficos est\u00e1 en la manera de 'escamotear' los problemas, no en resolverlos."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La autora cuestiona el prejuicio de que los animales no tienen mente y, por tanto, no deben ser tratados como seres con personalidades o emociones."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto menciona a Rubens y su deseo de que admiremos la agradable representaci\u00f3n de su hijo, indicando que algunos artistas plasman en sus obras lo que a la gente le gusta ver en la realidad."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b expresa un juicio de valor presente en el texto, al decir que los golfillos pintados por Murillo tienen gran encanto, a pesar de no ser necesariamente bellos en realidad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la m\u00e1s adecuada porque el texto habla sobre la representaci\u00f3n de la belleza en el arte, mencionando a tres artistas (Rubens, Durero y Murillo) como ejemplos."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El autor afirma que si se da a un hombre justo y a un hombre injusto el poder de hacer lo que quieren, ninguno perseverar\u00eda en la justicia, lo que contradice la opci\u00f3n (a)."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d presenta el supuesto subyacente a la afirmaci\u00f3n de Plat\u00f3n, ya que plantea que la justicia no brinda ninguna de las ventajas individuales que la injusticia brinda."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es una raz\u00f3n a favor de la tesis principal del texto porque menciona que cuando una persona tiene la libertad para cometer injusticias, lo har\u00e1, lo que implica que actuar justamente no es algo que la gente desea hacer voluntariamente sino por obligaci\u00f3n o falta de libertad."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b expresa que la justicia se mantiene por la imposici\u00f3n de la ley y que, sin ella, los individuos seguir\u00edan sus deseos. Esto es consistente con el p\u00e1rrafo de Plat\u00f3n, donde se argumenta que si el justo y el injusto tuvieran el poder de hacer lo que quisieran, seguir\u00edan sus intereses personales, ya que la justicia no se considera un bien individual."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El autor introduce el relato sobre el anillo de Giges para persuadir a la audiencia de que actuar justamente requiere mucha fuerza de voluntad. El caso de Giges ilustra c\u00f3mo el poder del anillo dobleg\u00f3 su voluntad, haci\u00e9ndolo cometer injusticias."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto indica que el amor o el enamoramiento han sido recientemente vinculados al matrimonio y a la familia, contradiciendo la idea anterior de que el matrimonio era una instituci\u00f3n econ\u00f3mica y pol\u00edtica."
+                },
+                {
+                    "answer": "",
+                    "explanation": "Error: Invalid response format"
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La dote es un aporte patrimonial que la mujer ofrece al hombre al momento del matrimonio."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es correcta porque el tercer p\u00e1rrafo del texto provee un ejemplo espec\u00edfico, al hablar de la China tradicional, que ilustra c\u00f3mo la asociaci\u00f3n entre el amor y el matrimonio no es un concepto universal y a trav\u00e9s de los tiempos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es correcta porque indica que el matrimonio se consolid\u00f3 en el siglo XIX como la principal forma de institucionalizaci\u00f3n del amor conyugal, lo que implica que anteriormente no se consideraba que el amor fuera la base del matrimonio."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a ilustra la idea de la familia como una instituci\u00f3n econ\u00f3mica porque menciona que durante la Edad Media, la dote de la mujer era el mayor ingreso de dinero, bienes o tierras que un hombre pod\u00eda recibir en toda su vida."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El texto indica que muchas mujeres fulbes niegan cualquier apego hacia el marido y que el amor no es una condici\u00f3n necesaria para el matrimonio en esa comunidad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El texto menciona que el matrimonio ha tenido diferentes prop\u00f3sitos a lo largo de la historia, desde econ\u00f3micos y pol\u00edticos hasta el amor y la confianza, por lo que var\u00eda dependiendo del contexto hist\u00f3rico y social."
+                }
+            ],
+            "score": 0.6756756756756757
+        }
+    }
+}
