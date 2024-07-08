@@ -1,0 +1,205 @@
+{
+    "mixtral-8x7b-32768": {
+        "colombia_historia": {
+            "responses": [
+                {
+                    "answer": "b",
+                    "explanation": "Las opiniones no son complementarias porque la primera no promueve el vegetarianismo al argumentar sobre la supuesta transmisi\u00f3n de energ\u00edas negativas, sino que lo hace bas\u00e1ndose en la salud del ser humano."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Esta opci\u00f3n es el \u00fanico argumento v\u00e1lido en contra de las afirmaciones de los habitantes del barrio, ya que muestra una excepci\u00f3n a la suposici\u00f3n de que las personas de escasos recursos son m\u00e1s propensas a delinquir, al indicar que la pobreza y falta de oportunidades pueden llevar a alguien a cometer un delito en un momento de desesperaci\u00f3n."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La afirmaci\u00f3n (a) es prejuiciosa porque generaliza la prevalencia de la homosexualidad en la poblaci\u00f3n de muchos pa\u00edses, sin proporcionar evidencia confiable o estad\u00edsticas actualizadas."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El asesinato de Jorge Eli\u00e9cer Gait\u00e1n ocurri\u00f3 en 1948, de Rafael Uribe Uribe en 1914, de Luis Carlos Gal\u00e1n en 1989 y de \u00c1lvaro G\u00f3mez Hurtado en 1995, por lo que el orden correcto es 2, 3, 1 y 4."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Las dos posiciones son diferentes porque una est\u00e1 a favor de la legalizaci\u00f3n y la otra a favor del endurecimiento de las sanciones legales."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c es correcta porque el ruido de las fiestas afecta m\u00e1s a los propietarios del primer piso, quienes se encuentran m\u00e1s cercanos al sal\u00f3n comunal."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La soluci\u00f3n beneficia a ambas partes, ya que reduce el da\u00f1o ambiental, salvando algunos animales y \u00e1rboles, y permite a la constructora realizar su proyecto de construcci\u00f3n de apartamentos con modificaciones en los planos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Las propuestas se complementan ya que todas se enfocan en mitigar los costos sociales y econ\u00f3micos de la expansi\u00f3n urbana, priorizando soluciones como la densificaci\u00f3n de ciudades, legalizaci\u00f3n de barrios de invasi\u00f3n y mejora del transporte p\u00fablico."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La Constituci\u00f3n pol\u00edtica de Colombia se puede modificar mediante un referendo, ya que esta figura permite consultar al pueblo sobre proyectos de acto legislativo que implementen reformas parciales a la Constituci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es correcta porque la Constituci\u00f3n pol\u00edtica de Colombia establece que se requiere el 5 % del censo electoral para presentar una iniciativa popular que re-forme una ley."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El presidente no puede hacerlo porque la Constituci\u00f3n no puede ser reformada por el Ejecutivo; solo se puede realizar a trav\u00e9s de una Asamblea Constituyente."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El alcalde reconoci\u00f3 que los beneficios son para toda la comunidad, lo que descarta las opciones a, b y d. Sin embargo, los denunciantes creen que el alcalde abus\u00f3 de su poder, como se sugiere en la opci\u00f3n c."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "El presidente podr\u00eda proponer leyes cuando, de manera ordinaria, la Rama Legislativa es la \u00fanica que puede hacer esto. Esto indica que la distribuci\u00f3n del poder p\u00fablico se altera durante el estado de excepci\u00f3n, ya que el presidente asume facultades legislativas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La Rama Legislativa es la encargada del control pol\u00edtico a trav\u00e9s de citaciones y mociones de censura, ya que tiene el poder de supervisar y evaluar la actuaci\u00f3n de los miembros de la Rama Ejecutiva."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La consulta popular es el mecanismo m\u00e1s adecuado para que el presidente pueda conocer la opini\u00f3n ciudadana sobre una norma constitucional espec\u00edfica."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El Frente Nacional fue una coalici\u00f3n pol\u00edtica en Colombia que dur\u00f3 desde 1958 hasta 1974, y es la opci\u00f3n m\u00e1s probable representada en estas caricaturas."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El autor menciona un acuerdo entre los partidos tradicionales (que agrupan a casi todos los colombianos) como salida a la crisis social de la d\u00e9cada de 1950, refiri\u00e9ndose al Frente Nacional en Colombia."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La persona que realiz\u00f3 este planteamiento parece ser un investigador, ya que califica la guerra como irregular y poco convencional, demostrando un an\u00e1lisis externo del conflicto y no una posici\u00f3n directamente involucrada como las otras opciones."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d describe con precisi\u00f3n las medidas neoliberales, ya que implican reducir el tama\u00f1o del Estado y su intervenci\u00f3n en la econom\u00eda."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La propuesta se enfoca en eliminar trabas, crear empleos y simplificar tr\u00e1mites gubernamentales, lo que implica una reducci\u00f3n del rol del Estado en la econom\u00eda, coincidiendo con los principios del neoliberalismo."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es correcta porque el fragmento indica que el mercado puede comprometer la equidad y restringir el acceso de los m\u00e1s pobres, lo que implica que se necesita la intervenci\u00f3n del Estado para garantizar buenas condiciones de vida a todos."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la correcta ya que cuando un pa\u00eds importa una gran cantidad de productos que tambi\u00e9n se producen en su territorio, el uso de aranceles puede ayudar a proteger a las empresas nacionales de la competencia extranjera, favoreciendo la producci\u00f3n local y reduciendo el d\u00e9ficit comercial."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El desplazamiento forzado est\u00e1 relacionado con las disputas entre actores armados, por lo tanto, analiz\u00e1ndolo se pueden inferir los intereses econ\u00f3micos de los actores involucrados en el conflicto armado."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La Revoluci\u00f3n mexicana ocurri\u00f3 en 1910, la Revoluci\u00f3n rusa en 1917, la Revoluci\u00f3n cubana en 1959, y la Revoluci\u00f3n nicarag\u00fcense en 1979. Por lo tanto, la opci\u00f3n correcta es b."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La escasez de recursos naturales no renovables (opci\u00f3n 1) y la distribuci\u00f3n desigual de la propiedad de la tierra (opci\u00f3n 4) son las causas directas del conflicto agrario en Colombia."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La acci\u00f3n de tutela puede presentarse cuando un derecho fundamental se ve vulnerado o amenazado. La alternativa a menciona la vulneraci\u00f3n del derecho a la salud, que puede efectivamente representar un riesgo inminente para la vida."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b es correcta porque las personas o familias con ingresos medios y altos suelen buscar una mejor calidad de vida en barrios tranquilos, lejos del centro urbano congestionado."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n correcta es c, ya que estas movilizaciones y acciones promulgan y reivindican los derechos de estas personas y denuncian su exclusi\u00f3n."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La Revoluci\u00f3n Industrial conllev\u00f3 la migraci\u00f3n de la poblaci\u00f3n del campo a la ciudad en busca de empleo en las nuevas f\u00e1bricas."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Una constituci\u00f3n establece un orden jur\u00eddico y un marco normativo que delimita el poder del Estado y determina qu\u00e9 es legal. Las dem\u00e1s opciones incluyen algunas de las funciones de la justicia, el Estado y los ciudadanos, pero no abarcan la totalidad de lo que una constituci\u00f3n establece."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La posici\u00f3n del funcionario minimiza la gravedad de la violencia hacia las mujeres, lo que podr\u00eda significar no reconocer su gravedad."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c expresa correctamente que una organizaci\u00f3n busca ayudar a los campesinos asent\u00e1ndose y trabajando en el humedal, mientras que la otra desea preservar el ecosistema del humedal."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La medida de sustituci\u00f3n de importaciones consisti\u00f3 en producir localmente los bienes que antes se tra\u00edan del exterior, fomentando la industria nacional."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d es la \u00fanica que implica cobrar m\u00e1s impuestos a quienes tienen m\u00e1s recursos (impuestos de patrimonio y renta) y menos a quienes tienen menos (no se menciona una disminuci\u00f3n de impuestos para este grupo)."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d es la correcta porque el socialismo busca la tenencia colectiva de los medios de producci\u00f3n y el fortalecimiento del poder pol\u00edtico en las clases trabajadoras."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c menciona que las necesidades de la poblaci\u00f3n y lo que se demanda en esas ciudades puede ser muy distinto al de Bogot\u00e1, lo que podr\u00eda hacer que el programa no sea pertinente."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El hecho de que Palestina no tenga fronteras perfectamente definidas es la raz\u00f3n por la que no se la considera un Estado."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La decisi\u00f3n incentiva a los estudiantes a esforzarse m\u00e1s en sus estudios y convivencia."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El Gobierno mostr\u00f3 respeto por la comunidad ind\u00edgena y actu\u00f3 pensando en el bien com\u00fan al respectar la decisi\u00f3n inicial de la comunidad, pero al mismo tiempo buscar una soluci\u00f3n que permitiera la construcci\u00f3n de la represa y el reasentamiento de la comunidad en otro territorio."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El profesor est\u00e1 actuando de forma incorrecta porque est\u00e1 violando el principio de igualdad, al dar preferencia a los hombres sobre las mujeres al momento de otorgarles la palabra en clase."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la mejor sustento para la decisi\u00f3n del Estado, ya que la protecci\u00f3n de la diversidad \u00e9tnica y cultural implicar\u00eda salvaguardar las creencias y formas de vida de la comunidad ind\u00edgena afectada."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Revisar los cambios en los \u00edndices de criminalidad desde que el alcalde se posesion\u00f3 permite objetivamente evaluar su desempe\u00f1o en seguridad."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la m\u00e1s af\u00edn con la propuesta de legalizaci\u00f3n, ya que argumenta que la prohibici\u00f3n en pa\u00edses productores ha generado problemas sociales mayores a los que se pretend\u00edan evitar. Al legalizar, se busca reducir estos problemas y mejorar la situaci\u00f3n social."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La declaraci\u00f3n favorece los intereses de los agresores, ya que les da una justificaci\u00f3n para su comportamiento inapropiado."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La opci\u00f3n b plantea los intereses en conflicto entre los residentes que desean seguridad y los dem\u00e1s habitantes de la ciudad que podr\u00edan perder el acceso a los espacios p\u00fablicos en esos sectores cerrados."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La opci\u00f3n a respeta la libertad de conciencia del soldado al desvincularlo de la instituci\u00f3n militar, lo que permite que no viole sus creencias religiosas."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b vulnera m\u00e1s el derecho a la educaci\u00f3n porque directamente ajusta el calendario escolar para eliminar clases durante las inundaciones, en lugar de buscar soluciones que permitan a los estudiantes seguir asistiendo a clases regularmente."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La dimensi\u00f3n econ\u00f3mica (crecimiento econ\u00f3mico a trav\u00e9s de industrias pesadas) est\u00e1 en conflicto con la dimensi\u00f3n ambiental (reducci\u00f3n de la contaminaci\u00f3n)."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La expulsi\u00f3n de los vendedores podr\u00eda disminuir los ingresos de las familias que depend\u00edan de esas ventas, ya que les quitar\u00eda su fuente de sustento."
+                }
+            ],
+            "score": 0.7346938775510204
+        }
+    }
+}

@@ -36,7 +36,7 @@ client = Groq(
 
 results = {}
 
-for i in range(1, iters + 1):
+for i in range(4, iters + 1):
     for model, test_instrument in product(models, test_instruments):
         test_instrument_name = test_instrument['name']
         test_instrument_filename = test_instrument['filename']

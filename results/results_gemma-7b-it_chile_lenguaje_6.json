@@ -1,0 +1,269 @@
+{
+  "gemma-7b-it": {
+    "chile_lenguaje": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es 'confundirse'. El texto describe c\u00f3mo Carlos se sintio al descubrir que no le interesaban los trapecistas, y que finalmente se consola al comprender que solo quer\u00eda destruir el malentendido sobre los payasos."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b dice que el protagonista quer\u00eda ver los payasos, lo que es consistente con el texto."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta. La frase 'Miraba con los ojos muy abiertos' indica que Carlos se intriga y se fixationa en los detalles de las actuaciones del show."
+        },
+        {
+          "answer": "e",
+          "explanation": "La expresi\u00f3n 'pobre diablo' se refiere a un hombre que no logra hacer re\u00edr a un peque\u00f1o ni\u00f1o, lo que indica que carece de \u00e9xito en su trabajo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es que el padre evita que su hijo asiste al circo porque cree que el espect\u00e1culo de los trapecistas puede afectar el estado emocional de este."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta. Los compa\u00f1eros de Carlos tienen intereses diferentes a los de \u00e9l, y esto causa que no comprendan por qu\u00e9 Carlos est\u00e1 tan interesado en el circo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es b. La lectura indica que Carlos corr\u00eda un riesgo emocional si ve\u00eda el espect\u00e1culo de los payasos, pues ten\u00eda miedo de que pudiera estar demasiado impresionado y conmovido por el riesgo de los trapecistas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el agua se dilata entre los 4 y 0 grados, lo que es correcto."
+        },
+        {
+          "answer": "e",
+          "explanation": "La canci\u00f3n evoca recuerdos felices de C\u00e1ndido y Georgina, por lo que imaginan sus momentos en el r\u00edo, estando j\u00f3venes."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "C\u00e1ndido enfatiza que, a pesar de los obst\u00e1culos que los separan, ambos prometen no separarse jam\u00e1s m\u00e1s."
+        },
+        {
+          "answer": "a",
+          "explanation": "El Secretario pronuncia este segmento para expresar duda sobre la afirmaci\u00f3n de que Georgina Travieso fue s\u00f3lo Georgina Travieso. Menciona a otras mujeres conocidas que tambi\u00e9n podr\u00edan haber sido llamadas por esos nombres."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es comparar a Georgina Travieso con personajes de obras musicales que interpret\u00f3."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la tecnolog\u00eda crea \u201cmonstruos\u201d, lo que est\u00e1 de acuerdo con las ideas del fil\u00f3sofo Francisco de Goya sobre la relaci\u00f3n entre la raz\u00f3n y la creatividad."
+        },
+        {
+          "answer": "b",
+          "explanation": "El sentido de la palabra USO en el contexto del tercer p\u00e1rrafo es EMPLEO, porque el juicio de valor sobre la tecnolog\u00eda de Internet depender\u00e1 del modo en que los usuarios la utilizan."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es d. Los elementos b\u00e1sicos de la revoluci\u00f3n industrial, como el agua potable, la electricidad, las escuelas, los hospitales, representan los avances b\u00e1sicos de la revoluci\u00f3n industrial."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "El sexto p\u00e1rrafo afirma que la repetici\u00f3n de im\u00e1genes estimula la atenci\u00f3n en los espectadores."
+        },
+        {
+          "answer": "a",
+          "explanation": "El fragmento sugiere que la comunicaci\u00f3n humana se ha desnaturalizado con la llegada de nuevas tecnolog\u00edas, permitiendo un acceso constante a la informaci\u00f3n y alejando la comunicaci\u00f3n real y directa."
+        },
+        {
+          "answer": "b",
+          "explanation": "Los prejuicios sobre el desarrollo del ferrocarril a fines del siglo XIX surgieron debido al miedo de ciertos grupos humanos frente a los avances de la tecnolog\u00eda."
+        },
+        {
+          "answer": "d",
+          "explanation": "El p\u00e1rrafo enfatiza que el acceso al conocimiento virtual, a trav\u00e9s de Internet, puede conducir al alejamiento social del usuario."
+        },
+        {
+          "answer": "e",
+          "explanation": "El emisor considera la realidad virtual como un contexto tecnol\u00f3gico que no debe suprimir la capacidad imaginativa del hombre, pero que lo enriquecce y lo expanden."
+        },
+        {
+          "answer": "d",
+          "explanation": "El fragmento sugiere que las nuevas tecnolog\u00edas pueden conducir a una p\u00e9rdida de sentido y emociones ante eventos impactantes."
+        },
+        {
+          "answer": "c",
+          "explanation": "El escritor enfatiza que, a pesar de los numerosos avances tecnol\u00f3gicos, un alto porcentaje de la poblaci\u00f3n mundial a\u00fan no tiene acceso a las bases de la tecnolog\u00eda y las comunicaciones digitales."
+        },
+        {
+          "answer": "b",
+          "explanation": "El Yastay es el jefe de la manada de guanacos."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta es el arriero que socorre a los guanaquitos, puesto que se menciona que es justo y muy inteligente por haber cuidado de los peque\u00f1os guanaquitos heridos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La \u00faltima oraci\u00f3n del texto expone que el objetivo es destacar las aventuras de los arrieros."
+        },
+        {
+          "answer": "c",
+          "explanation": "La historia ilustra la virtud y el comportamiento altruista del Yastay al cuidar de los guanaquitos heridos."
+        },
+        {
+          "answer": "a",
+          "explanation": "El Yastay se destaca por su valent\u00eda al proteger a los guanaquitos heridos, incluso a pesar de que \u00e9l mismo es un guanaco mayor."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d explica correctamente que el Yastay es un her moso ejemplar de guanaco, mayor que los dem\u00e1s."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto utiliza un uso irregular de la puntuaci\u00f3n, lo que puede dificultar la comprensi\u00f3n de algunos lectores."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es d. Los cambios pol\u00edticos y la crisis econ\u00f3mica del momento se reunieron para que disminuyera la venta de la revista."
+        },
+        {
+          "answer": "b",
+          "explanation": "El cuarto p\u00e1rrafo enfatiza que las revistas extranjeras influyeron en el periodismo moderno en Chile."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta. La revista El Peneca se dirigi\u00f3 a un p\u00fablico infantil y recib\u00eda colaboraciones de sus lectores."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto afirma que la poca innovaci\u00f3n de contenidos del Peneca  fue una de las razones del descenso en el tiraje hacia el a\u00f1o 1921."
+        },
+        {
+          "answer": "d",
+          "explanation": "El descenso del tiraje de la revista El Peneca se debi\u00f3 a la baja calidad de sus contribuciones literarias, la baja calidad del papel y la poca innovaci\u00f3n de contenidos, que se produjeron en 1921."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta afirma que el texto se relaciona con el nacimiento de la revista El Peneca  como revista dirigida a un p\u00fablico infantil."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es que el origen del nombre de la cueca brava se asocia con las nuevas exigencias del p\u00fablico lector, ya que la revista se adapt\u00f3 a las demandas de sus lectores y les dio un nuevo rostro e introdujo un cambio radical en los contenidos."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es que la pregunta se refiere a las distintas caracter\u00edsticas de una revista infantil."
+        },
+        {
+          "answer": "a",
+          "explanation": "La pregunta est\u00e1 relacionada con el texto proporcionado, pero la informaci\u00f3n sobre los exponentes de la cueca brava no est\u00e1 contenida en el texto, por lo que no puedo proporcionar una respuesta."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta. La \u00faltima frase de la pregunta indica que la respuesta debe referirse al dinamismo de los bailarines, lo que est\u00e1 relacionado con el movimiento y la energ\u00eda de los mismos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d explica  que el art\u00edculo contiene informaci\u00f3n sobre el contexto hist\u00f3rico en que se public\u00f3 la revista, incluyendo la situaci\u00f3n econ\u00f3mica y pol\u00edtica de Chile a principios del siglo XX."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d dice que las actividades f\u00edsicas aumentan la oxigenaci\u00f3n del cerebro y favorecen la supervivencia de las neuronas."
+        },
+        {
+          "answer": "e",
+          "explanation": "El und\u00e9cimo p\u00e1rrafo habla sobre c\u00f3mo el aprendizaje continuo es el principal factor protector del cerebro y menciona la idea de Santiago Ram\u00f3n y Cajal de que todo hombre puede esculpir su propio cerebro."
+        },
+        {
+          "answer": "c",
+          "explanation": "El \u00faltimo p\u00e1rrafo menciona que Santiago Ram\u00f3n y Cajal plantearon que todo hombre puede esculpir el funcionamiento y la estructura de su propio cerebro."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto enfatiza que el aprendizaje es un factor clave para mantener la actividad cerebral y fomentar el crecimiento y el desarrollo del cerebro."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto afirma que el aprendizaje continuo es el principal factor protector del cerebro, ya que cada vez que aprendemos algo nuevo se establece una nueva conexi\u00f3n neuronal en nuestro cerebro."
+        },
+        {
+          "answer": "a",
+          "explanation": "El segundo y tercer p\u00e1rrafos enfatizan que realizar actividades mentales diversos y desafiantes es importante para mantener y mejorar la eficiencia del cerebro."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto enfatiza la necesidad de realizar actividades para mejorar la capacidad del cerebro y advierte sobre los resultados mixtos de algunos ejercicios y m\u00e9todos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el texto expone mitos y creencias err\u00f3neas sobre lo que favorecer\u00eda las capacidades cognitivas del cerebro."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es resguardar, ya que describe la acci\u00f3n de proteger o mantener seguro algo, como en este caso, la felicidad de la peque\u00f1a amada."
+        },
+        {
+          "answer": "c",
+          "explanation": "En el \u00faltimo p\u00e1rrafo, el protagonista se encuentra deambulando, ya que est\u00e1 diciendo que podr\u00eda tomar diferentes decisiones, como ir a pasear o llevar a su amada a casa."
+        },
+        {
+          "answer": "e",
+          "explanation": "El narrador decide no contar a su amada porque desea mantenerla feliz y feliz y evitar que se sienta desanimada por las estad\u00edsticas que tiene que contar."
+        },
+        {
+          "answer": "c",
+          "explanation": "El protagonista afirma que nunca m\u00e1s se sentir\u00e1 c\u00f3modo al contar a la chica, evitando que confiera o se sinta como un n\u00famero m\u00e1s en sus estad\u00edsticas."
+        },
+        {
+          "answer": "b",
+          "explanation": "El protagonista admite que comete errores al contar el n\u00famero de personas que pasan por el puente cuando est\u00e1 con su amada alrededor."
+        },
+        {
+          "answer": "e",
+          "explanation": "El protagonista describe una visi\u00f3n de sociedad en la que la gente est\u00e1 obsesa con cumplir objetivos y metas, olvid\u00e1ndose de las personas y sus emociones."
+        },
+        {
+          "answer": "b",
+          "explanation": "El relato describe una relaci\u00f3n de trabajo deshumanizada, donde el ser humano es visto como algo cuantificable, con el fin de optimizar el trabajo."
+        },
+        {
+          "answer": "e",
+          "explanation": "La historia describe una comportamiento err\u00e1tico y poco convencional, sin una estructura ni un prop\u00f3sito claro, lo que sugiere una naturaleza absorbente y an\u00f3nima."
+        }
+      ],
+      "score": 0.3384615384615385
+    }
+  }
+}

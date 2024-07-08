@@ -1,0 +1,269 @@
+{
+  "gemma-7b-it": {
+    "chile_lenguaje": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es 'confundirse'. En el texto se menciona que los payasos no le hac\u00edan re\u00edr a Carlos, lo que lo conmovi\u00f3."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b indica que el protagonista deseaba ir al circo, lo que es consistente con la informaci\u00f3n de que estaba muy interesado en ver los payasos."
+        },
+        {
+          "answer": "c",
+          "explanation": "Observar significa observar cuidadosamente y con atenci\u00f3n los detalles de algo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta. La lectura del texto muestra que Carlos muestra curiosidad al observar cada detalle de las piruetas de los artistas del show."
+        },
+        {
+          "answer": "e",
+          "explanation": "La expresi\u00f3n 'pobre diablo' se refiere a un hombre que no logra hacer re\u00edr a un peque\u00f1o ni\u00f1o, lo que indica una falta de \u00e9xito en su desempe\u00f1o."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es que el padre de Carlos se preocupa por afectar el estado emocional de su hijo."
+        },
+        {
+          "answer": "b",
+          "explanation": "Las opciones a, c y d son falsas. La opci\u00f3n b es correcta porque los compa\u00f1eros de Carlos tienen intereses distintos a los de \u00e9l, y por eso no comprenden por qu\u00e9 \u00e9l tiene un inter\u00e9s tan grande por el circo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es b. La lectura indica que Carlos corr\u00eda un riesgo emocional si ve\u00eda el espect\u00e1culo de los payasos, ya que ten\u00eda un malentendido sobre ellos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el agua se dilata entre los 4 y 0 grados, lo que es correcto."
+        },
+        {
+          "answer": "e",
+          "explanation": "La canci\u00f3n \u201cYo soy como el cisne blanco que cuando canta se muere\u2026\u201d es un s\u00edmbolo de la muerte de la relaci\u00f3n entre C\u00e1ndido y Georgina."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es la opci\u00f3n c. La respuesta describe c\u00f3mo C\u00e1ndido recuerda a Georgina cuando ella se va, recordando una promesa que le hizo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La conversaci\u00f3n gira en torno a la memoria de la relaci\u00f3n entre C\u00e1ndido y Georgina, explorando sus emociones y recuerdos juntos."
+        },
+        {
+          "answer": "b",
+          "explanation": "C\u00e1ndido afirma claramente que, a partir de ese momento, ellos ya no se separaci\u00f3n nunca m\u00e1s, expresando su determinaci\u00f3n de mantener juntos para siempre."
+        },
+        {
+          "answer": "c",
+          "explanation": "El Secretario habla con dudas/desconfianza, ya que menciona que ella fue para muchos\u2026  Cecilia Vald\u00e9s o Madame Butterfly o Mar\u00eda la O, o Luisa Fernanda\u2026"
+        },
+        {
+          "answer": "b",
+          "explanation": "La expresi\u00f3n destaca a una serie de personajes de obras musicales admiradas por Georgina Travieso."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la tecnolog\u00eda nueva es como un hombre sin muchos talentos, que simplemente crea y imagina 'monsters' sin una profunda reflexi\u00f3n y an\u00e1lisis cr\u00edtico."
+        },
+        {
+          "answer": "b",
+          "explanation": "El sentido de la palabra USO en el contexto del tercer p\u00e1rrafo es EMPLEO, porque el juicio de valor sobre la tecnolog\u00eda de Internet depender\u00e1 del modo en que los usuarios la utilizan."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta est\u00e1 en el \u00faltimo p\u00e1rrafo del s\u00e9ptimo p\u00e1rrafo, donde se menciona que el agua potable, la electricidad, las escuelas, los hospitales, etc. representan los avances b\u00e1sicos de la revoluci\u00f3n industrial."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que algunos temas tratados por la ciencia ficci\u00f3n son perfectamente reconocibles en el mundo real actual: el aislamiento f\u00edsico y la conexi\u00f3n tecnol\u00f3gica."
+        },
+        {
+          "answer": "c",
+          "explanation": "El sexto p\u00e1rrafo argumenta que la repetici\u00f3n de im\u00e1genes estimula la atenci\u00f3n en los espectadores, permiti\u00e9ndoles aprender m\u00e1s sobre las circunstancias de un evento."
+        },
+        {
+          "answer": "a",
+          "explanation": "El fragmento afirma que la comunicaci\u00f3n humana se ha desnaturalizado con las nuevas tecnolog\u00edas, lo que sugiere que la comunicaci\u00f3n ya no es la misma despu\u00e9s del surgimiento de las tecnolog\u00edas digitales."
+        },
+        {
+          "answer": "b",
+          "explanation": "Los prejuicios sobre el desarrollo del ferrocarril surgieron debido al miedo de ciertos grupos humanos frente a los avances de la tecnolog\u00eda."
+        },
+        {
+          "answer": "d",
+          "explanation": "El p\u00e1rrafo afirma que, a pesar de los grandes progresos tecnol\u00f3gicos, solo un 3% de la poblaci\u00f3n tiene acceso a Internet, lo que sugiere que la comunicaci\u00f3n a trav\u00e9s de Internet apenas es accesible a una parte de la humanidad."
+        },
+        {
+          "answer": "e",
+          "explanation": "El emisor argumenta que la realidad virtual es un mundo paralelo que no debe suprimir la capacidad imaginativa del hombre, sino que debe coexistir con ella."
+        },
+        {
+          "answer": "d",
+          "explanation": "El fragmento sugiere que las nuevas tecnolog\u00edas pueden desencadenar una p\u00e9rdida de emociones ante eventos impactantes debido a la sobrecarga de informaci\u00f3n y la facilidad de acceso a la informaci\u00f3n, lo que lleva a una menor capacidad de empat\u00eda y emociones profundas."
+        },
+        {
+          "answer": "c",
+          "explanation": "El escritor afirma que un alto porcentaje de la poblaci\u00f3n mundial ni siquiera tiene acceso a lo conquistado en la revoluci\u00f3n industrial."
+        },
+        {
+          "answer": "b",
+          "explanation": "El Yastay es el jefe de los arrieros, lo que se menciona en el primer p\u00e1rrafo de la narrativa."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es el arriero que socorre a los guanaquitos, ya que se menciona que es justo y muy inteligente al cuidar de los peque\u00f1os guanaquitos heridos."
+        },
+        {
+          "answer": "a",
+          "explanation": "El Yastay obstruye el paso del arriero como s\u00edmbolo de agradecimiento por cuidar a los guanaquitos heridos."
+        },
+        {
+          "answer": "a",
+          "explanation": "El objetivo del texto es narrar la historia del Yastay y su relaci\u00f3n con un arriero."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta ya que la historia muestra las virtudes del Yastay al cuidar de los guanaquitos heridos."
+        },
+        {
+          "answer": "b",
+          "explanation": "El Yastay se presenta como un l\u00edder que se preocupa de sus seguidores y est\u00e1 dispuesto a tomar decisiones dif\u00edciles para protegerlos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el Yastay es un her moso ejemplar de guanaco, lo que es cierto seg\u00fan la informaci\u00f3n proporcionada en el texto."
+        },
+        {
+          "answer": "c",
+          "explanation": "El uso de la puntuaci\u00f3n puede dificultar la comprensi\u00f3n, ya que el texto contiene oraciones muy largas y complejas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es b. Los cambios pol\u00edticos y la crisis econ\u00f3mica del momento hicieron que la revista estuviera en peligro de desaparecer."
+        },
+        {
+          "answer": "b",
+          "explanation": "El cuarto p\u00e1rrafo destaca la influencia extranjera en el periodismo moderno, con la importaci\u00f3n de historietas norteamericanas que marc\u00f3 el final de la edad de oro de la revista El Peneca."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es c. La descripci\u00f3n describe la publicaci\u00f3n de El Peneca, incluyendo la direcci\u00f3n del p\u00fablico objetivo, las colaboraciones de los lectores y las renovaciones de contenido."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto afirma que la falta de innovaci\u00f3n en los contenidos de la revista El Peneca  condujo a una disminuci\u00f3n en su venta en 1921."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto afirma que el descenso del tiraje de la revista El Peneca se produjo en 1921."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta describe c\u00f3mo El Peneca fue creada como revista especializada dirigida a los ni\u00f1os, y c\u00f3mo esta revista es un ejemplo de las primeras revistas especializadas dirigidas a este p\u00fablico."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta describe caracter\u00edsticas espec\u00edficas de una revista infantil, como su enfoque en el p\u00fablico infantil, la publicaci\u00f3n de historias y cuentos, y la participaci\u00f3n del p\u00fablico en la creaci\u00f3n de la revista."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta explica que tanto la cueca brava como el Jazz Huachaca tienen un origen arrabalero, lo que es relevante para comprender su contexto y evoluci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que la revista manifestaba las intentions de la pareja, lo que es cierto, ya que la revista era conocida por incluir historias y art\u00edculos con temas relacionados a la pareja y sus emociones."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la adecuada ya que la \u00faltima frase del texto menciona c\u00f3mo la revista El Peneca  influy\u00f3 en la rescat de la cueca como expresi\u00f3n popular."
+        },
+        {
+          "answer": "d",
+          "explanation": "La pregunta describe la publicaci\u00f3n de revistas especializadas para ni\u00f1os en Chile a principios del siglo XX y c\u00f3mo algunas de ellas sobrevivieron a trav\u00e9s de cambios editoriales y de calidad del contenido. La opci\u00f3n d se ajusta a este contexto hist\u00f3rico."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es d. La \u00faltima oraci\u00f3n del texto sugiere que evitar un entrenamiento cognitivo no es efectivo para aumentar las capacidades mentales."
+        },
+        {
+          "answer": "e",
+          "explanation": "El und\u00e9cimo p\u00e1rrafo habla sobre c\u00f3mo el aprendizaje continuo es el principal factor protector del cerebro y que este puede cambiar el funcionamiento y la estructura del cerebro."
+        },
+        {
+          "answer": "c",
+          "explanation": "El \u00faltimo p\u00e1rrafo menciona la afirmaci\u00f3n de Santiago Ram\u00f3n y Cajal de que el cerebro es capaz de cambiar su funcionamiento y estructura seg\u00fan las actividades, emociones, percepciones, pensamientos y imaginaciones de las personas. Esta capacidad es un aspecto crucial de las capacidades del cerebro de los adultos mayores."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto enfatiza el papel del aprendizaje continuo como factor protegente del cerebro y enfatiza que el aprendizaje nuevo estimula las conexiones neuronales y permite al cerebro crecer y desarrollarse."
+        },
+        {
+          "answer": "e",
+          "explanation": "El p\u00e1rrafo afirma que el aprendizaje continuo es el principal factor protector del cerebro, ya que cada vez que aprendemos algo nuevo se establece una nueva conexi\u00f3n neuronal en nuestro cerebro."
+        },
+        {
+          "answer": "a",
+          "explanation": "El segundo p\u00e1rrafo explica c\u00f3mo realizar actividades mentales desafiantes mejora la eficiencia del cerebro. El tercer p\u00e1rrafo enfatiza que realizar actividades diversas y desafiantes es beneficioso para el cerebro."
+        },
+        {
+          "answer": "e",
+          "explanation": "El texto argumenta que la mayor\u00eda de los m\u00e9todos y productos promocionales para mejorar las capacidades del cerebro no han sido probados y que es importante buscar informaci\u00f3n de expertos sobre sus efectos secundarios."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d es correcta ya que explica que no hay pruebas de que los productos o las t\u00e9cnicas que prometen aumentar las capacidades cognitivas sean efectivas. La mejor estrategia para mejorar las capacidades del cerebro es aprender continuamente, tener un estilo de vida saludable y realizar actividades f\u00edsicas regularmente."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta es 'resguardar' porque el texto describe c\u00f3mo el hombre est\u00e1 intentando controlar y organizar sus emociones extremas en relaci\u00f3n a la situaci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "En el \u00faltimo p\u00e1rrafo, el protagonista se encuentra marchando, ya que menciona que puede ir a pasear o apresurarse a la helader\u00eda."
+        },
+        {
+          "answer": "e",
+          "explanation": "El narrador decide no contar a su amada entre los transe\u00fantes porque espera poder relacionarse con ella y evitar que se sinta desanimada o desencantada por su trabajo."
+        },
+        {
+          "answer": "c",
+          "explanation": "El protagonista afirma que no puede confiar en s\u00ed mismo, ya que cuenta los veh\u00edculos que pasan por el puente de una forma err\u00f3nea, lo que le da resultados incorrectos."
+        },
+        {
+          "answer": "b",
+          "explanation": "El protagonista menciona que comete errores al contar el n\u00famero de personas que pasan por el puente cada vez que su amada pasa, lo que sugiere que tiene dificultades para concentrarse y contar correctamente."
+        },
+        {
+          "answer": "e",
+          "explanation": "El trabajo del protagonista ilustra una visi\u00f3n de sociedad donde los empleados est\u00e1n tan obsesionados por cumplir metas y cumplir objetivos, que se olvidan de las personas y sus emociones."
+        },
+        {
+          "answer": "b",
+          "explanation": "El relato describe un trabajo donde las personas se convierten en n\u00fameros y sus emociones se reducen a estad\u00edsticas, lo que da como resultado una deshumanizaci\u00f3n de las personas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta es 'met\u00f3dico y exigente' porque el autor describe el comportamiento del hombre como una serie de m\u00e9todos y verificaciones, buscando un resultado preciso."
+        }
+      ],
+      "score": 0.4153846153846154
+    }
+  }
+}

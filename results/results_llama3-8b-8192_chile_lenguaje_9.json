@@ -1,0 +1,269 @@
+{
+  "llama3-8b-8192": {
+    "chile_lenguaje": {
+      "responses": [
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el agua se dilata entre los 4 y 0 grados, lo que es correcto."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el padre hab\u00eda convenido que Carlos pudiese ir al circo cuando empezara un n\u00famero, lo que en este caso es cierto."
+        },
+        {
+          "answer": "d",
+          "explanation": "En el contexto del cuarto p\u00e1rrafo, Carlos DESCUBRIR la boca cansada del payaso, lo que coincide con la descripci\u00f3n de que pudo distinguir la boca verdadera del hombre bajo la risa pintada del payaso."
+        },
+        {
+          "answer": "c",
+          "explanation": "Carlos siente expectaci\u00f3n cuando aguarda el espect\u00e1culo de los payasos, lo que se refleja en su ansia por verlos."
+        },
+        {
+          "answer": "e",
+          "explanation": "La expresi\u00f3n 'pobre diablo' se refiere al payaso m\u00e1s c\u00f3mico que demuestra preocupaci\u00f3n al no lograr hacer re\u00edr a Carlos, quien no se r\u00ede ante su actuaci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "El padre de Carlos piensa que los trapecistas pueden afectar el estado emocional de su hijo, ya que es muy impresionable y puede conmoverse demasiado ante el riesgo in\u00fatil que corren los trapecistas."
+        },
+        {
+          "answer": "b",
+          "explanation": "Los compa\u00f1eros de Carlos se r\u00eden con \u00e9l al recordar su golpe o pirueta en el circo, lo que sugiere que no tienen miedo o superioridad hacia \u00e9l, sino que simplemente lo miran con curiosidad y sin malicia."
+        },
+        {
+          "answer": "d",
+          "explanation": "La expresi\u00f3n 'sent\u00eda algo parecido a un dolor en el pecho' cuando pensaba en los payasos, y su curiosidad para ver el circo, sugieren que Carlos anhelaba profundamente conocer la vida de los payasos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La palabra 'conservo' se refiere a la idea de conservar algo, lo que se ajusta a la escena en la que C\u00e1ndido conserva la promesa de regresar de Georgina y la cinta azul."
+        },
+        {
+          "answer": "a",
+          "explanation": "C\u00e1ndido y Georgina se imaginan youthful y in love, sitting by the river, with Candido 20 years old and Georgina 16, recalling their memorable encounter."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto menciona que 'ya ver\u00e1s ma\u00f1ana lo que cuenta esa chismosa' (frase 10), lo que sugiere que la persona que Gina se refiere con ese t\u00e9rmino es la ni\u00f1a que le entrega el ramo de flores y que Gina cree que puede conocer su secreto."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c se refiere a la discusi\u00f3n entre los personajes C\u00e1ndido y Georgina, que se centra en su pasado com\u00fan y su relaci\u00f3n amorosa."
+        },
+        {
+          "answer": "d",
+          "explanation": "En el segmento anterior, C\u00e1ndido manifiesta la existencia de un objeto dejado como 'prenda' (la cinta azul de las trenzas), que es revelado en la conversaci\u00f3n entre los personajes."
+        },
+        {
+          "answer": "d",
+          "explanation": "El Secretario pronuncia este segmento enfatizando la legado de Georgina Travieso como una figura multifac\u00e9tica y multiforme, lo que demuestra su optimismo y celebraci\u00f3n de su figura."
+        },
+        {
+          "answer": "a",
+          "explanation": "La expresi\u00f3n 'M\u00edrate joven en la glorieta' indica que Georgina se est\u00e1 comparando con alguien, en este caso, con personajes de \u00f3peras que ella interpret\u00f3, lo que coincide con la opci\u00f3n a)."
+        },
+        {
+          "answer": "b",
+          "explanation": "El enunciado dice que ha habido un cambio en la raz\u00f3n, de ser despierta y cr\u00edtica a somnolienta y que crea monstruos. Esto describe a alguien que no tiene car\u00e1cter, incapaz de tomar decisiones razonadas."
+        },
+        {
+          "answer": "b",
+          "explanation": "En el contexto del tercer p\u00e1rrafo, el uso se refiere a c\u00f3mo los usuarios utilizan la tecnolog\u00eda de Internet, y no a su aplicaci\u00f3n, empleo, explotaci\u00f3n, manejo o manipulaci\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "La palabra ELEMENTALES se refiere a los avances b\u00e1sicos y esenciales de la revoluci\u00f3n industrial, como el agua potable, la electricidad, la escuela, el hospital, el ferrocarril, etc., que son caracter\u00edsticas \u00fanicas y fundamentales de esa revoluci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d dice que algunos temas tratados por la ciencia ficci\u00f3n son perfectamente reconocibles en el mundo real actual, lo que se refleja en el contexto del d\u00e9cimo p\u00e1rrafo, donde se describe c\u00f3mo la realidad virtual puede llevar al aislamiento f\u00edsico y la conexi\u00f3n tecnol\u00f3gica."
+        },
+        {
+          "answer": "e",
+          "explanation": "El sexto p\u00e1rrafo describe c\u00f3mo la repetici\u00f3n de una imagen, en este caso la ca\u00edda de Abdujaparov, puede llevar a la deshumanizaci\u00f3n y la p\u00e9rdida de emoci\u00f3n. Por lo tanto, la respuesta correcta es e)"
+        },
+        {
+          "answer": "d",
+          "explanation": "Seg\u00fan el fragmento, Jos\u00e9 Saramago describe un escenario en el que las personas se a\u00edslen en sus departamentos, conectadas a Internet y en comunicaci\u00f3n con todo el planeta, pero aisladas del mundo material y del contacto concreto, lo que se refleja en la opci\u00f3n d."
+        },
+        {
+          "answer": "c",
+          "explanation": "La escolio 2nd indica que los prejuicios sobre el ferrocarril surgieron debido a que algunos esp\u00edritus apesadumbrados quer\u00edan obtener ventajas de ese medio de transporte."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d dice que el acceso al conocimiento virtual tender\u00eda al alejamiento social del usuario, lo que coincide con la idea principal del noveno p\u00e1rrafo, que critica la deshumanizaci\u00f3n y la ignorancia que puede generar la sobreexposici\u00f3n a la informaci\u00f3n."
+        },
+        {
+          "answer": "e",
+          "explanation": "El autor considera la realidad virtual como una dimensi\u00f3n que no debiera suprimir la capacidad imaginativa del hombre, sino que se paga siempre muy caro."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es d) la p\u00e9rdida de la capacidad humana de conmoverse ante un hecho impactante. El texto menciona la repetici\u00f3n de la ca\u00edda de Abdujaparov y c\u00f3mo, con cada repetici\u00f3n, su sensibilidad se mitigaba y se ve\u00eda la escena con la distancia de un cin\u00e9filo, lo que sugiere que la exclusiva dependencia en la informaci\u00f3n visual puede llevar a una desensibilizaci\u00f3n y p\u00e9rdida de la capacidad para conmoverse ante un hecho impactante."
+        },
+        {
+          "answer": "c",
+          "explanation": "El autor afirma que la inmensa mayor\u00eda de los seres humanos ignora incluso la existencia de las nuevas tecnolog\u00eda, y que solo el 3% de la poblaci\u00f3n global tiene acceso a una computadora, y los que utilizan Internet son a\u00fan menos numerosos."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto describe que el Yastay es el jefe de todos los relinchos y que es un hermoso eje mplar de guanaco, mucho mayor que los otros machos."
+        },
+        {
+          "answer": "a",
+          "explanation": "El texto describe al arriero que socorri\u00f3 a los guanaquitos heridos como justo y muy inteligente, ya que se tom\u00f3 el tiempo de cuidarlos y alimentarlos hasta que estuvieron recuperados."
+        },
+        {
+          "answer": "b",
+          "explanation": "El Yastay, como jefe de todos los relinchos, se dirigi\u00f3 al arriero para hacer justicia por los heridos guanacos, y obstruy\u00f3 su paso para que el arriero encontrara el lugar donde hubo la balacera y pudiera delatar a los delincuentes."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto describe varias historias y eventos relacionados con arrieros y guanacos, enfoc\u00e1ndose en las aventuras y habilidades de estos personajes."
+        },
+        {
+          "answer": "b",
+          "explanation": "La funci\u00f3n de la historia de los 'guanaquitos heridos' es invitar a imaginar y atender al relato de aventuras del Negro Garc\u00eda, alias el 'Ollito', lo que se refleja en la descripci\u00f3n de c\u00f3mo el autor y los dem\u00e1s arrieros lo escuchaban con inter\u00e9s y asist\u00edan a sus historias."
+        },
+        {
+          "answer": "d",
+          "explanation": "El Yastay es descrito como un guanaco que dirige a otros y tiene una sabidur\u00eda especial, lo que lo hace un l\u00edder y una fuente de sabidur\u00eda en la historia."
+        },
+        {
+          "answer": "b",
+          "explanation": "La frase 'Quiero hacer un paral\u00e9 en esta historia y quiero llegar a hablar el mismo idioma con ustedes' establece una relaci\u00f3n de confianza con los lectores al mostrar la intenci\u00f3n del narrador de conectarse con ellos y compartir su experiencia."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto combina palabras en castellano y quechuas, lo que puede ser problem\u00e1tico para el lector que no entiende bien el idioma quechua."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que los cambios pol\u00edticos y la crisis econ\u00f3mica del momento se reunieron para que disminuyera la venta de la revista, lo que es correcto."
+        },
+        {
+          "answer": "c",
+          "explanation": "El cuarto p\u00e1rrafo se refiere al descenso en la circulaci\u00f3n de la revista despu\u00e9s de diez a\u00f1os, debido a la baja calidad del papel, formato en blanco y negro y poca innovaci\u00f3n de contenidos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d describe correctamente que El Peneca acept\u00f3 trabajos de artistas extranjeros y invit\u00f3 a sus lectores a formar parte de la revista, lo que se menciona en el texto como una de las caracter\u00edsticas de este per\u00edodo."
+        },
+        {
+          "answer": "d",
+          "explanation": "El primer p\u00e1rrafo se refiere a la creaci\u00f3n de revistas para el p\u00fablico infantil, incluyendo El Peneca, y enumera varias revistas publicadas entre 1905 y 1908, pero no menciona aquellos aspectos mencionados en las otras opciones."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es la opci\u00f3n b que menciona los a\u00f1os 1911, 1921 y 1950, que corresponden a los siguientes eventos: el a\u00f1o 1911 marc\u00f3 una primera renovaci\u00f3n de la revista, el a\u00f1o 1921 un descenso en el tiraje debido a la baja calidad del papel y la falta de innovaci\u00f3n en los contenidos, y el a\u00f1o 1950 la importaci\u00f3n de historietas norteamericanas que marc\u00f3 el final de la edad de oro de la revista."
+        },
+        {
+          "answer": "c",
+          "explanation": "La informaci\u00f3n se organiza a partir de la contextualizaci\u00f3n del nacimiento de la revista El Peneca como revista dirigida a un p\u00fablico infantil."
+        },
+        {
+          "answer": "a",
+          "explanation": "El origen del nombre de la revista El Peneca no se menciona en el texto, por lo que no se puede asociar con ninguno de los opciones proporcionadas."
+        },
+        {
+          "answer": "a",
+          "explanation": "La revista en cuesti\u00f3n se centra en caracterizar las caracter\u00edsticas de El Peneca, una revista infantil creada en Chile en 1908, destacando la calidad de sus contenidos y su capacidad de integrar a su p\u00fablico en la creaci\u00f3n de la revista."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto no se refiere a la cueca brava y, por lo tanto, no menciona a los exponentes de este g\u00e9nero musical. La opci\u00f3n d se refiere a un estilo de m\u00fasica chileno, pero no est\u00e1 relacionada con el texto."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto no menciona a Roberto Parra en absoluto, por lo que no puede ser relacionado con ninguno de las opciones a). b). c) o d)."
+        },
+        {
+          "answer": "d",
+          "explanation": "La pregunta se refiere a El Peneca, una revista para ni\u00f1os chilenos, y no tiene relaci\u00f3n con la cueca brava, un g\u00e9nero musical tradicional chileno."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d describe que la revista El Peneca se Orienta hacia todos los ni\u00f1os de Chile, ricos o pobres, y debe ser barata para poder alcanzar a todos, lo que coincide con la descripci\u00f3n del per\u00edodo de Roxane en la revista."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d se refiere al rescate de la cueca como expresi\u00f3n popular, lo que es relevante para comprender la ejecuci\u00f3n del baile y su importancia para la revista El Peneca."
+        },
+        {
+          "answer": "d",
+          "explanation": "La inclusi\u00f3n de fuentes se realiza para contextualizar la informaci\u00f3n y brindar credibilidad a la narrativa."
+        },
+        {
+          "answer": "b",
+          "explanation": "La propia pregunta pide proporcionar credibilidad a la informaci\u00f3n del texto, ya que se refiere a la fiabilidad y objetividad de la informaci\u00f3n presentada."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d) evitar, se refiere a que los especialistas dicen que no hay pruebas de que los ejercicios mentales aumenten las capacidades cognitivas, por lo que es mejor evitar caer en la trampa de creer que se puede mejorar el funcionamiento del cerebro con ejercicios m\u00e1gicos."
+        },
+        {
+          "answer": "b",
+          "explanation": "El tema del und\u00e9cimo p\u00e1rrafo es la actividad f\u00edsica y su relaci\u00f3n con el estr\u00e9s y la vejez."
+        },
+        {
+          "answer": "d",
+          "explanation": "La menci\u00f3n de Santiago Ram\u00f3n y Cajal en el \u00faltimo p\u00e1rrafo destaca la capacidad del cerebro para cambiar su funcionamiento y estructura dependiendo de lo que hagamos, sintamos, percibamos, pensemos o imaginemos, lo que refuerza la idea de que el aprendizaje continuo es el principal factor protector del cerebro."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d refuerza la idea de que el cerebro se desarrolla y se estimula con el aprendizaje, seg\u00fan se expresa en el texto: 'Cada vez que aprendemos algo nuevo se establece una nueva conexi\u00f3n neuronal en nuestro cerebro. Y esto nos lleva a la conclusi\u00f3n de que el principal factor protector de nuestro cerebro es el aprendizaje continuo'."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d menciona desarrollo de la capacidad del cerebro, lo que se infiere del p\u00e1rrafo sexto que habla sobre mantener la mente activa, pero no hay pruebas de que aumente las capacidades cognitivas, y se enfoca en la importancia del aprendizaje y la estimulaci\u00f3n cerebral para desarrollar su capacidad."
+        },
+        {
+          "answer": "c",
+          "explanation": "El segundo p\u00e1rrafo habla sobre los centros y sitios web que ofrecen ejercicios para mejorar la capacidad de atender, concentrarse, memorizar y analizar, lo que no aumenta las capacidades cognitivas. El tercer p\u00e1rrafo indica que los especialistas dicen que la gimnasia cerebral solo mantiene la mente activa, pero no aumenta las capacidades cognitivas, lo que se refleja en la relaci\u00f3n entre la variedad de actividades mentales desafiantes y la efectividad del ejercicio mental dependiendo de la capacidad cognitiva."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto se enfoca en la necesidad de realizar actividades para mejorar la capacidad del cerebro, pero advierte que no todos los m\u00e9todos para hacerlo son efectivos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d se refiere a aclarar mitos y creencias erradas acerca de lo que favorecer\u00eda las capacidades cognitivas del cerebro, lo que coincide con el tema de la pregunta y el texto."
+        },
+        {
+          "answer": "d",
+          "explanation": "Desfilar es el verbo que se utiliza en la narrativa para describir el paso de las personas por el puente, lo que se menciona en el texto."
+        },
+        {
+          "answer": "d",
+          "explanation": "En el \u00faltimo p\u00e1rrafo el protagonista se encuentra libero para pasear y apreciar su amada sin tener que contar carros de caballos, lo que sugiere que est\u00e1 paseando."
+        },
+        {
+          "answer": "e",
+          "explanation": "El narrador decide no contar a su amada entre los transe\u00fantes porque considera que ella desanula todos los c\u00e1lculos y no puede ser tratada como una simple estad\u00edstica. Como la ama, no quiere contabilizarla y la desea fuera del segundo futuro de las estad\u00edsticas."
+        },
+        {
+          "answer": "c",
+          "explanation": "El protagonista se declara una persona poco confiable porque en secreto le gusta alterar los resultados estad\u00edsticos, regalando a veces un n\u00famero m\u00e1s alto o quitando uno, lo que indica que no puede ser confiado para proporcionar informaci\u00f3n precisa."
+        },
+        {
+          "answer": "d",
+          "explanation": "El protagonista admite que cuando est\u00e1 furioso o sin tabaco, da n\u00fameros del t\u00e9rmino medio, y cuando est\u00e1 contento, deja que su generosidad fluya en un n\u00famero de cinco cifras, lo que sugiere que cambia las cifras seg\u00fan sus estados de \u00e1nimo."
+        },
+        {
+          "answer": "e",
+          "explanation": "El protagonista pasa la mayor parte del texto describiendo su trabajo absurdo y c\u00f3mo se siente obligado a contar y registrar estad\u00edsticas, mostrando un trabajo obsesionado con cumplir metas y olvidando la humanidad y los sentimientos de las personas, lo que sugiere una sociedad que prioriza los objetivos y el rendimiento sobre la calidad de vida y la conexi\u00f3n humana."
+        },
+        {
+          "answer": "b",
+          "explanation": "El protagonista describe su trabajo como deshumanizado, ya que las personas aparecen como algo cuantificable y se reducen a n\u00fameros y estad\u00edsticas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La narrativa describe la rutina diaria del protagonista, contando el n\u00famero de personas que pasan por un puente, y su sentimiento de aburrimiento e insignificancia en su trabajo."
+        }
+      ],
+      "score": 0.38461538461538464
+    }
+  }
+}

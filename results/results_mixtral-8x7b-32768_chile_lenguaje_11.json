@@ -1,0 +1,269 @@
+{
+    "mixtral-8x7b-32768": {
+        "chile_lenguaje": {
+            "responses": [
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d est\u00e1 correcta porque Carlos pod\u00eda perturbarse con facilidad, especialmente al pensar en los payasos."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n e, necesario, es la correcta porque la situaci\u00f3n de Carlos se hac\u00eda insoportable, ya que sent\u00eda una curiosidad extrema por los payasos y necesitaba verlos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The word DISTINGUIR is used to mean DISCOVER because Carlos notices an unpainted part of the clown's face, which he hadn't seen before."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Carlos est\u00e1 ansioso y espera con entusiasmo el espect\u00e1culo de los payasos, es por esto que la opci\u00f3n correcta es (c) Expectaci\u00f3n."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La expresi\u00f3n 'pobre diablo' se utiliza para referirse al payaso que se acerc\u00f3 al ni\u00f1o, ya que este hombre debe simular felicidad para entretener a los espectadores del circo."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El padre imped\u00eda a Carlos ir al circo porque tem\u00eda que el n\u00famero de los trapecistas fuera demasiado emocionalmente impactante para \u00e9l."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Los compa\u00f1eros de Carlos se burlan de \u00e9l porque ha sido excluido de ciertas experiencias debido a su hipersensibilidad."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "Carlos siente un dolor en el pecho cuando piensa en los payasos y le es cada vez m\u00e1s dif\u00edcil soportar su curiosidad, lo que indica un riesgo emocional si ve el espect\u00e1culo de los payasos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "C\u00e1ndido dice '\u00bfNo te acuerdas de que cuando te fuiste me prometiste que volver\u00edas? Me dejaste en prenda la cinta azul de las trenzas.' Esto implica que guard\u00f3 o 'conserv\u00f3' el objeto que le fue entregado por Georgina."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "Luciendo significa mostrarse con orgullo o para ser admirado, lo que encaja con la descripci\u00f3n de la secuencia."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La ni\u00f1a a la que se refieren Georgina y C\u00e1ndido en la conversaci\u00f3n es calificada como 'chismosa' en la l\u00ednea 12."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La discusi\u00f3n es sobre los recuerdos compartidos por C\u00e1ndido y Georgina, especialmente aquel d\u00eda cuando Georgina se iba y C\u00e1ndido fue a despedirla al and\u00e9n. No se discute sobre Gina, C\u00e1ndido, la madre de Georgina ni el Secretario de Cultura."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "C\u00e1ndido recuerda que Georgina le dej\u00f3 una cinta azul como prenda cuando se fue, lo que indica la existencia de un objeto dejado."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El Secretario dice que Georgina Travieso no fue solo ella misma, sino tambi\u00e9n otras figuras famosas, lo que implica una exageraci\u00f3n o hip\u00e9rbole para resaltar su importancia e impacto en el mundo. Esto suele hacerse con un tono de sorpresa o increduidad, por lo que la opci\u00f3n correcta es (e) Incr\u00e9dula."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La expresi\u00f3n subrayada tiene el sentido de enumerar a personajes de obras musicales que represent\u00f3 Georgina Travieso."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "The context of the question is about a scenario in a party hall, where new technologies are being discussed. A 'young man/boy' (no specific age is given, so a young person of any age is appropriate) who is not aware or conscious of his actions or the impact of technology could be the type of person that creates monsters, as mentioned in the philosophy quote."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El t\u00e9rmino USO en este contexto se refiere al modo en que los usuarios emplean o hacen uso de Internet."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "ESENCIALES es la opci\u00f3n correcta porque el autor est\u00e1 contrastando las conquistas elementales de la vieja revoluci\u00f3n industrial con las nuevas tecnolog\u00edas de la informaci\u00f3n. Se refiere a que estos elementos b\u00e1sicos son esenciales y \u00fanicos de la revoluci\u00f3n industrial."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es la correcta porque concretarse en este contexto significa que algunos temas tratados por la ciencia ficci\u00f3n, como el aislamiento f\u00edsico y la conexi\u00f3n tecnol\u00f3gica, se han materializado en la realidad actual."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El sexto p\u00e1rrafo habla sobre la ca\u00edda de un ciclista visto en televisi\u00f3n. Al repetir la escena muchas veces, la sensibilidad del espectador se reduce y termina viendo la repetici\u00f3n sin emoci\u00f3n, como una escena analizada, lo que indica que la reiteraci\u00f3n anula la emoci\u00f3n humana."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La alternativa c dice que la comunicaci\u00f3n humana es una capacidad que ha permitido potenciar la transferencia de informaci\u00f3n, lo cual es consistente con el fragmento, ya que Saramago menciona la aptitud para buscar informaci\u00f3n como la nueva llave de la cultura."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b menciona el temor de ciertos grupos humanos frente a los avances tecnol\u00f3gicos, lo que coincide con la descripci\u00f3n."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d presenta la idea principal del noveno p\u00e1rrafo, ya que indica que el acceso a la informaci\u00f3n a trav\u00e9s de Internet podr\u00eda llevar a un alejamiento social y aumento de la ignorancia si no se utiliza para acercarse a los seres humanos."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n e dice que la realidad virtual es una dimensi\u00f3n que no deber\u00eda suprimir la capacidad imaginativa del hombre, lo que se infiere del und\u00e9cimo p\u00e1rrafo al mencionar que 'nuestros sue\u00f1os nos han conducido a universos virtuales extraordinarios... pero tambi\u00e9n pesadillas' y que 'no hay que contener la imaginaci\u00f3n, la creaci\u00f3n y la invenci\u00f3n'."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La respuesta correcta es d, la p\u00e9rdida de la capacidad humana de conmoverse ante un hecho impactante. Esto se desprende del ejemplo del ciclista Abdujaparov, donde las repeticiones de su ca\u00edda hacen que el espectador pierda emoci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la que mejor refleja la afirmaci\u00f3n del emisor, ya que se\u00f1ala que un gran porcentaje de la poblaci\u00f3n mundial no tiene acceso ni a las nuevas tecnolog\u00edas ni a los logros de la revoluci\u00f3n industrial."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El Yastay is described as the leader of all the 'relinchos', or groups of guanacos."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El arriero es justo y cuida de los guanaquitos heridos, lo que demuestra su inteligencia y buen coraz\u00f3n."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "El Yastay obstruye el paso del arriero para agradecerle por haber cuidado a los guanaquitos heridos, ya que el arriero hab\u00eda salvado y cuidado a los guanaquitos y luego, el Yastay lo gu\u00eda hacia los animales muertos, indicando que eran las v\u00edctimas de la balacera y que su deuda de estad\u00eda ha sido pagada."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The text's objective is to highlight the adventures of the arriers, as it focuses on the story of an arrier and his encounter with the Yastay, a remarkable example of a guanaco."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La historia de los 'guanaquitos heridos' ejemplifica las virtudes del Yastay, ya que muestra c\u00f3mo este guanaco agradeci\u00f3 al arriero su ayuda y protecci\u00f3n, demostrando inteligencia y justicia."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The Yastay shows wisdom in paying its debt to the shepherd by leading him to the recently killed animals."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "La alternativa b es la respuesta correcta porque es la frase en la que el narrador se dirige directamente al lector y expresa su intenci\u00f3n de establecer una conexi\u00f3n, lo que ayuda a crear un tono m\u00e1s personal y cercano."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The text has inconsistent verb tenses, making it difficult to understand."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "The changes in politics and economic crisis made the number of printed issues decrease."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c sintetiza el contenido del cuarto p\u00e1rrafo porque \u00e9ste informa sobre la causa por la cual la revista El Peneca decay\u00f3 en su venta: una crisis econ\u00f3mica en Chile y la baja calidad del papel, un formato en blanco y negro, y la poca innovaci\u00f3n de contenidos."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The correct answer is d because it mentions the acceptance of work from foreign artists and inviting readers to be part of the magazine, which corresponds to Emilio Va\u00efsse's and Elvira Santa Cruz's (Roxane) contributions to El Peneca."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La falta de innovaci\u00f3n del contenido disminuy\u00f3 la venta de la revista."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d es correcta porque el texto indica que el descenso en el tiraje de El Peneca ocurri\u00f3 despu\u00e9s de diez a\u00f1os de su creaci\u00f3n (1908+10=1918) y antes de que Elvira Santa Cruz (Roxane) asumiera su direcci\u00f3n en 1921."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La informaci\u00f3n se organiza alrededor del nacimiento y evoluci\u00f3n de la revista El Peneca, espec\u00edficamente enfoc\u00e1ndose en su contexto y relaci\u00f3n con el p\u00fablico infantil."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "The name El Peneca originated in response to political changes and economic crisis, as it was intended to be an affordable publication for all children, regardless of their social status."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "The correct answer is b, as the text provides a chronological sequence of events related to the children's magazine El Peneca, detailing its inception, changes, and impact throughout the first half of the 20th century."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The text mentions Roberto Parra's Jazz Huachaca as one of the examples of Chilean cultural expressions."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "Roberto Parra es mencionado en el texto para indicar que es el m\u00e1s conocido de los tres hermanos Parra, en referencia a Nicanor y Violeta."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La alternativa d es la m\u00e1s relevante porque la pregunta se refiere a la cueca brava y menciona al jazz huachaca, lo que sugiere una relaci\u00f3n entre ellas. La opci\u00f3n d es la \u00fanica que aborda esta posible relaci\u00f3n."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El dinamismo de los bailarines es resaltado por los grupos como Las capitalinas y Las Torcazas en su interpretaci\u00f3n de la cueca, la danza nacional de Chile."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "Opci\u00f3n d es la correcta porque el texto menciona que Elvira Santa Cruz, quien dirigi\u00f3 El Peneca entre 1921 y 1925, busc\u00f3 que la revista fuera barata y accesible para todos los ni\u00f1os de Chile, y que la revista respondi\u00f3 a las demandas de sus lectores. Adem\u00e1s, se destacaron cuentos y seriales que semana a semana enganchaban al lector. Por lo tanto, la opci\u00f3n d complementa la comprensi\u00f3n del texto indicando que El Peneca rescat\u00f3 la cueca como expresi\u00f3n popular y la difundi\u00f3 entre los ni\u00f1os de Chile."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La inclusi\u00f3n de las fuentes en el texto proporciona contexto hist\u00f3rico y cultural en relaci\u00f3n a las fiestas patrias chilenas, ya que la revista El Peneca fue creada y distribuida durante este per\u00edodo."
+                },
+                {
+                    "answer": "a",
+                    "explanation": "La alternativa a) Conceder proyecci\u00f3n al contenido del texto es la correcta, ya que la pregunta pide otorgar relevancia a la informaci\u00f3n del texto, y el contenido del texto habla sobre la historia y el impacto de la revista El Peneca en la sociedad chilena."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La alternativa e dice 'evitar', que es lo recomendado en el art\u00edculo para personas con actividades mentales demandantes."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "The 11th paragraph talks about how physical activity helps older adults avoid brain atrophy, which is associated with memory loss and other cognitive declines. This is combined with the benefits of reduced stress and improved mood. Therefore, the correct answer is 'combinada'."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "The mention of Santiago Ram\u00f3n y Cajal's statement highlights the effects of aging on the brain in adults."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "The main idea of the text is to reinforce the idea that the brain develops and is stimulated by learning."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "La opci\u00f3n c es la m\u00e1s adecuada porque el especialista menciona que el cerebro puede cambiar su estructura y funcionamiento dependiendo de las actividades, pensamientos e imaginaci\u00f3n de la persona."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "The second paragraph mentions the benefits of mentally challenging activities, while the third paragraph states that routine activities do not help cognitive functions; therefore, a relationship is established between the second and third paragraphs by contrasting mentally challenging activities with routine ones."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "The text mentions and questions the various offers to improve brain performance, making option e the correct answer."
+                },
+                {
+                    "answer": "d",
+                    "explanation": "La opci\u00f3n d se ajusta a la respuesta porque el art\u00edculo se enfoca en aclarar mitos y creencias erradas acerca de lo que favorecer\u00eda las capacidades cognitivas del cerebro."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n correcta es 'constatar', ya que el personaje est\u00e1 verificando o comprobando el n\u00famero de personas que pasan por el puente."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La opci\u00f3n correcta es 'pasear'. En el \u00faltimo p\u00e1rrafo, el protagonista est\u00e1 refiri\u00e9ndose a la posibilidad de llevar a su amada a casa despu\u00e9s de contar los carros de caballos, ya que su frecuencia es baja y tendr\u00eda tiempo libre para hacerlo."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El narrador no cuenta a su amada entre los transe\u00fantes porque quiere protegerla y preservar su individualidad, esperanzado en poder tener una relaci\u00f3n con ella."
+                },
+                {
+                    "answer": "c",
+                    "explanation": "El protagonista se considera poco confiable porque quiere proteger a su amada de ser convertida en una mera estad\u00edstica, prefiriendo mantener su individualidad y la importancia que \u00e9l le da en su mundo."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El protagonista var\u00eda las cifras del conteo de personas seg\u00fan sus estados de \u00e1nimo, d\u00e1ndose cuenta de que las estad\u00edsticas no est\u00e1n bien."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "El protagonista se olvida de las personas (como su amada y los peatones sin contar) en su obsesi\u00f3n por cumplir metas, reflejando una visi\u00f3n de sociedad con empleados oportunistas."
+                },
+                {
+                    "answer": "b",
+                    "explanation": "El protagonista considera su trabajo como deshumanizado, ya que ve a las personas como algo cuantificable y sin sentido m\u00e1s all\u00e1 de un n\u00famero."
+                },
+                {
+                    "answer": "e",
+                    "explanation": "La descripci\u00f3n se ajusta a la opci\u00f3n e, absorbente y an\u00f3nimo, pues el hablante se describe contando todo el d\u00eda y sintiendo pasi\u00f3n por su trabajo, pero al mismo tiempo, se siente invisible y sin importancia, a pesar del hecho de que impacta la vida de las personas."
+                }
+            ],
+            "score": 0.4307692307692308
+        }
+    }
+}
