@@ -1,0 +1,157 @@
+{
+  "llama3-8b-8192": {
+    "colombia_lenguaje": {
+      "responses": [
+        {
+          "answer": "c",
+          "explanation": "El estilo y la estructura del pasaje sugieren un contenido ligero y popular, lo que es com\u00fan en un discurso period\u00edstico como una cr\u00f3nica, en especial un especial sobre muertes curiosas, donde se busca entretenimiento y sorpresa en lugar de rigor acad\u00e9mico o especializaci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b est\u00e1 precisamente se\u00f1alando una posici\u00f3n discutible sobre el papel que desempe\u00f1aron las colitas en el origen del g\u00e9nero, refiri\u00e9ndose a la disputa sobre si las colitas ayudaron a formar el g\u00e9nero o solo a divulgarlo."
+        },
+        {
+          "answer": "d",
+          "explanation": "Urumita es presentado como un pueblo al que iban los acordeoneros, lo que se sostiene con el testimonio de 'La gota fr\u00eda', que cita un ejemplo de acordeonero que se encontr\u00f3 en Urumita y no quiso hacer parada."
+        },
+        {
+          "answer": "d",
+          "explanation": "Escobar se siente sensible y angustiado al vivir una realidad que no puede escapar, y su pensamiento se llena de reflexiones sobre la vida y la muerte, la rutina y la monotona existencia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a describe el concepto de l\u00edmite como el espacio de defensa que los seres crean a su alrededor, lo que es la idea central del primer p\u00e1rrafo."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d describe la formaci\u00f3n de comunidades virtuales en el ciberespacio, lo que coincide con la idea del autor de que se forman naciones y se establecen v\u00ednculos entre comunidades que no est\u00e1n f\u00edsicamente pr\u00f3ximas."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto sostiene que la omnipresencia de Internet y las pr\u00e1cticas publicitarias que surgen de ella pueden estar socavando la capacidad de concentraci\u00f3n y contemplaci\u00f3n, ya que se configura una forma de pensar y leer que se adapta al modelo empresarial de la red."
+        },
+        {
+          "answer": "b",
+          "explanation": "La frase es una conclusi\u00f3n del texto porque resumen el autor est\u00e1 proponiendo que el cambio en la forma de leer y pensar podr\u00eda ser un nuevo modo de existir, lo que proporciona un cierre a la reflexi\u00f3n presentada en el texto."
+        },
+        {
+          "answer": "d",
+          "explanation": "Seg\u00fan el texto, todas las posiciones pol\u00edticas (liberales, conservadores, socialistas, comunistas, anarquistas y fascistas) se han apresurado a proclamar las virtudes de la democracia y a mostrar sus credenciales dem\u00f3cratas."
+        },
+        {
+          "answer": "b",
+          "explanation": "Se infiere que la mayor\u00eda de los votantes en los sistemas democr\u00e1ticos son ignorantes o incompetentes, ya que seg\u00fan el texto, la afirmaci\u00f3n m\u00e1s poderosa contra la democracia es la conversaci\u00f3n de cinco minutos con el votante medio."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto critica concepciones del conocimiento cient\u00edfico, el cual se ha concebido como resultado de un m\u00e9todo, lo que coincide con la cr\u00edtica que hace Feyerabend al m\u00e9todo cient\u00edfico en su obra 'Tratado contra el m\u00e9todo'."
+        },
+        {
+          "answer": "d",
+          "explanation": "La afirmaci\u00f3n d refleja de manera m\u00e1s directa la influencia de las ideas liberales porque aplicando el principio del liberalismo, donde todos los ciudadanos son iguales ante la ley y ante el Estado, el autordice que el conocimiento no consiste en una serie de teor\u00edas autoconsistentes que tienden a converger en una perspectiva ideal, sino que es un oc\u00e9ano en constante crecimiento de alternativas incompatibles entre s\u00ed, lo que refleja la idea de igualdad y libertad de expresi\u00f3n inherente al liberalismo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c 'El poder est\u00e1 en ser fiel a uno mismo' contradice directamente con el discurso del miembro del Partido, que destaca la importancia de la lealtad al Partido y al Gran Hermano, y el rechazo de la individualidad y la fidelidad a uno mismo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c se refiere a que el texto expone el verdadero prop\u00f3sito del sistema de gobierno, que es la consolidaci\u00f3n del poder y la eliminaci\u00f3n de la individualidad y la creatividad."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'irrecusable' se refiere a algo que no puede ser discutido o cuestionado, y 'irremplazable' tambi\u00e9n tiene este significado, siendo un sin\u00f3nimo adecuado."
+        },
+        {
+          "answer": "c",
+          "explanation": "El resumen se centra en describir la actitud ir\u00f3nica y burlona de la autora hacia la fotograf\u00eda y no en presentar informaci\u00f3n detallada y secundaria del texto."
+        },
+        {
+          "answer": "d",
+          "explanation": "La descripci\u00f3n de los indios de Ibagu\u00e9 no ofrece informaci\u00f3n cronol\u00f3gica que permita identificar el momento que corresponde a la descripci\u00f3n, por lo que no se puede determinar un per\u00edodo espec\u00edfico en la historia de la colonizaci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b se ajusta mejor al contenido del texto ya que explora la construcci\u00f3n ret\u00f3rica del ind\u00edgena a trav\u00e9s la cr\u00f3nica de fray Pedro de Aguado."
+        },
+        {
+          "answer": "a",
+          "explanation": "El autor menciona la guerra con M\u00e9xico como ejemplo de c\u00f3mo un gobierno puede ser utilizado como herramienta para implementar la voluntad de unos pocos individuos en lugar de la voluntad del pueblo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta c es la correcta porque el aforismo menciona que la principal diferencia entre los sistemas filos\u00f3ficos radica en la manera de escamotear los problemas, lo que implica evitar o no abordar los problemas de manera efectiva."
+        },
+        {
+          "answer": "c",
+          "explanation": "La autor cita que no era cient\u00edfico discutir sobre el comportamiento en t\u00e9rminos de motivaci\u00f3n o prop\u00f3sito, lo que implica que considerar la intenci\u00f3n o prop\u00f3sito en la explicaci\u00f3n del comportamiento no es cient\u00edfico."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto afirma que 'Se trata de una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y agradecemos a los artistas que lo recojan en sus obras', lo que sugiere que algunos artistas plasman en sus obras lo que nos gusta ver en la realidad."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto afirma que la hermosura de un cuadro no reside realmente en la belleza de su tema, lo que implica un juicio de valor sobre el valor de la belleza en el arte."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto analiza la relaci\u00f3n entre la belleza en la realidad y en el arte, y c\u00f3mo a veces la hermosura de un cuadro no reside en la belleza de su tema, lo que coincide con el t\u00edtulo \"La representaci\u00f3n de la belleza en el arte\"."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a afirma que algunas personas act\u00faan justamente a pesar de poder actuar de manera injusta, lo que contradice la idea central del autor de que la justicia es un resultado de la falta de poder para cometer injusticias."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d se ajusta a la teor\u00eda de Plat\u00f3n, que afirma que el hombre piensa que la injusticia le brinda m\u00e1s ventajas individuales que la justicia y est\u00e1 en lo cierto, si habla de acuerdo con esta teor\u00eda, es decir, que la justicia no brinda las ventajas individuales que la injusticia brinda."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que cuando una persona tiene la libertad para cometer injusticias, lo har\u00e1, lo que apoya la idea de que nadie act\u00faa justamente por voluntad, sino porque la justicia es forzada y no porque es lo que uno prefiere."
+        },
+        {
+          "answer": "b",
+          "explanation": "El primer p\u00e1rrafo sostiene que la justicia es una condici\u00f3n que se produce cuando se carece de poder para cometer injusticias, ya que de otra manera las personas perseguir\u00edan sus intereses individuales sin considerar la igualdad."
+        },
+        {
+          "answer": "c",
+          "explanation": "El relato sobre el anillo de Giges ilustra c\u00f3mo las personas pueden ser injustas cuando tienen la oportunidad, lo que reforza la idea de que todos cometer\u00edan injusticias si no fuera por la ley que les impone la justicia."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d dice que el amor o el enamoramiento son sentimientos irracionales que contradicen el deber ser del matrimonio, lo que es consistente con la informaci\u00f3n proporcionada en el texto, que menciona que en algunas culturas la atracci\u00f3n entre los esposos era vista como una amenaza a la solidaridad familiar y en la China tradicional era considerada incompatible con el matrimonio."
+        },
+        {
+          "answer": "d",
+          "explanation": "La funci\u00f3n del conector 'sin embargo' es contrastar la informaci\u00f3n anterior sin llegar a invalidarla, mostrando que a pesar de que el matrimonio puede no basarse en el amor, las personas pueden enamorarse, pero esto no cambia el hecho que el matrimonio sea una instituci\u00f3n m\u00e1s amplia que no se basa solo en el amor."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "El tercer p\u00e1rrafo presenta un ejemplo de c\u00f3mo en la China tradicional el enamoramiento entre esposos no estaba relacionado con el matrimonio, y en algunas culturas actualmente, como los fulbes africanos, el amor entre c\u00f3nyuges no es considerado como el centro del matrimonio, lo que demuestra que la asociaci\u00f3n entre el amor y el matrimonio no es algo propio de todos los tiempos y culturas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b afirma que la idea del amor como la raz\u00f3n que ha de llevar al matrimonio surgi\u00f3 con el movimiento rom\u00e1ntico en el siglo XVIII, lo que es correcto seg\u00fan el texto."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a describe la dote de boda de la mujer en la Edad Media, lo que ilustra la idea de que el matrimonio era una instituci\u00f3n econ\u00f3mica y pol\u00edtica."
+        },
+        {
+          "answer": "b",
+          "explanation": "Seg\u00fan el texto, las mujeres fulbes africanas niegan vehementemente cualquier apego hacia el marido, lo que implica que el amor no es una condici\u00f3n necesaria para el matrimonio en esta comunidad."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto indica que el matrimonio ha sido una instituci\u00f3n diversa y compleja a lo largo de la historia, con prop\u00f3sitos econ\u00f3micos y pol\u00edticos en el pasado y m\u00e1s recientemente se ha enfocado en la uni\u00f3n de amores. Esto sugiere que la naturaleza del matrimonio var\u00eda dependiendo del contexto hist\u00f3rico y social."
+        }
+      ],
+      "score": 0.5405405405405406
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "gemma-7b-it": {
+    "colombia_historia": {
+      "responses": [
+        {
+          "answer": "b",
+          "explanation": "Las dos afirmaciones son dis\u00edmiles, ya que la primera se centra en c\u00f3mo el animal afecta al ser humano (su salud), mientras que la segunda se centra en c\u00f3mo el ser humano afecta al animal (bienestar)."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d reconoce la posibilidad de que la pobreza y la falta de oportunidades aumenten la probabilidad de que alguien cometa un delito."
+        },
+        {
+          "answer": "a",
+          "explanation": "Esta afirmaci\u00f3n perpet\u00faa un mit\u00f3 sobre la poblaci\u00f3n LGBT+ y no tiene base en estad\u00edsticas ni en la realidad. La diversidad sexual es normal y se encuentra en todas las poblaciones del mundo."
+        },
+        {
+          "answer": "c",
+          "explanation": "El orden cronol\u00f3gico es 3, 1, 2 y 4, ya que los asesinatos de Rafael Uribe Uribe, Luis Carlos Gal\u00e1n, Jorge Eli\u00e9cer Gait\u00e1n y \u00c1lvaro G\u00f3mez Hurtado tuvieron lugar en ese orden."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las dos posiciones toman perspectivas diferentes sobre la legalizaci\u00f3n de las drogas: una a favor de la legalizaci\u00f3n y la otra a favor del endurecimiento de las sanciones legales."
+        },
+        {
+          "answer": "d",
+          "explanation": "La soluci\u00f3n encuentra un compromiso entre los intereses de los propietarios de los pisos altos y los del primer piso. Todos tuvieron la oportunidad de expresar sus opiniones y votar sobre la propuesta."
+        },
+        {
+          "answer": "a",
+          "explanation": "La soluci\u00f3n busca un equilibrio entre los intereses de la constructora y los ambientalistas, reduciendo el impacto ambiental sin impedir la realizaci\u00f3n del proyecto."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las tres propuestas buscan minimizar los efectos negativos de la expansi\u00f3n urbana en Am\u00e9rica Latina, priorizando la mejora de las condiciones de vida de los habitantes de las zonas rurales y la sostenibilidad ambiental."
+        },
+        {
+          "answer": "c",
+          "explanation": "El art\u00edculo 106 de la Constituci\u00f3n Pol\u00edtica de Colombia establece que la Constituci\u00f3n se puede modificar mediante un referendo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n Pol\u00edtica de Colombia establece que se requiere un ciudadano para proponer una iniciativa popular que reforme una ley."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n solo puede ser reformada por una Asamblea Constituyente, no por el Ejecutivo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La pregunta se refiere a las afirmaciones de los denunciantes sobre el uso de las inversiones en las zonas rurales. La respuesta correcta es que los denunciantes tienen evidencias para afirmar que el alcalde abus\u00f3 de su poder."
+        },
+        {
+          "answer": "a",
+          "explanation": "La distribuci\u00f3n del poder p\u00fablico se refiere a la organizaci\u00f3n de las funciones del poder p\u00fablico en los diferentes \u00f3rganos del Estado. Al modificar el presupuesto, el Estado est\u00e1 alterando la distribuci\u00f3n de los recursos p\u00fablicos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es correcta. La Rama Legislativa puede ejercer control pol\u00edtico a trav\u00e9s de citaciones y mociones de censura."
+        },
+        {
+          "answer": "b",
+          "explanation": "Un referendo es un mecanismo de participaci\u00f3n directa que permite a los ciudadanos tomar decisiones vinculantes sobre leyes, en este caso, la anulaci\u00f3n de la norma constitucional que establece los derechos de los menores por encima de los del resto de la poblaci\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las caricaturas representan el per\u00edodo conocido como La Violencia Pol\u00edtica en Colombia (1948-1958)."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que el fragmento describe los peligros inherentes a un modelo democr\u00e1tico electoral polarizado por dos partidos pol\u00edticos tradicionales, antag\u00f3nicos y excluyentes."
+        },
+        {
+          "answer": "c",
+          "explanation": "El planteamiento se caracteriza por un an\u00e1lisis objetivo y desde una perspectiva externa del conflicto, calificando la naturaleza irregular del conflicto y diferenci\u00e1ndolo de los conflictos tradicionales."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d es correcta ya que las medidas implementadas por el Gobierno colombiano se basan en principios neoliberal, incluyendo la reducci\u00f3n del tama\u00f1o del Estado y la participaci\u00f3n en la regulaci\u00f3n econ\u00f3mica."
+        },
+        {
+          "answer": "c",
+          "explanation": "La propuesta busca reducir el papel del Estado en la econom\u00eda, lo que es t\u00edpico del neoliberalismo."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta (a) es correcta porque el fragmento texto afirma que se reconoce el papel central del Estado en la buena gesti\u00f3n y administraci\u00f3n de los recursos p\u00fablicos."
+        },
+        {
+          "answer": "c",
+          "explanation": "El fragmento menciona que el proteccionismo se utiliza para proteger a las empresas nacionales de la competencia extranjera. Por lo tanto, no se justificar\u00eda el uso del modelo proteccionista en condiciones donde un pa\u00eds ya importa m\u00e1s alimentos de los que compra en los mercados extranjeros."
+        },
+        {
+          "answer": "b",
+          "explanation": "La definici\u00f3n del Centro Nacional de Memoria Hist\u00f3rica de Colombia relaciona el desplazamiento forzado con las disputas entre actores armados por el control de territorios estrat\u00e9gicos, lo que permite entender los intereses econ\u00f3micos de los actores en conflicto."
+        },
+        {
+          "answer": "b",
+          "explanation": "La secuencia correcta es la b, ya que ordena las revoluciones en el orden cronol\u00f3gico correcto."
+        },
+        {
+          "answer": "d",
+          "explanation": "Las alternativas 1 y 2 coinciden en que ambas incluyen problemas relacionados con la escasez de recursos naturales no renovables y la desigualdad en la propiedad de la tierra, que son causas del conflicto agrario en Colombia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) dice que la acci\u00f3n de tutela es adecuada cuando se vulnera el derecho a la salud, porque est\u00e1 en riesgo la vida de la persona."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta. Las movilizaciones y acciones que visibilizan a personas con orientaci\u00f3n sexual diferente a la general abordan los temas de la discriminaci\u00f3n y la exclusi\u00f3n, promoviendo el reconocimiento de los derechos y la diversidad."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d es correcta, ya que establece un orden jur\u00eddico y un marco normativo que delimita el poder del Estado y establece qu\u00e9 es legal."
+        },
+        {
+          "answer": "c",
+          "explanation": "La posici\u00f3n del funcionario cuestiona la metodolog\u00eda del estudio, lo que indica que no reconoce la serius de los actos de violencia en contra de las mujeres."
+        },
+        {
+          "answer": "c",
+          "explanation": "Una organizaci\u00f3n busca proteger el ecosistema, mientras que la otra busca mejorar las condiciones de vida de los agricultores desplazados."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d describe la pol\u00edtica de impuestos progresivos, donde se cobra m\u00e1s impuestos a los ingresos m\u00e1s altos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "El modelo de negocio funcion\u00f3 en Bogot\u00e1 porque las necesidades de la poblaci\u00f3n eran similares. Sin embargo, otras ciudades pueden tener necesidades o preferencias diferentes."
+        },
+        {
+          "answer": "b",
+          "explanation": "Palestina no se reconoce como Estado porque carece del reconocimiento internacional como territorio con fronteras perfectamente definidas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c es correcta porque la decisi\u00f3n del Consejo Acad\u00e9mico vulnera el derecho de los estudiantes a tener y utilizar mecanismos de participaci\u00f3n en la toma de decisiones de la instituci\u00f3n."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n protege el principio de igualdad de oportunidades y no discriminaci\u00f3n. El profesor no puede tomar decisiones discriminatorias basadas en el g\u00e9nero de los estudiantes."
+        },
+        {
+          "answer": "c",
+          "explanation": "La Constituci\u00f3n establece la protecci\u00f3n de la diversidad \u00e9tnica y cultural como una de sus principales razones."
+        },
+        {
+          "answer": "a",
+          "explanation": "Revisar el plan de gobierno es importante para determinar si hay propuestas para mejorar la seguridad en la ciudad."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) afirma que cada persona debe tener la libertad de decidir sobre el consumo de drogas, lo que se ajusta a la propuesta de legalizaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "Esta declaraci\u00f3n expresa la responsable de los agresores, atribuyendo la causa de la violencia sexual a las mujeres."
+        },
+        {
+          "answer": "c",
+          "explanation": "La propuesta implica putar los intereses de los residentes, que buscan seguridad, con los intereses generales de la ciudad, que deben mantener el acceso a las v\u00edas y otros espacios p\u00fablicos."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b respeta la libertad de conciencia del soldado al permitirle cumplir su servicio militar sin utilizar armas o pr\u00e1cticas militares."
+        },
+        {
+          "answer": "d",
+          "explanation": "Esta opci\u00f3n vulnera el derecho a la educaci\u00f3n al reducir el n\u00famero de horas de clases y el n\u00famero de d\u00edas en que los estudiantes deben asistir a la escuela."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La expulsi\u00f3n de los vendedores ambulantes significa la p\u00e9rdida de ingresos para las familias que depend\u00edan de esas ventas."
+        }
+      ],
+      "score": 0.5306122448979592
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "gemma-7b-it": {
+    "chile_lenguaje": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "La primera opci\u00f3n correctamente describe c\u00f3mo se sent\u00eda Carlos al ver a los payasos, con un dolor en el pecho que le imped\u00eda dormir."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "En el cuarto p\u00e1rrafo, DISTINGUIR significa observar cuidadosamente los detalles de la cara del payaso para determinar su verdadera expresi\u00f3n, a pesar del maquillaje que lleva."
+        },
+        {
+          "answer": "b",
+          "explanation": "Carlos muestra curiosidad al observar con atenci\u00f3n cada detalle de las piruetas de los artistas del show."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es que el padre de Carlos se preocupa de que el espect\u00e1culo de los trapecistas puede afectar el estado emocional de su hijo."
+        },
+        {
+          "answer": "b",
+          "explanation": "Los compa\u00f1eros de Carlos tienen una actitud de incomprensi\u00f3n hacia \u00e9l, debido a que Carlos tiene intereses distintos a los de ellos."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta est\u00e1 en la \u00faltima frase de la primera p\u00e1rrafo, donde Carlos menciona que siente un dolor en el pecho cada vez que piensa en los payasos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el agua se dilata entre los 4 y 0 grados, lo que es correcto."
+        },
+        {
+          "answer": "e",
+          "explanation": "La canci\u00f3n evoca la memoria de una \u00e9poca feliz que C\u00e1ndido y Georgina vivieron juntos en su juventud."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c es correcta, ya que se menciona que Georgina le promete a C\u00e1ndido que volver\u00e1 y que finalmente no lo cumple."
+        },
+        {
+          "answer": "b",
+          "explanation": "La conversaci\u00f3n versa sobre la relaci\u00f3n de C\u00e1ndido y Georgina, incluyendo sus recuerdos y sentimientos hacia la otra."
+        },
+        {
+          "answer": "b",
+          "explanation": "C\u00e1ndido afirma que, despu\u00e9s de la promesa que hicieron, ya nunca podr\u00e1n separaarse"
+        },
+        {
+          "answer": "a",
+          "explanation": "El secretario enfatiza el n\u00famero de nombres que se han utilizado para referirse a Georgina Travieso, lo que sugiere duda o incertidumbre sobre la identidad real de la persona."
+        },
+        {
+          "answer": "b",
+          "explanation": "La expresi\u00f3n subrayada se refiere a una serie de personajes de obras musicales admiradas por Georgina Travieso."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que las nuevas tecnolog\u00edas son fruto de una raz\u00f3n somnolienta, lo que concuerde con el contexto de la pregunta."
+        },
+        {
+          "answer": "b",
+          "explanation": "El sentido de la palabra USO en el contexto del tercer p\u00e1rrafo es EMPLEO, porque el juicio de valor sobre la tecnolog\u00eda de Internet depender\u00e1 del modo en que los usuarios la utilizen."
+        },
+        {
+          "answer": "a",
+          "explanation": "En el contexto del s\u00e9ptimo p\u00e1rrafo, la palabra ELEMENTALES significa ESENCIALES, porque el agua potable, la creaci\u00f3n de escuelas, hospitales, ferrocarriles, etc. caracterizan \u00fanicamente a la revoluci\u00f3n industrial."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "El sexto p\u00e1rrafo afirma que repetir im\u00e1genes puede desanimar la atenci\u00f3n y la emoci\u00f3n del espectador."
+        },
+        {
+          "answer": "a",
+          "explanation": "El fragmento afirma que la comunicaci\u00f3n humana se ha desnaturalizado con las nuevas tecnolog\u00edas, lo que sugiere que la comunicaci\u00f3n ya no es la misma que antes."
+        },
+        {
+          "answer": "b",
+          "explanation": "Los prejuicios sobre el desarrollo del ferrocarril a finales del siglo XIX surgieron debido al miedo de ciertos grupos humanos frente a los avances tecnol\u00f3gicos."
+        },
+        {
+          "answer": "d",
+          "explanation": "El p\u00e1rrafo enfatiza que el acceso al conocimiento virtual puede conducir al alejamiento social del usuario, ya que permite el acceso a un mundo virtual independiente de las relaciones f\u00edsicas y del contacto real."
+        },
+        {
+          "answer": "e",
+          "explanation": "El emisor argumenta que la realidad virtual es un contexto tecnol\u00f3gico que no debe suprimir la capacidad imaginativa del hombre."
+        },
+        {
+          "answer": "d",
+          "explanation": "El fragmento sugiere que las nuevas tecnolog\u00edas pueden conducir a una p\u00e9rdida de capacidad de los seres humanos para conectar emocionalmente con los hechos y eventos."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto afirma que el alto porcentaje de la poblaci\u00f3n mundial a\u00fan no tiene acceso a las tecnolog\u00edas digitales b\u00e1sicas, como la Internet, lo que indica que no tiene acceso a las conquistas elementales de la vieja revoluci\u00f3n industrial."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es que el arriero que socorre a los guanaquitos es justo y muy inteligente."
+        },
+        {
+          "answer": "a",
+          "explanation": "El Yastay obstruye el paso del arriero para expresar su apreciaci\u00f3n por haber cuidado de los guanaquitos heridos."
+        },
+        {
+          "answer": "a",
+          "explanation": "El objetivo del texto es narrar la historia del Yastay y sus relaciones con los arrieros y los guanaquitos."
+        },
+        {
+          "answer": "c",
+          "explanation": "La historia ilustra las caracter\u00edsticas positivas del Yastay, como su generosidad y protecci\u00f3n hacia los dem\u00e1s."
+        },
+        {
+          "answer": "c",
+          "explanation": "El Yastay se presenta como un l\u00edder que se toma la iniciativa para ayudar a otros, lo que sugiere honradez."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto contiene oraciones largas y complejas, lo que puede dificultar la comprensi\u00f3n para algunos lectores."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta indica que los cambios pol\u00edticos y la crisis econ\u00f3mica del momento llevaron a que la revista estuviese en peligro de desaparecer."
+        },
+        {
+          "answer": "b",
+          "explanation": "El cuarto p\u00e1rrafo describe c\u00f3mo la revista El Peneca  sufri\u00f3 un descenso en ventas debido a la influencia de las revistas extranjeras, que introdujeron historias y dibujos animados."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es que la revista El Peneca se dirigi\u00f3 a un p\u00fablico infantil y recib\u00eda colaboraciones de sus lectores."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto menciona que la disminuci\u00f3n de la calidad de los contenidos de la revista y la falta de innovaci\u00f3n fueron factores que contribuyeron a la disminuci\u00f3n de la venta de la revista."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es d. El descenso del tiraje de la revista El Peneca se debe a la baja calidad de sus contribuciones literarias, la baja calidad del papel y la poca innovaci\u00f3n de contenidos, lo que ocurri\u00f3 en 1921."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta describe c\u00f3mo El Peneca se destac\u00f3 como revista dirigida a un p\u00fablico infantil en un contexto espec\u00edfico del periodismo nacional."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta a la pregunta se encuentra en la descripci\u00f3n de las caracter\u00edsticas de las revistas infantiles, como El Peneca, y c\u00f3mo estas revistas se distingu\u00edan de otras publicaciones."
+        },
+        {
+          "answer": "a",
+          "explanation": "La pregunta est\u00e1 relacionada con el texto proporcionado, pero la informaci\u00f3n sobre los exponentes de la cueca brava no se encuentra en el texto."
+        },
+        {
+          "answer": "a",
+          "explanation": "El texto no contiene informaci\u00f3n sobre Roberto Parra, por lo que esta opci\u00f3n est\u00e1 fuera de lugar."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es c. La pregunta describe el movimiento din\u00e1mico de los bailarines, que es un aspecto importante del estilo de Las capitalinas y Las Torcazas."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La \u00faltima frase del texto describe c\u00f3mo la revista El Peneca contextualiz\u00f3 las fiestas patrias."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta ya que el texto describe c\u00f3mo El Peneca respondi\u00f3 a los cambios en el sistema laboral y acad\u00e9mico al incluir historias y portadas m\u00e1s atractivas."
+        },
+        {
+          "answer": "e",
+          "explanation": "La respuesta correcta es que las vitaminas y los suplementos alimenticios no tienen evidencia cient\u00edfica de aumentar las capacidades cognitivas."
+        },
+        {
+          "answer": "e",
+          "explanation": "El und\u00e9cimo p\u00e1rrafo habla sobre el papel del aprendizaje continuo en el mantenimiento y desarrollo del cerebro."
+        },
+        {
+          "answer": "c",
+          "explanation": "Santiago Ram\u00f3n y Cajal plantearon que todo hombre puede esculpir de su propio cerebro, lo que significa que puede cambiar el funcionamiento y la estructura del cerebro mediante las actividades que realiza, las emociones que siente, las percepciones que tiene, las pensamientos que piensa o las im\u00e1genes que imagina."
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto enfatiza que el aprendizaje continuo es el factor m\u00e1s importante para mantener el funcionamiento y el crecimiento del cerebro."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "El segundo p\u00e1rrafo describe c\u00f3mo las actividades mentales desafiantes pueden mantener la mente activa, mientras que el tercer p\u00e1rrafo enfatiza la importancia del aprendizaje de nuevas actividades como estimulaci\u00f3n para el cerebro."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d explica que existen mitos y creencias err\u00f3neas sobre lo que realmente puede mejorar las capacidades cognitivas y que en realidad solo tienen utilidad las soluciones  basadas en la ciencia."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b indica que el protagonista trata de controlar los sentimientos y las emociones de las personas que pasan por el puente, monitoreando y contando el n\u00famero de personas que pasan para poder determinar su comportamiento y emociones."
+        },
+        {
+          "answer": "b",
+          "explanation": "En el \u00faltimo p\u00e1rrafo, el protagonista se encuentra *marchando* porque se encuentra con su peque\u00f1a amada y no puede dejar de contar los carros de caballos que pasan por el puente."
+        },
+        {
+          "answer": "e",
+          "explanation": "El narrador no cuenta a su amada porque quiere mantenerle la alegr\u00eda y la paz de la relaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "El protagonista afirma que cuando conta los veh\u00edculos que pasan por el puente, la chica se convierte en un n\u00famero y pierde su esencia individual."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "e",
+          "explanation": "El trabajo del protagonista muestra una sociedad donde la OBSESI\u00d3N por las metas y los resultados afecta a las relaciones y el bienestar de las personas."
+        },
+        {
+          "answer": "b",
+          "explanation": "El relato presenta un enfoque deshumanizante de la personalidad, donde las personas se convierten en objetos cuantificables y sus logros se miden \u00fanicamente en t\u00e9rminos de cifras."
+        },
+        {
+          "answer": "e",
+          "explanation": "La historia describe una conducta err\u00e1tica y no rutinaria, con una mezcla de emociones intensas y un sentido de misterio. La falta de estructura y los sentimientos intensos sugieren una naturaleza absorbente y an\u00f3nima."
+        }
+      ],
+      "score": 0.3230769230769231
+    }
+  }
+}

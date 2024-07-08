@@ -1,0 +1,157 @@
+{
+  "mixtral-8x7b-32768": {
+    "colombia_lenguaje": {
+      "responses": [
+        {
+          "answer": "b",
+          "explanation": "El pasaje se adapta mejor al contexto de un discurso sobre asesinatos en la historia de la filosof\u00eda, ya que el tema principal es un complot para asesinar a Descartes durante uno de sus viajes."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es la correcta porque el texto presenta a las colitas como un lugar de convergencia entre los ritmos europeos y nativos, lo que ayud\u00f3 a la difusi\u00f3n del vallenato, pero no como el ancestro directo o la \u00fanica forma de difusi\u00f3n del g\u00e9nero."
+        },
+        {
+          "answer": "d",
+          "explanation": "La letra d es correcta porque en el verso de La gota fr\u00eda se menciona Urumita como un lugar al que iban los acordeoneros, no necesariamente para tocar en colitas."
+        },
+        {
+          "answer": "d",
+          "explanation": "Escobar, el protagonista, se enfrenta a una crisis vital en la madrugada de su 31 cumplea\u00f1os, lo que lo deja con angustia y reflexiones profundas sobre el sentido de la vida."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b sintetiza mejor el contenido del primer p\u00e1rrafo porque menciona que Internet ha generado cambios en el concepto tradicional de l\u00edmite, lo que es afirmado en el p\u00e1rrafo, y adem\u00e1s hace referencia a la etolog\u00eda y antropolog\u00eda, temas presentes en el texto."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta porque el texto menciona la creaci\u00f3n de naciones o comunidades m\u00e1s all\u00e1 de las fronteras f\u00edsicas gracias al ciberespacio, lo que se ajusta a la definici\u00f3n de comunidades virtuales."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es la correcta porque el texto critica las pr\u00e1cticas de ciertas compa\u00f1\u00edas en internet, como Google, que distraen a los usuarios a prop\u00f3sito para obtener m\u00e1s informaci\u00f3n sobre ellos y mostrarles publicidad."
+        },
+        {
+          "answer": "b",
+          "explanation": "La frase se\u00f1ala el resultado final de los cambios en la concentraci\u00f3n y la forma de pensar, por lo que funciona como una conclusi\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto dice que 'los liberales, los conservadores, los socialistas, los comunistas, los anarquistas y hasta los fascistas se han apresurado a proclamar las virtudes de la democracia', lo que significa que la mayor\u00eda de posiciones pol\u00edticas existentes se identifican como democr\u00e1ticas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La cita de Churchill implica que conversar brevemente con un votante medio har\u00eda evidente que la democracia no funciona, ya que este argumento es usado como una cr\u00edtica a la democracia."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto critica las concepciones tradicionales del conocimiento cient\u00edfico, presentando una visi\u00f3n m\u00e1s abierta e inclusiva en la que todas las teor\u00edas, incluso las mitol\u00f3gicas o inventadas, contribuyen al desarrollo del conocimiento."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d refleja la influencia de las ideas liberales al sugerir que el conocimiento no se limita a una perspectiva ideal o a un conjunto de teor\u00edas espec\u00edficas y autoconsistentes, sino que es un cuerpo en expansi\u00f3n y diverso de teor\u00edas y narrativas, lo que promueve la igualdad y la inclusi\u00f3n de diferentes perspectivas, aline\u00e1ndose con los principios del liberalismo."
+        },
+        {
+          "answer": "a",
+          "explanation": "El Partido busca controlar al individuo, por lo que la uni\u00f3n del pueblo es incompatible con sus pol\u00edticas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La frase ilustra las ideas transmitidas al pueblo, mostrando a trav\u00e9s de una imagen gr\u00e1fica y dura el control y la falta de libertad que el Gran Hermano desea imponer."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'irrecusable' significa que no se puede rechazar o negar. El sin\u00f3nimo m\u00e1s cercano en las opciones dadas es 'irremplazable', que significa que no se puede reemplazar o sustituir, lo que tambi\u00e9n implica una falta de posibilidad de rechazo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es b porque el resumen se enfoca en los turistas japoneses, estadounidenses y alemanes, no considerando a los turistas en general."
+        },
+        {
+          "answer": "c",
+          "explanation": "La descripci\u00f3n corresponde a la etapa de 'conquista' de los territorios que se anexar\u00edan a la colonia neogranadina, ya que es parte de un relato de una campa\u00f1a militar."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es la m\u00e1s adecuada porque el texto se refiere a la construcci\u00f3n ideol\u00f3gica y ret\u00f3rica que hace Fray Pedro de Aguado al describir a los ind\u00edgenas, present\u00e1ndolos como seres salvajes y viciosos, y relacion\u00e1ndolos con im\u00e1genes b\u00edblicas y tradiciones europeas."
+        },
+        {
+          "answer": "a",
+          "explanation": "La guerra con M\u00e9xico es mencionada por el autor como un ejemplo de una decisi\u00f3n tomada por 'unos pocos individuos' usando al gobierno como herramienta, sin que la mayor\u00eda del pueblo la hubiera aprobado."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c es la correcta, ya que el aforismo afirma que la principal diferencia entre sistemas filos\u00f3ficos radica en la manera de 'escamotear' los problemas, es decir, evitarlos o eludirlos, no en plantearlos, resolverlos ni burlarse de ellos."
+        },
+        {
+          "answer": "a",
+          "explanation": "La autora cuestiona el prejuicio de que los animales no tienen mente y, por tanto, no deben ser tratados como seres con personalidades o emociones."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es la correcta porque el texto dice que algunos artistas, como Rubens, plasman en sus obras lo que nos gusta ver en la realidad."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b es un juicio de valor presente en el texto porque afirma que los golfillos pintados por Murillo tienen gran encanto, expresando una apreciaci\u00f3n subjetiva sobre el atractivo de esas obras."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es la m\u00e1s adecuada porque el texto se trata sobre la representaci\u00f3n de la belleza en el arte, ya que menciona la belleza de los temas y la hermosura de los cuadros."
+        },
+        {
+          "answer": "a",
+          "explanation": "El autor plantea que todos, dados los medios, actuar\u00edan injustamente, por lo que la opci\u00f3n a ser\u00eda la que contradice esta idea."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d coincide con la afirmaci\u00f3n de Plat\u00f3n ya que plantea que la justicia no proporciona las ventajas individuales que la injusticia s\u00ed proporciona."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d afirma que las personas cometer\u00e1n injusticias si tienen la libertad de hacerlo, lo que implica que act\u00faan justamente solo por obligaci\u00f3n, no por voluntad, ya que si pudieran evitarlo, no se comportar\u00edan justamente."
+        },
+        {
+          "answer": "b",
+          "explanation": "La justicia se concibe como algo impuesto por la ley, y cuando se quita la ley o el poder que impide cometer injusticias, las personas actuar\u00edan en base a sus intereses individuales."
+        },
+        {
+          "answer": "d",
+          "explanation": "El autor utiliza el relato sobre el anillo de Giges para mostrar c\u00f3mo la tentaci\u00f3n del poder y la falta de fuerza de voluntad pueden llevar a una persona justa a cometer injusticias. Esto refuerza la idea de que actuar justamente requiere de mucha fuerza de voluntad, ya que, de lo contrario, las personas tender\u00e1n a aprovecharse de las oportunidades injustas si creen que obtendr\u00e1n m\u00e1s ventajas individuales."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto menciona que el amor o el enamoramiento han sido recientemente vinculados al matrimonio y a la familia, y no las bases fundamentales, una amenaza o sentimientos irracionales contradictorios."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La dote es el aporte patrimonial que la mujer y su familia hacen al matrimonio, no son simplemente ahorros de la futura esposa ni dinero de los familiares, ni tampoco la ceremonia matrimonial."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es correcta porque el tercer p\u00e1rrafo del texto proporciona un ejemplo concreto (la China tradicional) que muestra que la asociaci\u00f3n entre el amor y el matrimonio no es una noci\u00f3n universal y que ha variado a lo largo del tiempo y en diferentes culturas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta ya que indica que el matrimonio se consolid\u00f3 en el siglo XIX como la principal forma de institucionalizaci\u00f3n del amor conyugal, lo cual es falso. El matrimonio era, sobre todo, una instituci\u00f3n econ\u00f3mica y pol\u00edtica antes del siglo XVIII."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a dice que en la Edad Media la mujer aportaba una dote en el momento de casarse, lo que ilustra la idea de la familia como una instituci\u00f3n econ\u00f3mica."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto indica que las mujeres de la comunidad fulbe africana del norte de Camer\u00fan niegan vehementemente cualquier apego hacia el marido y que el amor no es una condici\u00f3n necesaria para el matrimonio en esa comunidad."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto menciona que el matrimonio ha tenido prop\u00f3sitos econ\u00f3micos y pol\u00edticos, y tambi\u00e9n ha podido basarse en el amor. Esto implica que var\u00eda seg\u00fan el contexto hist\u00f3rico y social."
+        }
+      ],
+      "score": 0.6756756756756757
+    }
+  }
+}

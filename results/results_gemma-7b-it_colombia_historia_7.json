@@ -1,0 +1,205 @@
+{
+  "gemma-7b-it": {
+    "colombia_historia": {
+      "responses": [
+        {
+          "answer": "b",
+          "explanation": "Ambas afirmaciones afirman motivos para seguir un estilo de vida vegetariano, pero se basan en diferentes perspectivas. La primera se enfoca en la salud, mientras que la segunda se basa en principios \u00e9ticos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la pobreza y las falta de oportunidades pueden conducir a la delincuencia, lo que contradice la afirmaci\u00f3n de que las personas de escasos recursos econ\u00f3micos que se beneficiar\u00edan con las viviendas de inter\u00e9s social representan un peligro para los habitantes actuales del barrio."
+        },
+        {
+          "answer": "c",
+          "explanation": "Esta afirmaci\u00f3n afirma que las preferencias sexuales son el resultado de una compleja interacci\u00f3n de la biolog\u00eda con el medio ambiente. Sin embargo, a\u00fan no se ha encontrado evidencia cient\u00edfica que respalde esta afirmaci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "El orden cronol\u00f3gico es 3, 2, 1 y 4."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las dos posiciones adoptan posiciones diferentes, una a favor de la legalizaci\u00f3n y la otra a favor del endurecimiento de las sanciones legales."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La soluci\u00f3n ajusta los intereses de ambos grupos al reducir gradualmente el impacto ambiental y permitir que la constructora siga con su proyecto."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las tres propuestas buscan abordar los costos sociales y econ\u00f3micos asociados con la expansi\u00f3n urbana en Am\u00e9rica Latina. Densificar las ciudades reduce el impacto ambiental, las reformas urbanas mejoran las condiciones de vida en los barrios marginados, y aumentar el transporte p\u00fablico facilita la movilidad de los habitantes de las zonas rurales a las ciudades."
+        },
+        {
+          "answer": "c",
+          "explanation": "El art\u00edculo 168 de la Constituci\u00f3n Pol\u00edtica de Colombia establece que la Constituci\u00f3n se puede modificar mediante un referendo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta. La Constituci\u00f3n Pol\u00edtica de Colombia establece que se requiere un ciudadano para proponer una iniciativa popular que reforme una ley."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n solo puede ser modificada por una Asamblea Constituyente, no por el Ejecutivo."
+        },
+        {
+          "answer": "c",
+          "explanation": "Los se\u00f1alamientos en contra del alcalde se basan en la afirmaci\u00f3n de que se incluyeron inversiones en v\u00edas e iluminaci\u00f3n en el PBOT que no estaban en el Plan de Desarrollo, lo que sugiere un abuso de poder."
+        },
+        {
+          "answer": "a",
+          "explanation": "La distribuci\u00f3n del poder p\u00fablico se refiere a la asignaci\u00f3n de funciones y responsabilidades entre las diferentes ramas del Gobierno. Durante el estado de excepci\u00f3n en Colombia, es posible modificar el presupuesto del pa\u00eds, ya que los recursos p\u00fablicos no est\u00e1n adjudicatos previamente."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es la Rama Legislativa. La Constituci\u00f3n Pol\u00edtica de Colombia establece que la Rama Legislativa es la que puede ejercer control pol\u00edtico a trav\u00e9s de citaciones y mociones de censura."
+        },
+        {
+          "answer": "b",
+          "explanation": "Un referendo es un mecanismo de participaci\u00f3n directo que permite a los ciudadanos tomar decisiones vinculantes sobre leyes o enmiendas a la Constituci\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "Ambas caricaturas representan el periodo de la violencia pol\u00edtica en Colombia, un per\u00edodo de fuerte violencia pol\u00edtica y social en los a\u00f1os 1940 y 1950."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta afirma que el autor advierte de los peligros inherentes a un modelo democr\u00e1tico electoral polarizado por dos partidos pol\u00edticos tradicionales, antag\u00f3nicos y excluyentes."
+        },
+        {
+          "answer": "c",
+          "explanation": "El planteamiento describe la naturaleza del conflicto como irregular y poco convencional, lo que es t\u00edpico de la investigaci\u00f3n acad\u00e9mica."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d describe correctamente la estrategia de los acuerdos con el FMI, que busca reducir el tama\u00f1o del Estado y su participaci\u00f3n en la regulaci\u00f3n de actividades econ\u00f3micas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La propuesta se ajusta al modelo neoliberal, que enfatiza la reducci\u00f3n del tama\u00f1o del Estado y la libre competencia en el mercado."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta a la pregunta se encuentra en la afirmaci\u00f3n de que el texto criticar el modelo neoliberal al reconocer el papel central del Estado en la gesti\u00f3n y administraci\u00f3n de los recursos p\u00fablicos."
+        },
+        {
+          "answer": "c",
+          "explanation": "El fragmento de texto describe el proteccionismo como un mecanismo para proteger a las empresas nacionales de la competencia extranjera. Por lo tanto, solo se justificar\u00eda el uso del modelo proteccionista cuando un pa\u00eds importa m\u00e1s alimentos de los que compra en los mercados extranjeros."
+        },
+        {
+          "answer": "b",
+          "explanation": "La definici\u00f3n del Centro Nacional de Memoria Hist\u00f3rica de Colombia establece que el desplazamiento forzado es un fen\u00f3meno relacionado a las disputas entre actores armados por el control de territorios. Esto significa que este fen\u00f3meno es una expresi\u00f3n de los intereses y las estrategias de los actores en conflicto."
+        },
+        {
+          "answer": "b",
+          "explanation": "La secuencia correcta es Revoluci\u00f3n Mexicana, Revoluci\u00f3n Rusa, Revoluci\u00f3n Cubana, Revoluci\u00f3n Nicarag\u00fcense."
+        },
+        {
+          "answer": "d",
+          "explanation": "Las alternativas 1 y 2 indican problemas relacionados con recursos naturales no renovables y la distribuci\u00f3n de la tierra, respectivamente, que son causas conocidas del conflicto agrario en Colombia."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta b es la correcta. Las personas y las familias con ingresos medios y altos buscan mejor calidad de vida en barrios tranquilos fuera del centro de la ciudad."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c describe las actividades que visibilizan a personas con orientaci\u00f3n sexual diferente a la general, enfatizando la defensa de sus derechos y la denuncia de la exclusi\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) indica que la Revoluci\u00f3n Industrial condujo al traslado del trabajo de campo a la ciudad, lo que llev\u00f3 al surgimiento del proletariado urbano."
+        },
+        {
+          "answer": "d",
+          "explanation": "Establecer un orden jur\u00eddico y un marco normativo que delimita el poder del Estado y establece qu\u00e9 es legal."
+        },
+        {
+          "answer": "c",
+          "explanation": "La posici\u00f3n del funcionario enfatiza que el estudio no tiene en cuenta las diferentes condiciones en las que se cometen los delitos, lo que podr\u00eda minimizar la gravedad de los actos de violencia."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las dos organizaciones tienen objetivos diferentes. Una busca ayudar a los campesinos desplazados, mientras que la otra busca proteger el ecosistema del humedal."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c describe la medida que los pa\u00edses latinoamericanos adoptaron para contrarrestar la crisis: producir los bienes que tradicionalmente se tra\u00edan del exterior."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d describe la pr\u00e1ctica de aplicar tasas imposivas m\u00e1s altas a los ciudadanos m\u00e1s ricos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "Las necesidades y los gustos de la poblaci\u00f3n pueden variar seg\u00fan la ubicaci\u00f3n y el contexto socioecon\u00f3mico."
+        },
+        {
+          "answer": "b",
+          "explanation": "Palestina no se reconoce como Estado porque no tiene reconocimiento internacional como territorio con fronteras definidas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La decisi\u00f3n del Consejo Acad\u00e9mico vulnera el derecho de los estudiantes a tener y utilizar mecanismos de participaci\u00f3n, ya que no se realiza la elecci\u00f3n ordinaria del representante del Consejo Estudiantil."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es que el Gobierno mostr\u00f3 respeto por la comunidad ind\u00edgena y actu\u00f3 pensando en el bien com\u00fan."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n protege el principio de igualdad y no permite discriminaci\u00f3n basada en el sexo. El profesor est\u00e1 actuando de forma incorrecta al discriminar a las mujeres."
+        },
+        {
+          "answer": "c",
+          "explanation": "La Constituci\u00f3n establece la protecci\u00f3n de la diversidad \u00e9tnica y cultural como una de sus funciones b\u00e1sicas."
+        },
+        {
+          "answer": "a",
+          "explanation": "Los ciudadanos deber\u00edan revisar el plan de gobierno para determinar si hay propuestas para mejorar la seguridad en la ciudad."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) enfatiza la libertad individual y la autonom\u00eda de las decisiones de los individuos sobre el consumo de drogas, lo que se considera un principio fundamental en muchos pa\u00edses."
+        },
+        {
+          "answer": "c",
+          "explanation": "La declaraci\u00f3n critica a las v\u00edctimas, atribuy\u00e9ndoles la responsabilidad de la violencia sexual."
+        },
+        {
+          "answer": "c",
+          "explanation": "La propuesta implica el cierre de sectores residenciales y la contrataci\u00f3n de empresas de seguridad privada, lo que genera conflictos de inter\u00e9s entre los residentes (seguridad y acceso) y el gobierno local (bienestar de la comunidad)."
+        },
+        {
+          "answer": "b",
+          "explanation": "La decisi\u00f3n de la Corte Constitucional protect\u00eda la libertad de conciencia del soldado, por lo que la acci\u00f3n coherente es permitir que cumpla su servicio militar, salvo que sus creencias lo proh\u00edban."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d vulnera m\u00e1s el derecho a la educaci\u00f3n al reducir el n\u00famero de horas de clase y los d\u00edas de actividad escolar."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta. La econom\u00eda y la ambiental est\u00e1n en conflicto porque la econom\u00eda depende de las industrias pesadas, que a la vez contribuyen a la contaminaci\u00f3n."
+        },
+        {
+          "answer": "d",
+          "explanation": "La expulsi\u00f3n de los vendedores ambulantes removes la fuente de ingresos principal para las familias que depend\u00edan de esas ventas."
+        }
+      ],
+      "score": 0.6326530612244898
+    }
+  }
+}
