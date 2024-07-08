@@ -1,0 +1,157 @@
+{
+  "gemma-7b-it": {
+    "colombia_lenguaje": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "El estilo, el tema y la estructura del pasaje sugieren que es m\u00e1s adecuado para una revista acad\u00e9mica, donde se pode analizar en profundidad la relaci\u00f3n entre el pensamiento de Descartes y la cultura de su \u00e9poca."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b se\u00f1ala una posici\u00f3n discutible sobre el papel que desempe\u00f1aron las colitas en el origen del g\u00e9nero, ya que afirma que no es probable que hayan sido las \u00fanicas responsables de difundir el vallenato moderno."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La \u00faltima frase de laPasses dice que Escobar siente una 'punzada de advertencia: las ganas de orinar'. Esta ansiedad ante la vida es caracter\u00edstica de las personas con ansiedad."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta explica c\u00f3mo Internet ha modificado el concepto tradicional de l\u00edmite, al igual que lo explican la etolog\u00eda y la antropolog\u00eda."
+        },
+        {
+          "answer": "c",
+          "explanation": "El autor menciona que la formaci\u00f3n de naciones fuera de las fronteras f\u00edsicas se debe al encuentro virtual de personas de diferentes pensamientos."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta (a) es correcta. El \u00faltimo p\u00e1rrafo del texto argumenta que las pr\u00e1cticas de manejo de la informaci\u00f3n en Internet, como las estrategias de publicidad, est\u00e1n dise\u00f1adas para distraer a las personas de la forma en que procesan la informaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase expresa la idea de que la manera en que leemos en la era digital es diferente a la de los tiempos previos, lo que tambi\u00e9n conduce a una nueva forma de pensar."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta (c) es correcta ya que el texto afirma que la democracia se refiere a la mayor\u00eda de las corrientes pol\u00edticas existentes."
+        },
+        {
+          "answer": "a",
+          "explanation": "La afirmaci\u00f3n afirma que el votante medio no podr\u00eda explicar en cinco minutos qu\u00e9 es la democracia, lo que indica que la gente com\u00fan no es capaz de entender la naturaleza b\u00e1sica de la democracia."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto critica las ideas sobre el conocimiento cient\u00edfico, enfatizando que es un 'oc\u00e9ano' de alternativas incompatibles."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d enfatiza que el conocimiento no se basa en teor\u00edas coherentes, sino en un conjunto de alternativas incompatibles."
+        },
+        {
+          "answer": "c",
+          "explanation": "La pol\u00edtica del Partido enfatiza la obediencia y la fidelidad, no la fidelidad a la individualidad."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase enfatiza el prop\u00f3sito del r\u00e9gimen de controlar y dominar a los ciudadanos, eliminando cualquier fuente de pensamiento o sentimiento que no se ajuste a sus ideolog\u00eda."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'irrecusable' significa que no puede ser sustituida o reemplazada por nada otro."
+        },
+        {
+          "answer": "c",
+          "explanation": "El resumen presentado es inadecuado porque omite el tono ir\u00f3nico y burl\u00f3n con que la autora se refiere al arte de la fotograf\u00eda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La descripci\u00f3n de los ind\u00edgenas de Ibagu\u00e9 feita por Aguado presenta caracter\u00edsticas como canibalismo y pr\u00e1cticas can\u00edbicas, lo que se ajusta a la concepci\u00f3n de los ind\u00edgenas americanos en un estado de 'salvajismo' antes de la llegada de los espa\u00f1oles."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta se ajusta a la idea central del texto, que es la construcci\u00f3n ret\u00f3rica del ind\u00edgena en la cr\u00f3nica de Aguado, enfatizando las im\u00e1genes y las ideas preconcebidas de los colonizadores espa\u00f1oles."
+        },
+        {
+          "answer": "a",
+          "explanation": "El autor menciona la guerra con M\u00e9xico como un ejemplo de acci\u00f3n tomada por un gobierno que no fue consultada por el pueblo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es que la principal diferencia entre un sistema filos\u00f3fico y otro consiste en la manera de escamotear los problemas."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "El texto destaca que a todos nos atrae lo bello y el arte lo recoge en la pintura."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la belleza de un cuadro reside en la belleza de su tema, lo que es contrapuesto por el mensaje del texto."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es la c, ya que el texto habla sobre la representaci\u00f3n de la belleza en el arte."
+        },
+        {
+          "answer": "c",
+          "explanation": "El autor afirma que los individuos que act\u00faan de forma justa generalmente no tienen la intenci\u00f3n de actuar injustamente."
+        },
+        {
+          "answer": "d",
+          "explanation": "La afirmaci\u00f3n argumenta que la gente piensa que la injusticia brinda m\u00e1s ventajas individuales que la justicia. Esta afirmaci\u00f3n se basa en la teor\u00eda mencionada, que sugiere que la gente se siente m\u00e1s motivada por los beneficios individuales que puede obtener al cometer injusticias, en lugar de seguir las normas de la justicia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta afirma que la gente se siente obligada a actuar de forma justa, lo que soporta la tesis principal del texto sobre c\u00f3mo nadie es justo a menos que no est\u00e9 obligado a actuar de forma justa."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que la justicia es un ideal inalcanzable, ya que toda persona, por m\u00e1s justa que aparente ser, tiene intereses propios que pueden llevarla a cometer injusticias."
+        },
+        {
+          "answer": "c",
+          "explanation": "El autor utiliza el relato de Giges para ilustrar la naturaleza inherente de la injusticia, mostrando c\u00f3mo los individuos, incluso aquellos que parecen justos en la superficie, pueden cometer grandes injusticias cuando tienen la oportunidad."
+        },
+        {
+          "answer": "c",
+          "explanation": "La idea de que el amor sea la base fundamental del matrimonio es una idea reciente, que se asocia con el movimiento rom\u00e1ntico en el siglo XIX."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el matrimonio no se basaba en el amor como concepto moderno, sino que era una alianza entre grupos con fines econ\u00f3micos y pol\u00edticos."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase indica que el matrimonio originalmente ten\u00eda un car\u00e1cter econ\u00f3mico, al incluir la dote de la mujer como parte de la alianza entre familias."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta explica que la asociaci\u00f3n entre el amor y el matrimonio no es un concepto reciente y que se ha bastante discutido a lo largo de la historia en diferentes culturas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que el matrimonio se convirti\u00f3 en la principal forma de institucionalizaci\u00f3n del amor conyugal en el siglo XIX. Sin embargo, el texto indica que el matrimonio ten\u00eda otras funciones antes del siglo XIX, como la de una alianza entre grupos y como una estructura para garantizar la supervivencia de la familia extendida."
+        },
+        {
+          "answer": "a",
+          "explanation": "La dote de boda de la mujer constitu\u00eda el mayor ingreso de dinero, bienes o tierras que un hombre iba a recibir en toda su vida."
+        },
+        {
+          "answer": "b",
+          "explanation": "El autor menciona que algunas sociedades desaprueban la idea de que el amor sea el centro del matrimonio, lo que sugiere que en algunas culturas el amor no es visto como una condici\u00f3n necesaria para el matrimonio."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta explica que el matrimonio es una instituci\u00f3n que ha evolucionado a lo largo de la historia y que su finalidad var\u00eda seg\u00fan el contexto hist\u00f3rico y social."
+        }
+      ],
+      "score": 0.40540540540540543
+    }
+  }
+}

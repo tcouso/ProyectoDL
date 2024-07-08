@@ -1,0 +1,157 @@
+{
+  "llama3-8b-8192": {
+    "colombia_lenguaje": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "El estilo del pasaje es acad\u00e9mico y centrado en la filosof\u00eda cartesiana, lo que lo hace m\u00e1s adecuado para una revista acad\u00e9mica."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a refuerza la tesis principal del texto, seg\u00fan la cual las colitas no ayudaron a formar el g\u00e9nero, sino a divulgarlo, lo que coincide con la exposici\u00f3n del autor."
+        },
+        {
+          "answer": "d",
+          "explanation": "Urumita es mencionado como un pueblo al cual iban los acordeoneros para asistir a piquerias, seg\u00fan la cita de 'La gota fr\u00eda'"
+        },
+        {
+          "answer": "d",
+          "explanation": "La descripci\u00f3n del personaje implica que es sensible y angustiado, sintiendo un vac\u00edo y una sense of unease, al reflexionar sobre la vida y la muerte, y enfoc\u00e1ndose en la poca importancia del d\u00eda a d\u00eda."
+        },
+        {
+          "answer": "a",
+          "explanation": "El enunciado a describe el concepto de l\u00edmite como el espacio de defensa creado por los seres a su alrededor, lo que es el tema central del primer p\u00e1rrafo."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d se refiere a las comunidades virtuales que se crean en el ciberespacio, lo que coincide con la descripci\u00f3n del autor de la formaci\u00f3n de naciones fuera de las fronteras f\u00edsicas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c denuncia las motivaciones de varias compa\u00f1\u00edas, espec\u00edficamente Google y otras, que buscan distraernos y recopilar informaci\u00f3n sobre nosotros para beneficio econ\u00f3mico, lo que coincide con la teor\u00eda del autor sobre c\u00f3mo la red configura el proceso de pensamiento y nuestra forma de ser."
+        },
+        {
+          "answer": "b",
+          "explanation": "La frase es una conclusi\u00f3n del texto, ya que resume las ideas principales planteadas y enfatiza el cambio en la forma de leer y pensar a causa del uso de internet."
+        },
+        {
+          "answer": "d",
+          "explanation": "Seg\u00fan el texto, todos los partidos pol\u00edticos, incluyendo liberales, conservadores, socialistas, comunistas, anarquistas y hasta fascistas, se han apresurado a proclamar las virtudes de la democracia y a mostrar sus credenciales dem\u00f3cratas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c se infiere del texto, ya que seg\u00fan Winston Churchill, una conversaci\u00f3n de cinco minutos con el votante medio es suficiente para comprender que la democracia no es lo que parece."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto critica la idea de que el conocimiento cient\u00edfico se basa en un m\u00e9todo establecido, argumentando que el conocimiento es un proceso competitivo y que todas las perspectivas, incluyendo las teor\u00edas y las mitolog\u00edas, contribuyen al desarrollo del conocimiento."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c se refiere al principio del liberalismo, ya que 'hacer de la causa m\u00e1s d\u00e9bil la causa m\u00e1s fuerte' y 'apoyar el movimiento de conjunto' es un ejemplo de c\u00f3mo todos los ciudadanos, sin distinci\u00f3n, deben ser tratados iguales."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c dice que 'el poder est\u00e1 en ser fiel a uno mismo', lo que es incompatible con las pol\u00edticas del Partido, que buscan la eliminaci\u00f3n de la individualidad y la lealtad unicamente al Partido y al Gran Hermano."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase describe el verdadero prop\u00f3sito del sistema de gobierno, que se centra en la dominaci\u00f3n total y la destrucci\u00f3n de la individualidad y la humanidad."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c, irremplazable, es un sin\u00f3nimo de la palabra 'irrecusable' ya que ambas palabras significan incuestionable o inapelable."
+        },
+        {
+          "answer": "c",
+          "explanation": "El resumen se describe como inadecuado porque omite el tono ir\u00f3nico y burl\u00f3n con que la autora se refiere al arte de la fotograf\u00eda, lo que es fundamental para comprender la cr\u00edtica que ella hace a la relaci\u00f3n entre el turismo y la fotograf\u00eda."
+        },
+        {
+          "answer": "d",
+          "explanation": "La descripci\u00f3n de Fray Pedro de Aguado no ofrece informaci\u00f3n cronol\u00f3gica que permita identificar el momento que corresponde a la descripci\u00f3n, por lo que no se puede determinar si se refiere a un per\u00edodo anterior a la llegada de los espa\u00f1oles, la fundaci\u00f3n de la ciudad colonial o la etapa de conquista."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b se ajusta mejor al contenido del texto ya que se refiere directamente a la construcci\u00f3n ret\u00f3rica del ind\u00edgena por parte de fray Pedro de Aguado, lo que es el tema central del texto."
+        },
+        {
+          "answer": "a",
+          "explanation": "El autor menciona la guerra con M\u00e9xico como un ejemplo en el que los individuos utilizan al gobierno para realizar su voluntad, en lugar de que el pueblo haya aprobado dicha medida."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta c, 'escamotear', se refiere a la manera en que los sistemas filos\u00f3ficos difieren en la forma de evitar o no abordar los problemas, lo que es la principal diferencia citada en el aforismo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La autora cuestiona el prejuicio que afirma que el comportamiento no debe explicarse en t\u00e9rminos de motivaci\u00f3n o prop\u00f3sito, y que solo es cient\u00edfico abordarlo de manera objetiva y desprovista de intenci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto asegura que a todos nos atrae lo bello en la naturaleza y agradecemos a los artistas que lo recojan en sus obras, lo que elimina las opciones a y b, y el texto tambi\u00e9n menciona que Rubens dibuj\u00f3 a su hijo, lo que sugiere que algunos artistas plasman en sus obras lo que nos gusta ver en la realidad."
+        },
+        {
+          "answer": "d",
+          "explanation": "El enunciado d expresa un juicio de valor al sostener que la hermosura de un cuadro no reside realmente en la belleza de su tema, lo que es un argumento subjetivo y evaluativo."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto anterior se centra en la representaci\u00f3n de la belleza en el arte, y c\u00f3mo a veces se puede rechazar obras que no son est\u00e9ticamente agradables. El t\u00edtulo 'La representaci\u00f3n de la belleza en el arte' resume claramente el tema tratado en el texto."
+        },
+        {
+          "answer": "a",
+          "explanation": "La afirmaci\u00f3n a dice que algunas personas act\u00faan justamente a pesar de poder actuar de manera injusta, lo que contradice la idea del autor de que nadie es justo por voluntad sino porque no tiene el poder de cometer injusticias."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la justicia no brinda ninguna de las ventajas individuales que la injusticia brinda, lo que coincide con la teor\u00eda de Plat\u00f3n seg\u00fan la cual los hombres creen que la injusticia les brinda m\u00e1s ventajas individuales que la justicia."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d sostiene que si siempre que una persona cuente con la libertad para cometer injusticias lo har\u00e1, lo que sugiere que nadie es justo si no es forzado a serlo, ya que la justicia no es persegu\u00edda por su propio bien."
+        },
+        {
+          "answer": "b",
+          "explanation": "El primer p\u00e1rrafo sostiene que alguien es justo porque no tiene el poder de cometer injusticias, y que seguir\u00edan el mismo camino que el injusto si les dieran el poder de hacer lo que deseen, esto es, buscar sus intereses y satisfacer sus deseos sin considerar la ley y la igualdad."
+        },
+        {
+          "answer": "b",
+          "explanation": "El autor introduce el relato sobre el anillo de Giges para ilustrar que todos cometer\u00edan injusticias cuando tienen la oportunidad, demostrando que la justicia no surge espont\u00e1neamente de la naturaleza humana, sino que es un acto que se debe forzar."
+        },
+        {
+          "answer": "c",
+          "explanation": "La explicaci\u00f3n indica que la idea de que el amor sea el centro del matrimonio es reciente, emergiendo en el siglo XVIII y XIX con el movimiento rom\u00e1ntico, y no ha sido siempre la base fundamental del matrimonio y la familia."
+        },
+        {
+          "answer": "d",
+          "explanation": "La funci\u00f3n del conector 'sin embargo' del pen\u00faltimo p\u00e1rrafo es contrastar la informaci\u00f3n anterior sin llegar a invalidarla, destacando que las personas no se enamoraban menos, pero que en algunas culturas se consideraba incompatible con el matrimonio."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "El texto destaca que la idea de que el amor sea la raz\u00f3n \u00faltima del enlace se desarroll\u00f3 en el siglo XVIII y XIX, y que hasta entonces el matrimonio se consideraba una instituci\u00f3n econ\u00f3mica y pol\u00edtica. Esto demuestra que la asociaci\u00f3n entre el amor y el matrimonio no es algo propio de todos los tiempos y culturas."
+        },
+        {
+          "answer": "b",
+          "explanation": "Seg\u00fan la lectura, la idea de que el amor maduro y sincero sea la raz\u00f3n \u00faltima del enlace surgi\u00f3 con el movimiento rom\u00e1ntico en el siglo XVIII y se afianz\u00f3 en el XIX, lo que concuerda con esta opci\u00f3n."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a describe la dote de boda como una transacci\u00f3n econ\u00f3mica en la Edad Media, lo que ilustra la idea de la familia como una instituci\u00f3n pol\u00edtica y econ\u00f3mica."
+        },
+        {
+          "answer": "b",
+          "explanation": "Seg\u00fan el texto, las mujeres fulbes africanas niegan vehementemente cualquier apego hacia el marido, lo que sugiere que no ven el amor como una condici\u00f3n necesaria para el matrimonio."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto indica que el matrimonio ha variado a lo largo del tiempo y dependiendo del contexto hist\u00f3rico y social, y no solo se basa en el amor y la confianza."
+        }
+      ],
+      "score": 0.5945945945945946
+    }
+  }
+}

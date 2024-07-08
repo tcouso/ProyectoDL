@@ -1,0 +1,205 @@
+{
+  "gemma-7b-it": {
+    "colombia_historia": {
+      "responses": [
+        {
+          "answer": "b",
+          "explanation": "Las dos afirmaciones argumentan a favor del vegetarianismo, pero la segunda afirma que el consumo de productos de origen animal es un acto amoral, mientras que la primera afirma que es nocivo para los humanos."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d reconoce la posibilidad de que la pobreza y la falta de oportunidades puedan llevar a la delincuencia, lo que socava la afirmaci\u00f3n de que las personas de escasos recursos econ\u00f3micos ser\u00edan un peligro para los habitantes actuales del barrio."
+        },
+        {
+          "answer": "a",
+          "explanation": "La afirmaci\u00f3n afirma que en muchos pa\u00edses, gran parte de la poblaci\u00f3n masculina y femenina es homosexual. Esta afirmaci\u00f3n es un estereotipo com\u00fan que no se ha demostrado."
+        },
+        {
+          "answer": "c",
+          "explanation": "El orden cronol\u00f3gico es 3, 1, 2 y 4."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las dos posiciones adoptan diferentes estrategias para combatir el narcotr\u00e1fico: una propone la legalizaci\u00f3n y la otra propone endurecer las sanciones."
+        },
+        {
+          "answer": "d",
+          "explanation": "La opci\u00f3n d es la correcta ya que la decisi\u00f3n se tom\u00f3 teniendo en cuenta los intereses de todos los propietarios, quienes tuvieron la oportunidad de exponer sus ideas y votar."
+        },
+        {
+          "answer": "a",
+          "explanation": "La soluci\u00f3n busca un equilibrio entre los intereses de la constructora y los ambientalistas, al modificar los planos de construcci\u00f3n para reducir el impacto ambiental."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las tres propuestas buscan abordar los problemas relacionados con la urbanizaci\u00f3n en Am\u00e9rica Latina, que es densificar las ciudades, legalizar los barrios de invasi\u00f3n y aumentar la oferta de transporte p\u00fablico, lo que se ajusta a la soluci\u00f3n para los costos sociales y econ\u00f3micos de la expansi\u00f3n urbana."
+        },
+        {
+          "answer": "c",
+          "explanation": "El referendo es el procedimiento legal para modificar la Constituci\u00f3n Pol\u00edtica de Colombia."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n Pol\u00edtica de Colombia establece que un ciudadano puede presentar una iniciativa popular para reformar una ley."
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n solo puede ser reformada por una Asamblea Constituyente, no por el Ejecutivo."
+        },
+        {
+          "answer": "c",
+          "explanation": "Los se\u00f1alamientos en contra del alcalde se basan en la afirmaci\u00f3n de que las inversiones en v\u00edas e iluminaci\u00f3n no estaban planeadas inicialmente, lo que sugiere un posible uso pol\u00edtico de las autoridades."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es correcta ya que, durante el estado de excepci\u00f3n, el poder p\u00fablico se puede modificar, incluyendo el presupuesto."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es la Rama Legislativa. La Constituci\u00f3n Pol\u00edtica de Colombia otorga a la Rama Legislativa el poder de citar a un debate de control pol\u00edtico y presentar mociones de censura."
+        },
+        {
+          "answer": "b",
+          "explanation": "El referendo es el mecanismo de participaci\u00f3n directa adecuado para que el presidente pueda adelantar su iniciativa, ya que permite a la ciudadan\u00eda tomar decisiones vinculantes sobre temas de inter\u00e9s p\u00fablico."
+        },
+        {
+          "answer": "c",
+          "explanation": "La Patria Boba representa un per\u00edodo de fuerte violencia pol\u00edtica y guerrillismo en Colombia, entre las d\u00e9cadas de 1940 y 1950."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d explica que el autor advierte de los peligros de un modelo democr\u00e1tico electoral polarizado por dos partidos pol\u00edticos tradicionales."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d es correcta ya que las medidas mencionadas apuntan a reducir el tama\u00f1o del Estado y su participaci\u00f3n en la regulaci\u00f3n de actividades econ\u00f3micas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La propuesta busca fomentar la productividad mediante la eliminaci\u00f3n de obst\u00e1culos y la mejora de las condiciones para los empresarios, caracter\u00edsticas clave de la democracia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta a la pregunta se encuentra en la afirmaci\u00f3n de que la eficiencia no puede ser antag\u00f3nica con la equidad. La postura cr\u00edtica frente al modelo neoliberal se afirma al reconocer el papel central del Estado en la buena gesti\u00f3n y administraci\u00f3n de los recursos p\u00fablicos."
+        },
+        {
+          "answer": "c",
+          "explanation": "El fragmento del texto explica c\u00f3mo el proteccionismo se utiliza para proteger a las empresas nacionales de la competencia extranjera. Por lo tanto, solo se justificar\u00eda el uso del modelo proteccionista en un pa\u00eds cuando importa un buen n\u00famero de alimentos que se producen en su territorio."
+        },
+        {
+          "answer": "b",
+          "explanation": "La definici\u00f3n del Centro Nacional de Memoria Hist\u00f3rica de Colombia relaciona el desplazamiento forzado con los intereses econ\u00f3micos de los actores en conflicto, lo que permite entender las ra\u00edces del conflicto y las motivaciones de las partes."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es que la secuencia cronol\u00f3gica es Revoluci\u00f3n mexicana, Revoluci\u00f3n rusa, Revoluci\u00f3n cubana, Revoluci\u00f3n nicarag\u00fcense."
+        },
+        {
+          "answer": "d",
+          "explanation": "Las alternativas 1 y 2 coinciden en que ambos seten problemas relacionados con la escasa disponibilidad de recursos naturales no renovables y la desigualdad en la propiedad de la tierra, respectivamente, como causas del conflicto agrario en Colombia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La acci\u00f3n de tutela se presenta ante un juez cuando se vulnera el derecho a la salud, porque est\u00e1 en riesgo la vida de la persona."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b explica la tendencia de las personas y familias con ingresos medios y altos a mudarse a las zonas perif\u00e9ricas, en busca de una mejor calidad de vida."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es la c. Las movilizaciones y acciones que visibilizan a personas con orientaci\u00f3n sexual diferente a la general, son fundamentales en el desarrollo de la igualdad y del respeto por la diferencia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a es correcta. La Revoluci\u00f3n Industrial condujo al traslado del campo a la ciudad y al surgimiento del proletariado urbano."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es correcta. Una constituci\u00f3n establece un orden jur\u00eddico y un marco normativo que delimita el poder del Estado y establece qu\u00e9 es legal."
+        },
+        {
+          "answer": "c",
+          "explanation": "La posici\u00f3n del funcionario minimiza la gravedad de los actos de violencia contra las mujeres, lo que podr\u00eda tener como consecuencia la falta de reconocimiento de la necesidad de tomar medidas para prevenirlos."
+        },
+        {
+          "answer": "c",
+          "explanation": "Una organizaci\u00f3n busca mantener el ecosistema, mientras que la otra busca ayudar a los campesinos a obtener un empleo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La alternativa c describe correctamente la medida que los Estados latinoamericanos adoptaron para contrarrestar la crisis de 1929."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d describe la pr\u00e1ctica de aplicar impuestos m\u00e1s altos a los ingresos y propiedades de las personas m\u00e1s ricas."
+        },
+        {
+          "answer": "d",
+          "explanation": "El socialismo busca la propiedad colectiva de los medios de producci\u00f3n y la organizaci\u00f3n de los trabajadores para lograr la igualdad social, pol\u00edtica y econ\u00f3mica."
+        },
+        {
+          "answer": "c",
+          "explanation": "El \u00e9xito en Bogot\u00e1 no es necesariamente replicable en otras ciudades, debido a las diferentes necesidades y demandas de la poblaci\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "Palestina a\u00fan no ha recibido el reconocimiento internacional como un Estado independiente, lo que significa que a\u00fan no tiene fronteras definitivas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La decisi\u00f3n del Consejo Acad\u00e9mico vulnera el derecho de los estudiantes a tener y utilizar mecanismos de participaci\u00f3n, ya que no se realizan elecciones ordinarias."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La Constituci\u00f3n establece principios de igualdad entre hombres y mujeres, lo que incluye el acceso a la educaci\u00f3n. El profesor no puede discriminar a sus estudiantes \u00fanicamente por su sexo al tomar decisiones sobre quienes pueden hablar en clase."
+        },
+        {
+          "answer": "c",
+          "explanation": "La Constituci\u00f3n establece la protecci\u00f3n de la diversidad \u00e9tnica y cultural como una de sus obligaciones."
+        },
+        {
+          "answer": "a",
+          "explanation": "El plan de gobierno proporciona informaci\u00f3n sobre las propuesto y estrategias para combatir la criminalidad."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) enfatiza la libertad individual y la autonom\u00eda de los ciudadanos en cuanto a la toma de decisiones sobre el consumo de drogas."
+        },
+        {
+          "answer": "c",
+          "explanation": "La declaraci\u00f3n atribuye la responsabilidad de la violencia sexual a las mujeres, sugeryendo que las mujeres deben cambiar su comportamiento para evitar la violencia, en lugar de abordar las causas reales de la violencia sexual."
+        },
+        {
+          "answer": "c",
+          "explanation": "La propuesta implica un conflicto entre los intereses de los residentes, que buscan seguridad, y los de los dem\u00e1s habitantes de la ciudad, que podr\u00edan verse afectados por el cierre de los sectores. Tambi\u00e9n hay un conflicto entre los intereses de los residentes y los del gobierno local, que debe tomar la decisi\u00f3n."
+        },
+        {
+          "answer": "b",
+          "explanation": "La decisi\u00f3n de la Corte Constitucional respalda la libertad de conciencia del soldado, que se contrapone con la alternativa de ordenarle cumplir el servicio militar obligatorio."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d vulnera m\u00e1s el derecho a la educaci\u00f3n al reducir el n\u00famero de horas de clases y trasladar a los ni\u00f1os a escuelas no inundadas dos veces a la semana, lo que podr\u00eda afectar la calidad de la educaci\u00f3n."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta correcta es la c. La econom\u00eda y la ambiental est\u00e1n en conflicto. China necesita reducir su dependencia de las industrias pesadas para combatir la contaminaci\u00f3n, pero estas industrias representan un importante porcentaje del PIB."
+        },
+        {
+          "answer": "d",
+          "explanation": "La expulsi\u00f3n de los vendedores ambulantes de las inmediaciones del colegio podr\u00eda disminuir los ingresos de las familias que depend\u00edan de esas ventas."
+        }
+      ],
+      "score": 0.5918367346938775
+    }
+  }
+}

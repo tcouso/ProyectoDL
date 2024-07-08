@@ -1,0 +1,157 @@
+{
+  "gemma-7b-it": {
+    "colombia_lenguaje": {
+      "responses": [
+        {
+          "answer": "a",
+          "explanation": "El contexto m\u00e1s adecuado para incluir el pasaje es en una revista acad\u00e9mica, donde se discute la historia y la importancia de los conceptos filos\u00f3ficos de Descartes."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta ya que la respuesta presenta una posici\u00f3n discutible sobre el papel de las colitas en el origen del g\u00e9nero, cuestionando la afirmaci\u00f3n de que estas fueron las \u00fanicas que divulgaron el vallenato moderno."
+        },
+        {
+          "answer": "d",
+          "explanation": "La \u00faltima frase del texto indica que los acordeoneros viajaban a Urumita para asistir a las colitas."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que el protagonista es sensible y tiene angustias, lo que se confirma a lo largo del fragmento, ya que se siente desanimado, sin prop\u00f3sito y con un sentido de vac\u00edo en su vida."
+        },
+        {
+          "answer": "b",
+          "explanation": "El texto explica c\u00f3mo Internet ha modificado el concepto tradicional de l\u00edmite, tal como lo han definido la etolog\u00eda y la antropolog\u00eda."
+        },
+        {
+          "answer": "c",
+          "explanation": "El autor menciona a las naciones que se forman fuera de las fronteras f\u00edsicas en referencia al encuentro virtual de personas de diferentes pensamientos."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta a la pregunta se encuentra en el \u00faltimo p\u00e1rrafo del texto, donde se afirma que las empresas buscan distraernos a como d\u00e9 lugar para poder recopilar informaci\u00f3n de los usuarios."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase expone la idea de que la era digital ha llevado a nuevas formas de leer y pensar, que pueden conducir incluso a una nueva forma de ser."
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta afirma que la democracia se refiere a la mayor\u00eda de las corrientes pol\u00edticas existentes."
+        },
+        {
+          "answer": "a",
+          "explanation": "La afirmaci\u00f3n i afirma que el votante medio no podr\u00eda explicar en cinco minutos qu\u00e9 es la democracia. El texto sugiere que los pensadores pol\u00edticos no se preocupan de la causa democr\u00e1tica hasta el siglo XIX, lo que implica que la mayor\u00eda de los votantes modernos apenas pueden explicar en cinco minutos qu\u00e9 es la democracia."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta b enfatiza que todas las teor\u00edas, cuentos de hadas y mitos forman parte del conocimiento, de acuerdo con la perspectiva liberal del autor."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es incompatible con las pol\u00edticas del Partido, ya que el texto describe una sociedad donde los ciudadanos tienen que ser obedientes y rendirse completamente a la autoridad del Gran Hermano, descartando la idea de fidelidad a uno mismo."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase describe el prop\u00f3sito del r\u00e9gimen de controlar y dominar a los ciudadanos."
+        },
+        {
+          "answer": "c",
+          "explanation": "La palabra 'irrecusable' significa que es imposible de deshacer o reemplazar."
+        },
+        {
+          "answer": "c",
+          "explanation": "El resumen omite el tono ir\u00f3nico y burl\u00f3n con que la autora se refiere al arte de la fotograf\u00eda."
+        },
+        {
+          "answer": "a",
+          "explanation": "La descripci\u00f3n de los indios de Ibagu\u00e9 feita por Aguado presenta a los ind\u00edgenas en una situaci\u00f3n de 'salvajismo' absoluto, sugiriendo un per\u00edodo anterior a la llegada de los espa\u00f1oles al continente americano."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta se ajusta a la afirmaci\u00f3n del historiador Jaime Humberto Borja, quien sostiene que la Recopilaci\u00f3n historial es un texto ideol\u00f3gico que presenta una visi\u00f3n ret\u00f3rica del ind\u00edgena, m\u00e1s que una representaci\u00f3n precisa de la realidad."
+        },
+        {
+          "answer": "a",
+          "explanation": "El autor menciona la guerra con M\u00e9xico como un ejemplo de las acciones que pueden tomar los gobiernos incluso cuando estas no est\u00e1n de acuerdo con la opini\u00f3n del pueblo."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta correcta es la b, ya que el aforismo afirma que la principal diferencia entre los sistemas filos\u00f3ficos es la manera de escamotear los problemas."
+        },
+        {
+          "answer": "a",
+          "explanation": "La autora cuestiona la afirmaci\u00f3n de que hablar sobre la personalidad, las emociones y la motivaci\u00f3n de los animales es irrelevante o incorrecto."
+        },
+        {
+          "answer": "a",
+          "explanation": "El texto afirma que a todos nos atrae lo bello y que el arte lo recoge en la pintura."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que la hermosa de un cuadro reside en la belleza de su tema, lo que es falso seg\u00fan el texto."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto habla sobre la representaci\u00f3n de la belleza en el arte, enfatizando que la belleza de un cuadro no reside realmente en la belleza de su tema."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto afirma que la justicia y la injusticia ofrecen las mismas ventajas, contradice la opci\u00f3n c."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d establece que la justicia no ofrece las mismas ventajas individuales que la injusticia."
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta a la pregunta se encuentra en la \u00faltima frase de la pasaje, donde se explica que la justicia solo tiene sentido cuando es forzada, ya que de otro modo, la gente la vio como un bien individual y actuar\u00eda en consecuencia."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que la justicia es un ideal inalcanzable, ya que toda persona, por m\u00e1s justa que aparente ser, tiene intereses propios que pueden llevarla a cometer injusticias."
+        },
+        {
+          "answer": "c",
+          "explanation": "El autor presenta el relato del anillo de Giges para ilustrar que todos los hombres tienen la capacidad de cometer injusticias, independientemente de su comportamiento nominal. "
+        },
+        {
+          "answer": "c",
+          "explanation": "La consulta afirma que el amor verdadero como fundamento del matrimonio es una idea relativamente reciente, surgiendo en el siglo XVIII con el movimiento rom\u00e1ntico."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la idea de que el matrimonio se basa \u00fanicamente en el amor es relativamente reciente, y que otras culturas no aceptan este concepto."
+        },
+        {
+          "answer": "c",
+          "explanation": "La frase dice que el matrimonio se convert\u00eda en la estructura que garantizaba la supervivencia de la familia extendida, incluyendo abuelos, hermanos y sobrinos. Esto es equivalente a decir que el matrimonio era una alianza entre grupos, no un acuerdo basado \u00fanicamente en el enamoramiento individual."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta describe c\u00f3mo la asociaci\u00f3n entre el amor y el matrimonio no es un concepto universal, y que en ciertas culturas se ha visto de forma diferente a otras."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta d afirma que el matrimonio se convirti\u00f3 en la principal forma de institucionalizar el amor conyugal en el siglo XIX. Sin embargo, el texto presenta evidencia de que el matrimonio como instituci\u00f3n preexiste desde la Edad Media, con prop\u00f3sitos econ\u00f3micos y pol\u00edticos, antes de que se asociara con el amor."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "El autor dice que muchos fulbes africanos no consideran que el amor sea una condici\u00f3n necesaria para el matrimonio, lo que implica que el matrimonio entre estos grupos no se basa \u00fanicamente en el amor entre c\u00f3nyuges."
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto explica que el matrimonio es una instituci\u00f3n que ha evolucionado a lo largo de la historia y se ha adaptado a diferentes contextos hist\u00f3ricos y sociales."
+        }
+      ],
+      "score": 0.3783783783783784
+    }
+  }
+}

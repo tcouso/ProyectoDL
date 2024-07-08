@@ -1,0 +1,329 @@
+{
+  "gemma-7b-it": {
+    "chile_historia": {
+      "responses": [
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a representa el principal desaf\u00edo para el Estado chileno al promover el desarrollo sostenible. La explotaci\u00f3n a corto plazo de los recursos no renovables contradice los principios b\u00e1sicos del desarrollo sostenible."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es reducir la utilizaci\u00f3n de combustibles f\u00f3siles, ya que esto contribuye a disminuir las emisiones de gases de efecto invernadero y, por lo tanto, reducir el calentamiento global."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "e",
+          "explanation": "La \u00faltima opci\u00f3n indica que la OCDE ha instado a sus miembros a aumentar la generaci\u00f3n de energ\u00eda a partir de fuentes limpias como el viento y la solar, como parte de las estrategias para combatir el cambio clim\u00e1tico."
+        },
+        {
+          "answer": "b",
+          "explanation": "El desaf\u00edo principal reside en modificar el modelo de gesti\u00f3n del agua, promoviendo su uso racional y sostenible para afrontar la carga de residuos y desechos t\u00f3xicos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La respuesta correcta es el crecimiento urbano de las ciudades intermedias. El desarrollo de grandes centros urbanos ha provocado un aumento de la generaci\u00f3n de residuos s\u00f3lidos en las ciudades."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d presenta la causa principal, ya que la escasa reinversi\u00f3n de los recursos generados en la propia regi\u00f3n puede afectar la capacidad de los gobiernos regionales para gestionar y afrontar eventuales desastres."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "e",
+          "explanation": "La informaci\u00f3n debe poder relacionarse y actualizarse con las decisiones a\u00a0debater para que sea un aporte efectivo a la participaci\u00f3n ciudadana."
+        },
+        {
+          "answer": "a",
+          "explanation": "Las opciones correctas son a) Aprobar o rechazar las leyes que rigen el sistema pol\u00edtico."
+        },
+        {
+          "answer": "a",
+          "explanation": "El objetivo principal del programa es mejorar el acceso a la justicia para todas las personas, ofreciendo mecanismos de resoluci\u00f3n de conflictos vecinales y comunitarios."
+        },
+        {
+          "answer": "d",
+          "explanation": "La \u00faltima alternativa indica que los pueblos originarios exigen el reconocimiento legal de su autonom\u00eda territorial, lo que es una de sus principales demandas actuales."
+        },
+        {
+          "answer": "e",
+          "explanation": "La respuesta correcta es el matrimonio entre personas del mismo sexo. La legalizaci\u00f3n del matrimonio entre personas del mismo sexo en Chile es una acci\u00f3n concreta que ha resuelto en alguna medida parte de las demandas de los grupos que buscan un mejor reconocimiento de sus derechos."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "b",
+          "explanation": "La noticia muestra el compromiso del Estado chileno en la promoci\u00f3n de los derechos esenciales de las personas, como lo refleja la aceptaci\u00f3n de refugiados."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "El sufragio en Chile es igualitario al interior de cada una de las comunidades votantes, lo que significa que todos los ciudadanos y ciudadanas mayores de edad tienen la oportunidad de votar, independientemente de su condici\u00f3n social, ingresos, sexo o cualquier otra caracter\u00edstica."
+        },
+        {
+          "answer": "d",
+          "explanation": "La baja participaci\u00f3n electoral representa un desaf\u00edo para la democracia en Chile, por lo que es necesario tomar medidas para fomentar la participaci\u00f3n de los ciudadanos."
+        },
+        {
+          "answer": "b",
+          "explanation": "El Modelo Proporcional Inclusivo busca distribuir el poder pol\u00edtico en m\u00e1s de dos coaliciones, lo que mejoraba la representaci\u00f3n pol\u00edtica de la ciudadan\u00eda."
+        },
+        {
+          "answer": "c",
+          "explanation": "La opci\u00f3n c es correcta. El Estado chileno durante el siglo XIX articul\u00f3 un sistema financiero moderno a trav\u00e9s de un banco central."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta indica que las relaciones entre Estados Unidos y Am\u00e9rica Latina tienen su origen en el recelo de Estados Unidos a la expansi\u00f3n y hegemon\u00eda de potencias extranjeras en el continente."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La opci\u00f3n a indica que la Constituci\u00f3n de 1833 extendi\u00f3 la ciudadan\u00eda a la mayor\u00eda de la poblaci\u00f3n, lo que represent\u00f3 un avance en las libertades individuales."
+        },
+        {
+          "answer": "b",
+          "explanation": "El prop\u00f3sito de la exploraci\u00f3n geogr\u00e1fica en Chile durante el siglo XIX era identificar los recursos naturales y definir los l\u00edmites del nuevo Estado."
+        },
+        {
+          "answer": "e",
+          "explanation": "El fragmento describe la visi\u00f3n de Bilbao de la libertad como la base de la sociedad y el gobierno."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La foto muestra la subordinaci\u00f3n de la poblaci\u00f3n local ante los europeos, con trabajadores forzados a trabajar en condiciones del m\u00e1s alto riesgo."
+        },
+        {
+          "answer": "e",
+          "explanation": "Los territorios hacia donde Chile dirigi\u00f3 su expansi\u00f3n ten\u00edan un potencial exportador de materias primas."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b dice que la influencia de las formas de trabajo campetizas en las nuevas actividades industriales urbanas es uno de los factores que explica este proceso."
+        },
+        {
+          "answer": "a",
+          "explanation": "La ley regula las inhumaciones en los cementerios p\u00fablicos, reflejando un aumento de las facultades de los gobiernos locales para tomar decisiones sobre la higiene y la modernizaci\u00f3n urbana."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d afirma que la riqueza salitrera estimul\u00f3 la actividad fabril, lo que es correcto seg\u00fan el contexto hist\u00f3rico descrito."
+        },
+        {
+          "answer": "b",
+          "explanation": "La interpretaci\u00f3n menciona un conflicto institucional entre los poderes Ejecutivo y Legislativo."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) habla sobre los conflictos sociales que se agudizaban ante la mirada indiferente de la \u00e9lite."
+        },
+        {
+          "answer": "b",
+          "explanation": "La alternativa b es correcta ya que afirma que la deuda de Inglaterra (4.600 millones de d\u00f3lares)  provoca una dependencia econ\u00f3mica respecto de Estados Unidos que se extendi\u00f3 a lo cultural y pol\u00edtico."
+        },
+        {
+          "answer": "d",
+          "explanation": "La cita destaca la influencia cultural y el estilo de vida estadounidenses, a trav\u00e9s de pel\u00edculas, en el mundo durante la era de entreguerras."
+        },
+        {
+          "answer": "e",
+          "explanation": "La alternativa e propone minimizar el poder de los partidos pol\u00edticos como soluci\u00f3n a las convulsiones pol\u00edticas, sociales y econ\u00f3micas de la \u00e9poca."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d explica que la crisis de 1929 llev\u00f3 a la diversificaci\u00f3n de la inversi\u00f3n extranjera, buscando otros sectores m\u00e1s diversificados y menos vulnerables a la crisis."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d es correcta. Los totalitarismos enfatizan la vigilancia social del Estado policial como herramienta de control social."
+        },
+        {
+          "answer": "d",
+          "explanation": "Tanto la ONU como la Sociedad de las Naciones ten\u00edan como objetivo mantener la paz y seguridad entre los pa\u00edses del mundo."
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d dice que las pol\u00edticas genocidas aplicadas por algunos reg\u00edmenes totalitarios eran contrarias a la dignidad y los Derechos Humanos."
+        },
+        {
+          "answer": "e",
+          "explanation": "La respuesta correcta es la opci\u00f3n e. La Segunda Guerra Mundial marc\u00f3 un punto de inflexi\u00f3n en la pol\u00edtica mundial, con la intervenci\u00f3n de las grandes potencias en la conformaci\u00f3n de los nuevos estados, el resurgimiento del comunismo en Europa Occidental como ideolog\u00eda dominante y la b\u00fasqueda de nuevas formas de dominio y estrategia por parte de las grandes potencias."
+        },
+        {
+          "answer": "b",
+          "explanation": "La respuesta apunta a la existencia de problemas lim\u00edtrofes entre los nuevos estados independientes, lo que es evidente a la luz de las dificultades para gestionar las nuevas realidades pol\u00edticas y sociales."
+        },
+        {
+          "answer": "d",
+          "explanation": "La autora destaca la escasa educaci\u00f3n y el escaso poder de decisi\u00f3n de las mujeres en las zonas rurales del sur de Chile."
+        },
+        {
+          "answer": "a",
+          "explanation": "La instalaci\u00f3n de misiles de la Uni\u00f3n Sovi\u00e9tica en Cuba y el bloqueo a la isla impuesto por Estados Unidos en respuesta a este evento fueron eventos clave en la pol\u00edtica exterior de Am\u00e9rica Latina durante la Guerra Fr\u00eda."
+        },
+        {
+          "answer": "a",
+          "explanation": "El mejoramiento del acceso al sistema de salud para el conjunto de la poblaci\u00f3n fue un proceso asociado al desarrollo econ\u00f3mico y social experimentado por Estados Unidos y las sociedades europeas occidentales durante la expansi\u00f3n del modelo de Estado de Bienestar."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "e",
+          "explanation": "La respuesta correcta es la e. La cita indica que el MINVU fue creado para centralizar la planificaci\u00f3n habitacional y urbana a nivel pa\u00eds, lo que sugiere que el Estado chileno dise\u00f1\u00f3 una estrategia global para abordar el d\u00e9ficit habitacional en las \u00e1reas urbanas."
+        },
+        {
+          "answer": "e",
+          "explanation": "El texto describe la diferenciaci\u00f3n identitaria de la juventud, la capitalizaci\u00f3n de la cultura juvenil por el mercado discogr\u00e1fico y el surgimiento del sector joven como agente de cambio social."
+        },
+        {
+          "answer": "d",
+          "explanation": "La falta de mano de obra y la escasa capacidad tecnol\u00f3gica del pa\u00eds contribuyeron a la crisis del ISI en Chile en la d\u00e9cada de 1960."
+        },
+        {
+          "answer": "a",
+          "explanation": "La alternativa a) indica que Estados Unidos vio el gobierno de Castro como una amenaza a su posici\u00f3n estrat\u00e9gica en las principales rutas comerciales de Centroam\u00e9rica."
+        },
+        {
+          "answer": "b",
+          "explanation": "La opci\u00f3n b es correcta. La Reforma Agraria chilena (1962 -1973) se caracteriz\u00f3 por la organizaci\u00f3n de instituciones fiscales que realizaron la redistribuci\u00f3n de la tierra."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "Las formulaciones mencionadas se relacionan con la suspensi\u00f3n de derechos civiles y pol\u00edticos, ya que establecen un control total del poder y suprimen los mecanismos t\u00edpicos de un sistema democr\u00e1tico."
+        },
+        {
+          "answer": "d",
+          "explanation": "La respuesta correcta es la d. Los gobiernos elegidos abordaron la situaci\u00f3n mediante el juicio y la condena de los responsables, adem\u00e1s de la realizaci\u00f3n de investigaciones y la implementaci\u00f3n de mecanismos de reparaci\u00f3n para las v\u00edctimas."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "La respuesta c es correcta ya que las reformas y la reestructuraci\u00f3n de la econom\u00eda sovi\u00e9tica en el \u00faltimo cuarto del siglo XX impulsaron cambios profundos que finalmente llevaron al colapso del sistema."
+        },
+        {
+          "answer": "b",
+          "explanation": "Esta d\u00e9cada estuvo marcada por la formaci\u00f3n de un nuevo equilibrio entre EE.UU. y China, que se convirti\u00f3 en los principales poderes del mundo."
+        },
+        {
+          "answer": "e",
+          "explanation": "La alternativa e se\u00f1ala que el modelo neoliberal implementado en Chile durante la d\u00e9cada de 1990 fue criticado por la desigualdad en la distribuci\u00f3n del ingreso a nivel nacional."
+        },
+        {
+          "answer": "b",
+          "explanation": "La cita menciona que el objetivo principal de la pol\u00edtica era mejorar las v\u00edas de comunicaci\u00f3n para facilitar el traslado de bienes y personas."
+        },
+        {
+          "answer": "c",
+          "explanation": "Las empresas transnacionales pueden abrir filiales en pa\u00edses en desarrollo para reducir los costos de producci\u00f3n, ya que los costos de mano de obra y los costos de los procesos productivos suelen ser m\u00e1s bajos en esos pa\u00edses."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "a",
+          "explanation": "La imagen muestra la multifuncionalidad de los equipos tecnol\u00f3gicos actuales, que pueden satisfacer diversas necesidades y usos."
+        },
+        {
+          "answer": "b",
+          "explanation": "El establecimiento de relaciones comerciales con otros pa\u00edses tiene como objetivo tanto dinamar el mercado de exportaci\u00f3n como extender la inversi\u00f3n de capitales en el exterior."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "e",
+          "explanation": "La gr\u00e1fica ilustra que hay un aumento en la apertura econ\u00f3mica global, la liberalizaci\u00f3n y la diversificaci\u00f3n de las econom\u00edas de los pa\u00edses en desarrollo."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "d",
+          "explanation": "La alternativa d se\u00f1ala que Chile ha implementado la diversificaci\u00f3n de la producci\u00f3n de bienes y servicios para el comercio internacional, lo que aumenta las posibilidades de venta y la inserci\u00f3n en el mercado global."
+        },
+        {
+          "answer": "e",
+          "explanation": "La alternativa e indica que el aumento de la demanda mundial por recursos mineros y silvoagropecuarios es una causa probable del incremento de las exportaciones de Chile a partir de 2003."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        },
+        {
+          "answer": "c",
+          "explanation": "El texto describe c\u00f3mo el cr\u00e9dito se utiliza para financiar la compra de bienes, lo que es una transformaci\u00f3n econ\u00f3mica com\u00fan en las \u00faltimas d\u00e9cadas en Chile."
+        },
+        {
+          "answer": "",
+          "explanation": "Error: Invalid response format"
+        }
+      ],
+      "score": 0.425
+    }
+  }
+}
