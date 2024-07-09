@@ -1,0 +1,486 @@
+---
+title: "Post procesamiento Evaluación de llms"
+output: 
+  html_document: 
+    fig_width: 6
+    fig_height: 4
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+
+
+library(tidyverse)
+library(kableExtra)
+library(psych)
+library(DT)
+
+
+
+load("eval_results.Rdata")
+
+```
+
+## Resultados descriptivos
+
+```{r}
+
+df%>%
+  select(Model,Country,subject,item_id,correct)%>%
+  group_by(Model,Country,subject)%>%
+  summarise(correct=100*mean(correct))%>%
+  arrange(desc(correct))%>%
+  kable("pipe",col.names = c("Modelo", "País", "Materia", "Accuracy"), digits=2)
+
+```
+
+
+
+## Resultados Historia
+
+### Chile
+
+```{r}
+
+
+
+dfa<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="chile", subject=="historia") %>%
+  pivot_wider(names_from = item_id,values_from = correct)%>%
+  select(5:last_col())
+
+
+efa<-dfa%>%
+  tetrachoric()
+  
+  
+efa<-fa(r= as.matrix(efa$rho), nfactors=4,rotate="oblimin")
+  
+
+
+tb<-fa.lookup(efa,efa)%>%
+  mutate(item_id=as.numeric(row.names(.)),
+         Country="chile", subject="historia")%>%
+  select(-c(h2,com,y))%>%
+  pivot_longer(1:4,names_to = "lv")%>%
+  filter(value^2>=0.09)%>%
+  group_by(lv)%>%
+  arrange((lv),desc(value))%>%
+  left_join(test_df[,c(6,1,4,5)],by=c("item_id","Country","subject"))%>%
+  select(-c(item_id,Country,subject))%>%
+  mutate(lv= case_when(lv=="MR1" ~ "Transformaciones socioeconómicas en Chile",
+                       lv=="MR2" ~ "Historia contemporánea de Chile en el contexto internacional",
+                       lv=="MR3" ~ "Economía y comercio",
+                       lv=="MR4" ~ "Desarrollo territorial de Chile"))%>%
+  pivot_wider(names_from = lv)
+  
+  
+  datatable(tb, options = list(
+  pageLength = nrow(tb),  
+  searching = FALSE,      
+  dom = 't'
+))
+
+```
+
+
+
+```{r}
+
+
+iid<-fa.lookup(efa,efa)%>%
+  select(1:4)%>%
+  mutate(item_id=as.numeric(row.names(.)))
+
+
+
+scores<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="chile", subject=="historia") %>%
+  left_join(iid,by="item_id")%>%
+  mutate(MR1=MR1*correct,
+         MR2=MR2*correct,
+         MR3=MR3*correct,
+         MR4=MR4*correct)%>%
+  group_by(Model,trial_id)%>%
+  summarise(MR1=sum(MR1,na.rm=TRUE),
+            MR2=sum(MR2,na.rm=TRUE),
+            MR3=sum(MR3,na.rm=TRUE),
+            MR4=sum(MR4,na.rm=TRUE))%>%
+  ungroup()
+
+
+scores%>%
+  pivot_longer(starts_with("MR"))%>%
+  group_by(Model,name)%>%
+  summarise(value=mean(value))%>%
+  mutate(name= case_when(name=="MR1" ~ "Transformaciones socio-\neconómicas en Chile",
+                       name=="MR2" ~ "Historia contemporánea de Chile\nen el contexto internacional",
+                       name=="MR3" ~ "Economía y comercio",
+                       name=="MR4" ~ "Desarrollo territorial\nde Chile"))%>%
+  ggplot(aes(y=name,x=value,colour=Model,fill=Model))+
+  geom_col(alpha=.3,position = position_dodge())+
+  theme_minimal()+
+  theme(legend.position = "top")+
+  labs(
+    x="Factor score",
+    y="",
+    title="Evaluación de modelos en prueba de Historia, Chile")
+
+
+rbind(
+broom::tidy(kruskal.test(scores$MR1,scores$Model))%>%mutate(.y.="MR1"),
+broom::tidy(kruskal.test(scores$MR2,scores$Model))%>%mutate(.y.="MR2"),
+broom::tidy(kruskal.test(scores$MR3,scores$Model))%>%mutate(.y.="MR3"),
+broom::tidy(kruskal.test(scores$MR4,scores$Model))%>%mutate(.y.="MR4"))%>%
+mutate(.y.= case_when(.y.=="MR1" ~ "Transformaciones socioeconómicas en Chile",
+                       .y.=="MR2" ~ "Historia contemporánea de Chile en el contexto internacional",
+                       .y.=="MR3" ~ "Economía y comercio",
+                       .y.=="MR4" ~ "Desarrollo territorial  de Chile"))%>%
+  select(-c(parameter,method))%>%
+  relocate(.y.,.before = 1)%>%
+  kable("pipe",digits=2,caption="Kruskal-walis ANOVA")
+
+```
+
+
+
+## Colombia
+
+
+
+```{r}
+
+
+
+dfa<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="colombia", subject=="historia") %>%
+  pivot_wider(names_from = item_id,values_from = correct)%>%
+  select(5:last_col())
+
+
+efa<-dfa%>%
+  tetrachoric()
+  
+  
+efa<-fa(r= as.matrix(efa$rho), nfactors=4,rotate="oblimin")
+  
+
+
+tb<- fa.lookup(efa,efa)%>%
+  mutate(item_id=as.numeric(row.names(.)),
+         Country="colombia", subject="historia")%>%
+  select(-c(h2,com,y))%>%
+  pivot_longer(1:4,names_to = "lv")%>%
+  filter(value^2>=0.09)%>%
+  group_by(lv)%>%
+  arrange((lv),desc(value))%>%
+  left_join(test_df[,c(6,1,4,5)],by=c("item_id","Country","subject"))%>%
+  select(-c(item_id,Country,subject))%>%
+  # filter(lv=="MR1")%>%print.AsIs()
+  mutate(lv= case_when(lv=="MR1" ~ "Análisis crítico y toma de decisiones",
+                       lv=="MR2" ~ "Analizar fenómenos y políticas sociales",
+                       lv=="MR3" ~ "Comprensión de conceptos políticos y sociales ",
+                       lv=="MR4" ~ "Interpretación contextual y evaluación crítica"))%>%
+  pivot_wider(names_from = lv)
+  
+  
+  datatable(tb, options = list(
+  pageLength = nrow(tb),  
+  searching = FALSE,      
+  dom = 't'
+))
+
+```
+
+```{r}
+
+
+iid<-fa.lookup(efa,efa)%>%
+  select(1:4)%>%
+  mutate(item_id=as.numeric(row.names(.)))
+
+
+
+
+scores<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="colombia", subject=="historia") %>%
+  left_join(iid,by="item_id")%>%
+  mutate(MR1=MR1*correct,
+         MR2=MR2*correct,
+         MR3=MR3*correct,
+         MR4=MR4*correct)%>%
+  group_by(Model,trial_id)%>%
+  summarise(MR1=sum(MR1,na.rm=TRUE),
+            MR2=sum(MR2,na.rm=TRUE),
+            MR3=sum(MR3,na.rm=TRUE),
+            MR4=sum(MR4,na.rm=TRUE))%>%
+  ungroup()
+
+
+scores%>%
+  pivot_longer(starts_with("MR"))%>%
+  group_by(Model,name)%>%
+  summarise(value=mean(value))%>%
+  mutate(name= case_when(name=="MR1" ~ "Análisis crítico y\ntoma de decisiones",
+                       name=="MR2" ~ "Analizar fenómenos y\npolíticas sociales",
+                       name=="MR3" ~ "Comprensión de conceptos\npolíticos y sociales ",
+                       name=="MR4" ~ "Interpretación contextual\ny evaluación crítica"))%>%
+  ggplot(aes(y=name,x=value,colour=Model,fill=Model))+
+  geom_col(alpha=.3,position = position_dodge())+
+  theme_minimal()+
+  theme(legend.position = "top")+
+  labs(
+    x="Factor score",
+    y="",
+    title="Evaluación de modelos en prueba de Historia, Colombia")
+
+
+rbind(
+broom::tidy(kruskal.test(scores$MR1,scores$Model))%>%mutate(.y.="MR1"),
+broom::tidy(kruskal.test(scores$MR2,scores$Model))%>%mutate(.y.="MR2"),
+broom::tidy(kruskal.test(scores$MR3,scores$Model))%>%mutate(.y.="MR3"),
+broom::tidy(kruskal.test(scores$MR4,scores$Model))%>%mutate(.y.="MR4"))%>%
+  mutate(.y.= case_when(.y.=="MR1" ~ "Análisis crítico y toma de decisiones",
+                       .y.=="MR2" ~ "Analizar fenómenos y políticas sociales",
+                       .y.=="MR3" ~ "Comprensión de conceptos políticos y sociales ",
+                       .y.=="MR4" ~ "Interpretación contextual y evaluación crítica"))%>%
+  select(-c(parameter,method))%>%
+  relocate(.y.,.before = 1)%>%
+  kable("pipe",digits=2,caption="Kruskal-walis ANOVA")
+
+```
+
+
+
+
+## Resultados Lenguaje
+
+### Chile
+
+
+
+```{r include=FALSE}
+
+
+
+dfa<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="chile", subject=="lenguaje") %>%
+  pivot_wider(names_from = item_id,values_from = correct)%>%
+  select(5:last_col())
+
+
+efa<-dfa%>%
+  tetrachoric()
+  
+  
+efa<-fa(r= as.matrix(efa$rho), nfactors=4,rotate="oblimin")
+  
+
+
+tb<- fa.lookup(efa,efa)%>%
+  mutate(item_id=as.numeric(row.names(.)),
+         Country="chile", subject="lenguaje")%>%
+  select(-c(h2,com,y))%>%
+  pivot_longer(1:4,names_to = "lv")%>%
+  filter(value^2>=0.09)%>%
+  group_by(lv)%>%
+  arrange((lv),desc(value))%>%
+  left_join(test_df[,c(6,1,4,5)],by=c("item_id","Country","subject"))%>%
+  select(-c(item_id,Country,subject))%>%
+  # filter(lv=="MR4")%>%print.AsIs()
+  mutate(lv= case_when(lv=="MR1" ~ "Interpretación de elementos culturales",
+                       lv=="MR2" ~ "Análisis factual",
+                       lv=="MR3" ~ "Interpretar lenguaje figurado",
+                       lv=="MR4" ~ "Identificación de ideas principales"))%>%
+  pivot_wider(names_from = lv)
+  
+  
+  datatable(tb, options = list(
+  pageLength = nrow(tb),  
+  searching = FALSE,      
+  dom = 't'
+))
+
+```
+
+
+
+```{r}
+
+
+iid<-fa.lookup(efa,efa)%>%
+  select(1:4)%>%
+  mutate(item_id=as.numeric(row.names(.)))
+
+
+
+scores<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="chile", subject=="historia") %>%
+  left_join(iid,by="item_id")%>%
+  mutate(MR1=MR1*correct,
+         MR2=MR2*correct,
+         MR3=MR3*correct,
+         MR4=MR4*correct)%>%
+  group_by(Model,trial_id)%>%
+  summarise(MR1=sum(MR1,na.rm=TRUE),
+            MR2=sum(MR2,na.rm=TRUE),
+            MR3=sum(MR3,na.rm=TRUE),
+            MR4=sum(MR4,na.rm=TRUE))%>%
+  ungroup()
+
+
+scores%>%
+  pivot_longer(starts_with("MR"))%>%
+  group_by(Model,name)%>%
+  summarise(value=mean(value))%>%
+  mutate(name= case_when(name=="MR1" ~ "Interpretación de\nelementos culturales",
+                       name=="MR2" ~ "Análisis factual",
+                       name=="MR3" ~ "Interpretar lenguaje figurado",
+                       name=="MR4" ~ "Identificación\nde ideas principales"))%>%
+  ggplot(aes(y=name,x=value,colour=Model,fill=Model))+
+  geom_col(alpha=.3,position = position_dodge())+
+  theme_minimal()+
+  theme(legend.position = "top")+
+  labs(
+    x="Factor score",
+    y="",
+    title="Evaluación de modelos en prueba de Lenguaje, Chile")
+
+
+rbind(
+broom::tidy(kruskal.test(scores$MR1,scores$Model))%>%mutate(.y.="MR1"),
+broom::tidy(kruskal.test(scores$MR2,scores$Model))%>%mutate(.y.="MR2"),
+broom::tidy(kruskal.test(scores$MR3,scores$Model))%>%mutate(.y.="MR3"),
+broom::tidy(kruskal.test(scores$MR4,scores$Model))%>%mutate(.y.="MR4"))%>%
+ mutate(.y.= case_when(.y.=="MR1" ~ "Interpretación de elementos culturales",
+                       .y.=="MR2" ~ "Análisis factual",
+                       .y.=="MR3" ~ "Interpretar lenguaje figurado",
+                       .y.=="MR4" ~ "Identificación de ideas principales"))%>%
+  select(-c(parameter,method))%>%
+  relocate(.y.,.before = 1)%>%
+  kable("pipe",digits=2,caption="Kruskal-walis ANOVA")
+
+```
+
+
+
+
+### Colombia
+
+
+
+```{r include=FALSE}
+
+
+
+dfa<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="colombia", subject=="lenguaje") %>%
+  pivot_wider(names_from = item_id,values_from = correct)%>%
+  select(5:last_col())
+
+
+efa<-dfa%>%
+  tetrachoric()
+  
+  
+efa<-fa(r= as.matrix(efa$rho), nfactors=4,rotate="oblimin")
+  
+
+
+tb<- fa.lookup(efa,efa)%>%
+  mutate(item_id=as.numeric(row.names(.)),
+         Country="colombia", subject="lenguaje")%>%
+  select(-c(h2,com,y))%>%
+  pivot_longer(1:4,names_to = "lv")%>%
+  filter(value^2>=0.09)%>%
+  group_by(lv)%>%
+  arrange((lv),desc(value))%>%
+  left_join(test_df[,c(6,1,4,5)],by=c("item_id","Country","subject"))%>%
+  select(-c(item_id,Country,subject))%>%
+  # filter(lv=="MR4")%>%print.AsIs()
+  mutate(lv= case_when(lv=="MR1" ~ "Análisis crítico",
+                       lv=="MR2" ~ "Deducción",
+                       lv=="MR3" ~ "Contextualización histórica y cultural",
+                       lv=="MR4" ~ "Evaluación y juicio"))%>%
+  pivot_wider(names_from = lv)
+  
+  
+  datatable(tb, options = list(
+  pageLength = nrow(tb),  
+  searching = FALSE,      
+  dom = 't'
+))
+
+```
+
+
+
+```{r}
+
+
+iid<-fa.lookup(efa,efa)%>%
+  select(1:4)%>%
+  mutate(item_id=as.numeric(row.names(.)))
+
+
+
+scores<-df%>%
+  select(Model,trial_id,Country,subject,item_id,correct)%>%
+  filter(Country=="colombia", subject=="lenguaje") %>%
+  left_join(iid,by="item_id")%>%
+  mutate(MR1=MR1*correct,
+         MR2=MR2*correct,
+         MR3=MR3*correct,
+         MR4=MR4*correct)%>%
+  group_by(Model,trial_id)%>%
+  summarise(MR1=sum(MR1,na.rm=TRUE),
+            MR2=sum(MR2,na.rm=TRUE),
+            MR3=sum(MR3,na.rm=TRUE),
+            MR4=sum(MR4,na.rm=TRUE))%>%
+  ungroup()
+
+
+scores%>%
+  pivot_longer(starts_with("MR"))%>%
+  group_by(Model,name)%>%
+  summarise(value=mean(value))%>%
+  mutate(name= case_when(name=="MR1" ~ "Análisis crítico",
+                       name=="MR2" ~ "Deducción",
+                       name=="MR3" ~ "Contextualización\nhistórica y cultural",
+                       name=="MR4" ~ "Evaluación y juicio"))%>%
+  ggplot(aes(y=name,x=value,colour=Model,fill=Model))+
+  geom_col(alpha=.3,position = position_dodge())+
+  theme_minimal()+
+  theme(legend.position = "top")+
+  labs(
+    x="Factor score",
+    y="",
+    title="Evaluación de modelos en prueba de Lenguaje, Colombia")
+
+
+
+rbind(
+broom::tidy(kruskal.test(scores$MR1,scores$Model))%>%mutate(.y.="MR1"),
+broom::tidy(kruskal.test(scores$MR2,scores$Model))%>%mutate(.y.="MR2"),
+broom::tidy(kruskal.test(scores$MR3,scores$Model))%>%mutate(.y.="MR3"),
+broom::tidy(kruskal.test(scores$MR4,scores$Model))%>%mutate(.y.="MR4"))%>%
+  mutate(.y.= case_when(.y.=="MR1" ~ "Análisis crítico",
+                       .y.=="MR2" ~ "Deducción",
+                       .y.=="MR3" ~ "Contextualización histórica y cultural",
+                       .y.=="MR4" ~ "Evaluación y juicio"))%>%
+  select(-c(parameter,method))%>%
+  relocate(.y.,.before = 1)%>%
+  kable("pipe",digits=2,caption="Kruskal-walis ANOVA")
+
+```
